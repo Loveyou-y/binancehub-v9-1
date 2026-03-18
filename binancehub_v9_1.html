@@ -92,6 +92,7 @@ body.dark .mobile-drawer{background:rgba(250,250,248,0.98)}
   .drawer.open{transform:translateY(0)!important}
   .learn-page{padding:16px!important}
   .tools-wrap{padding:16px!important}
+  .ai-panel{width:calc(100vw - 24px);right:0}
   .filter-bar{padding:10px 14px!important}
   .cat-bar{padding:12px 14px 0!important}
   .urg{margin:12px 14px 0!important}
@@ -747,7 +748,7 @@ body.dark .mobile-drawer{background:rgba(250,250,248,0.98)}
 .ai-orb:hover{transform:scale(1.08);box-shadow:0 10px 24px rgba(0,0,0,.22)}
 @keyframes orb{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
 .ai-panel{
-  position:absolute;bottom:60px;right:0;width:310px;
+  position:absolute;bottom:60px;right:0;width:420px;
   background:var(--bg2);border:1px solid rgba(240,185,11,.18);border-radius:18px;
   overflow:hidden;transform-origin:bottom right;
   transform:scale(.88) translateY(8px);opacity:0;pointer-events:none;
@@ -767,7 +768,7 @@ body.dark .mobile-drawer{background:rgba(250,250,248,0.98)}
 .aip-tabs{display:flex;border-bottom:1px solid var(--rim)}
 .aip-tab{flex:1;padding:8px;font-size:11px;font-weight:600;text-align:center;cursor:pointer;color:var(--t3);transition:all .15s}
 .aip-tab:hover{color:var(--t2)}.aip-tab.on{color:var(--gold);background:var(--gg)}
-.aip-msgs{padding:12px;max-height:200px;overflow-y:auto;display:flex;flex-direction:column;gap:8px}
+.aip-msgs{padding:12px;max-height:300px;overflow-y:auto;display:flex;flex-direction:column;gap:8px}
 .aip-msg{background:var(--bg3);border-radius:10px 10px 10px 3px;padding:9px 12px;font-size:11px;color:var(--t2);line-height:1.6}
 .aip-msg.user{background:var(--gs);border:1px solid rgba(240,185,11,.12);border-radius:10px 10px 3px 10px;color:var(--t1);text-align:right}
 .aip-msg strong{color:var(--gold)}
@@ -775,10 +776,15 @@ body.dark .mobile-drawer{background:rgba(250,250,248,0.98)}
 .aip-rec{background:var(--bg3);border:1px solid var(--rim);border-radius:9px;padding:9px 12px;cursor:pointer;transition:all .15s}
 .aip-rec:hover{border-color:rgba(240,185,11,.22);background:var(--gg)}
 .aip-rec-t{font-size:11px;font-weight:700;margin-bottom:2px;color:var(--t1)}.aip-rec-s{font-size:10px;color:var(--t2)}
-.aip-inp-row{padding:9px 12px;border-top:1px solid var(--rim);display:flex;gap:6px}
+.aip-inp-row{padding:9px 12px;border-top:1px solid var(--rim);display:flex;gap:6px;position:relative}
 .aip-inp{flex:1;background:var(--bg3);border:1px solid var(--rim);border-radius:7px;padding:6px 10px;color:var(--t1);font-size:11px;outline:none;font-family:var(--font);transition:border-color .18s}
 .aip-inp:focus{border-color:rgba(240,185,11,.3)}
 .aip-send{width:28px;height:28px;border-radius:7px;background:var(--gold);border:none;cursor:pointer;color:#000;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.ai-cmd-menu{position:absolute;bottom:48px;left:12px;right:12px;background:var(--bg2);border:1px solid var(--rim2);border-radius:10px;box-shadow:0 10px 24px rgba(0,0,0,.22);display:none;z-index:8;max-height:180px;overflow:auto}
+.ai-cmd-item{padding:8px 10px;border-bottom:1px solid var(--rim);cursor:pointer;font-size:11px;color:var(--t2);display:flex;align-items:center;justify-content:space-between;gap:8px}
+.ai-cmd-item:last-child{border-bottom:none}
+.ai-cmd-item:hover{background:var(--gg);color:var(--gold)}
+.ai-cmd-k{font-family:var(--mono);font-size:10px;color:var(--gold)}
 
 /* ══ TOAST ══════════════════════════════════════════ */
 .toast{
@@ -1573,11 +1579,12 @@ body.dark .mobile-drawer{background:rgba(250,250,248,0.98)}
     <div id="aiChat">
       <div class="aip-msgs" id="aiMsgs">
         <div class="aip-msg">嗨！我是 客服小何 🎓 用<strong>白话</strong>解释一切加密概念，随时问我～</div>
-        <div class="aip-msg">例如：<strong>「APY 和 APR 区别」</strong>、<strong>「如何参与 Launchpool」</strong>、<strong>「双币风险」</strong></div>
+        <div class="aip-msg">例如：<strong>「APY 和 APR 区别」</strong>、<strong>「如何参与 Launchpool」</strong>、<strong>「双币风险」</strong><br><span style="font-size:10px;color:var(--t3)">高级模式：输入 <code>/key sk-...</code> 可启用真实 AI 对话，<code>/clearkey</code> 清除密钥。</span></div>
       </div>
       <div class="aip-inp-row">
-        <input class="aip-inp" id="aiInp" placeholder="问我任何问题…" onkeydown="if(event.key==='Enter')sendAI()">
+        <input class="aip-inp" id="aiInp" placeholder="问我任何问题…（输入 / 查看指令）" onkeydown="handleAIInputKeydown(event)" oninput="handleAIInput(event)">
         <button class="aip-send" onclick="sendAI()">↑</button>
+        <div class="ai-cmd-menu" id="aiCmdMenu"></div>
       </div>
     </div>
     <div id="aiRec" style="display:none">
@@ -1844,13 +1851,47 @@ function cardSubscribed(c){
   return c.subscribed===true || c.sub===true;
 }
 
+function getCardPrimaryLink(card){
+  return card?.drawer?.details?.find(d=>d.link)?.link||'';
+}
+
+function mergeIncomingCards(baseCards,incomingCards){
+  const merged=[...baseCards];
+  const keyOf=(c)=>getCardPrimaryLink(c)||`${(c.title||'').trim()}::${(cardSubtitle(c)||'').trim()}`;
+  const idx=new Map();
+  merged.forEach((c,i)=>idx.set(keyOf(c),i));
+
+  for(const incoming of incomingCards){
+    const k=keyOf(incoming);
+    if(idx.has(k)){
+      // 保留原卡片详情（尤其 deadline / drawer 结构），仅补充缺失字段
+      const i=idx.get(k);
+      const base=merged[i];
+      merged[i]={
+        ...incoming,
+        ...base,
+        // 关键字段永远以原卡片优先，避免“剩余时间”被覆盖成“重点关注”
+        deadline: base.deadline || incoming.deadline,
+        deadlineSoon: base.deadlineSoon ?? incoming.deadlineSoon,
+        dlLabel: base.dlLabel || incoming.dlLabel,
+        nums: (base.nums&&base.nums.length)?base.nums:incoming.nums,
+        drawer: base.drawer||incoming.drawer,
+      };
+    }else{
+      merged.push(incoming);
+      idx.set(k,merged.length-1);
+    }
+  }
+  return merged;
+}
+
 async function loadCardsFromJson(){
   try{
     const res=await fetch('./data.json',{cache:'no-store'});
     if(!res.ok)throw new Error('no data.json');
     const json=await res.json();
     if(Array.isArray(json)&&json.length){
-      CARDS=json;
+      CARDS=mergeIncomingCards(CARDS,json);
     }
   }catch(e){
     console.info('使用内置活动数据（data.json 未就绪）');
@@ -3698,48 +3739,204 @@ function setAITab(tab,el){
   document.getElementById('aiRec').style.display=tab==='rec'?'':'none';
 }
 const AI_ANSWERS={
+  'btc':'BTC（比特币）是去中心化数字资产，总量上限 2100 万。你可在 Binance 现货购买、定投或通过理财产品参与；交易前先看波动和风险。',
+  '比特币':'BTC（比特币）是去中心化数字资产，总量上限 2100 万。你可在 Binance 现货购买、定投或通过理财产品参与；交易前先看波动和风险。',
   'apy':'APY（年化收益率）包含复利，APR（年化利率）只算简单利息。同样 10%，APY 实际到手会比 APR 多一些。',
   'apr':'APR 是年化利率，只计算本金的利息，不含复利效果。APY 则把每次结算的利息再投入计算，所以 APY > APR。',
   'launchpool':'Launchpool 几乎无本金风险——你质押 BNB 或 FDUSD 换取新代币，本金随时可赎回。主要风险是挖到的代币上线后价格可能下跌。',
   '双币':'双币投资有本金风险！到期 BTC 低于行权价时，你会收到 BTC 而非 USDT，本金价值可能缩水。高收益伴随高风险。',
   'kyc':'KYC（Know Your Customer）是身份认证，在币安 App 进入「账户」→「身份认证」，上传身份证和自拍即可完成 Level 1，通常 10 分钟内通过。',
-  'bnb':'BNB 是币安平台代币，持有可享受 25% 手续费折扣、参与 Launchpool/Megadrop/HODLer Airdrop 等，是币安生态最核心的资产。',
-  'default':'你好！我是客服小何 👋 可以问我关于 APY、KYC、Launchpool、双币投资、赚币产品等问题，或者切换到「推荐活动」标签看今日精选～',
+  'bnb':'BNB 是币安平台代币，持有可享受手续费折扣，并可参与 Launchpool/Megadrop/HODLer Airdrop 等。',
+  'default':'你好！我是客服小何 👋 你可以问我：币种基础、活动规则、参与步骤、风险提示。输入 / 可查看快捷指令。',
 };
-function sendAI(){
-  const inp=document.getElementById('aiInp'),q=inp.value.trim();if(!q)return;inp.value='';
-  const msgs=document.getElementById('aiMsgs');
-  const um=document.createElement('div');um.className='aip-msg user';um.textContent=q;msgs.appendChild(um);
 
+const XIAOHE_AI={
+  baseUrl:'https://openrouter.ai/api/v1/chat/completions',
+  model:'openai/gpt-4o-mini',
+  apiKey:localStorage.getItem('xiaohe_api_key')||''
+};
+
+const XIAOHE_COMMANDS=[
+  {cmd:'/help',desc:'查看可用指令'},
+  {cmd:'/sources',desc:'查看官方知识来源'},
+  {cmd:'/refreshdocs',desc:'刷新官方文档缓存'},
+  {cmd:'/key <API_KEY>',desc:'设置在线AI密钥'},
+  {cmd:'/clearkey',desc:'清除在线AI密钥'}
+];
+
+const OFFICIAL_SOURCES=[
+  {name:'Binance Academy 术语词典',url:'https://academy.binance.com/zh/articles/a-crypto-glossary'},
+  {name:'Learn & Earn',url:'https://www.binance.com/zh-CN/academy/learn-and-earn'},
+  {name:'官方验证',url:'https://www.binance.com/en/official-verification'},
+  {name:'Launchpool',url:'https://www.binance.com/en/launchpool'},
+  {name:'Simple Earn',url:'https://www.binance.com/en/earn/simple-earn'}
+];
+
+let OFFICIAL_KB=[];
+let OFFICIAL_KB_READY=false;
+
+function appendAIMessage(html,isUser=false){
+  const msgs=document.getElementById('aiMsgs');
+  const div=document.createElement('div');
+  div.className='aip-msg'+(isUser?' user':'');
+  if(isUser)div.textContent=html; else div.innerHTML=html;
+  msgs.appendChild(div);
+  msgs.scrollTop=9999;
+  return div;
+}
+
+function tokenizeQuery(q=''){
+  const tokens=(q.toLowerCase().match(/[a-z0-9]{3,}|[\u4e00-\u9fa5]{2,}/g)||[]);
+  const stop=new Set(['什么','怎么','如何','一下','一下子','可以','这个','那个','please']);
+  return tokens.filter(t=>!stop.has(t));
+}
+
+async function loadOfficialDocs(force=false){
+  if(OFFICIAL_KB_READY&&!force) return OFFICIAL_KB;
+  OFFICIAL_KB=[];
+  for(const src of OFFICIAL_SOURCES){
+    try{
+      const endpoint=`https://r.jina.ai/http://${src.url.replace(/^https?:\/\//,'')}`;
+      const res=await fetch(endpoint,{headers:{Accept:'text/plain'}});
+      if(!res.ok) continue;
+      const txt=(await res.text()).slice(0,12000);
+      const sentences=txt.split(/\n|。|\.|\!|\?/).map(s=>s.trim()).filter(s=>s.length>20&&s.length<220).slice(0,180);
+      for(const s of sentences){OFFICIAL_KB.push({source:src.name,url:src.url,text:s});}
+    }catch(e){}
+  }
+  OFFICIAL_KB_READY=true;
+  return OFFICIAL_KB;
+}
+
+async function answerFromOfficialDocs(q){
+  const tokens=tokenizeQuery(q);
+  if(!tokens.length) return null;
+  await loadOfficialDocs();
+  if(!OFFICIAL_KB.length) return null;
+  const scored=OFFICIAL_KB.map(row=>{
+    let score=0;
+    for(const t of tokens) if(row.text.toLowerCase().includes(t)) score++;
+    return {...row,score};
+  }).filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,3);
+  if(!scored.length) return null;
+  const top=scored[0];
+  const bullets=scored.map((s,i)=>`${i+1}) ${escapeHtml(s.text)}`).join('<br>');
+  return `根据 Binance 官方文档，我找到这些最相关内容：<br>${bullets}<br><br><span style="font-size:10px;color:var(--t3)">来源：${escapeHtml(top.source)} · <a href="${top.url}" target="_blank" style="color:var(--gold)">查看原文</a></span>`;
+}
+
+function getActivityHits(q){
+  const tokens=tokenizeQuery(q);
+  if(!tokens.length) return [];
+  return CARDS.map(c=>{
+    const corpus=`${c.title} ${cardSubtitle(c)} ${(c.tags||[]).join(' ')} ${(c.drawer?.tags||[]).join(' ')} ${(c.drawer?.steps||[]).join(' ')}`.toLowerCase();
+    let score=0;
+    for(const t of tokens) if(corpus.includes(t)) score++;
+    return {c,score};
+  }).filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,3).map(x=>x.c);
+}
+
+async function callXiaoHeLLM(userText,hits){
+  if(!XIAOHE_AI.apiKey) return null;
+  const context=hits.map((h,i)=>`${i+1}. ${h.title} | ${cardSubtitle(h)} | 标签:${(h.tags||[]).join('/')}`).join('\n');
+  const prompt=`你是币安活动助手“小何”，请优先依据官方文档风格回答，中文、简洁、可执行。\n用户问题：${userText}\n候选活动：\n${context||'无匹配活动'}\n输出：结论 + 操作步骤 + 风险提醒。`;
+
+  const resp=await fetch(XIAOHE_AI.baseUrl,{method:'POST',headers:{
+    'Content-Type':'application/json',
+    'Authorization':`Bearer ${XIAOHE_AI.apiKey}`
+  },body:JSON.stringify({model:XIAOHE_AI.model,messages:[{role:'user',content:prompt}],temperature:0.2})});
+  if(!resp.ok) throw new Error('AI请求失败');
+  const data=await resp.json();
+  return data?.choices?.[0]?.message?.content?.trim()||null;
+}
+
+function renderCommandMenu(filter=''){
+  const menu=document.getElementById('aiCmdMenu');
+  if(!menu) return;
+  const f=filter.toLowerCase();
+  const list=XIAOHE_COMMANDS.filter(c=>c.cmd.toLowerCase().includes(f));
+  if(!list.length){menu.style.display='none';return;}
+  menu.innerHTML=list.map(c=>`<div class="ai-cmd-item" onclick="applyAICommand('${c.cmd.replace(/'/g,"\\'")}')"><span>${c.desc}</span><span class="ai-cmd-k">${c.cmd}</span></div>`).join('');
+  menu.style.display='block';
+}
+
+function hideCommandMenu(){const menu=document.getElementById('aiCmdMenu'); if(menu) menu.style.display='none';}
+function applyAICommand(cmd){
+  const inp=document.getElementById('aiInp');
+  inp.value=cmd.endsWith('>')?cmd.replace('<API_KEY>',''):cmd;
+  inp.focus();
+  hideCommandMenu();
+}
+
+function handleAIInput(event){
+  const v=event.target.value||'';
+  if(v.startsWith('/')) renderCommandMenu(v); else hideCommandMenu();
+}
+function handleAIInputKeydown(event){
+  if(event.key==='Enter') {sendAI(); return;}
+}
+
+async function sendAI(){
+  const inp=document.getElementById('aiInp'),q=inp.value.trim();if(!q)return;inp.value='';hideCommandMenu();
+
+  if(/^\/key\s+/i.test(q)){
+    const key=q.replace(/^\/key\s+/i,'').trim();
+    localStorage.setItem('xiaohe_api_key',key);
+    XIAOHE_AI.apiKey=key;
+    appendAIMessage('已保存 AI Key ✅（仅保存在当前浏览器）');
+    return;
+  }
+  if(/^\/clearkey$/i.test(q)){
+    localStorage.removeItem('xiaohe_api_key');
+    XIAOHE_AI.apiKey='';
+    appendAIMessage('已清除 AI Key。');
+    return;
+  }
+  if(/^\/help$/i.test(q)){
+    appendAIMessage(XIAOHE_COMMANDS.map(c=>`<div><span class="ai-cmd-k">${c.cmd}</span> - ${c.desc}</div>`).join(''));
+    return;
+  }
+  if(/^\/sources$/i.test(q)){
+    appendAIMessage(OFFICIAL_SOURCES.map(s=>`<div>• <a href="${s.url}" target="_blank" style="color:var(--gold)">${s.name}</a></div>`).join(''));
+    return;
+  }
+  if(/^\/refreshdocs$/i.test(q)){
+    appendAIMessage('正在刷新官方文档缓存…');
+    await loadOfficialDocs(true);
+    appendAIMessage(`缓存完成，共载入 ${OFFICIAL_KB.length} 条知识片段。`);
+    return;
+  }
+
+  appendAIMessage(q,true);
   const ql=q.toLowerCase();
   let ans='';
+  const hits=getActivityHits(q);
+  const typing=appendAIMessage('小何思考中…');
 
-  // 1) 先尝试从活动数据中做检索式回答
-  const hits=CARDS.filter(c=>{
-    const corpus=`${c.title} ${c.sub} ${(c.tags||[]).join(' ')} ${(c.drawer?.tags||[]).join(' ')} ${(c.drawer?.steps||[]).join(' ')}`.toLowerCase();
-    return ql.split(/\s+/).some(w=>w&&corpus.includes(w));
-  }).slice(0,2);
+  try{
+    const llmAns=await callXiaoHeLLM(q,hits);
+    if(llmAns){ typing.innerHTML=escapeHtml(llmAns).replace(/\n/g,'<br>'); return; }
+  }catch(e){}
+
+  try{
+    const docAns=await answerFromOfficialDocs(q);
+    if(docAns){ typing.innerHTML=docAns; return; }
+  }catch(e){}
 
   if(hits.length){
     const top=hits[0];
     const step=(top.drawer?.steps||[])[0]||'先打开活动页确认规则';
     const link=top.drawer?.details?.find(d=>d.link)?.link||'https://www.binance.com';
-    ans=`你这个问题最匹配「<strong>${top.title}</strong>」。<br>建议你先：${step}。<br>如果你要，我可以再给你拆成“3步极简参与版”。<br><a href="${link}" target="_blank" style="color:var(--gold)">官方链接 →</a>`;
+    ans=`你这个问题最匹配「<strong>${top.title}</strong>」。<br>建议你先：${step}。<br>我建议再核对官方页面原文：<a href="${link}" target="_blank" style="color:var(--gold)">点击查看</a>`;
   } else {
-    // 2) 回落到关键词知识库
     ans=AI_ANSWERS.default;
     for(const k of Object.keys(AI_ANSWERS))if(k!=='default'&&ql.includes(k)){ans=AI_ANSWERS[k];break;}
   }
 
-  // 3) 风险问题优先提示风控
   if(/杠杆|合约|爆仓|清算|梭哈|all in/i.test(q)){
-    ans += '<br><br>⚠️ 额外提醒：先定单笔风险上限（建议总资金 1%~2%），再考虑收益。';
+    ans += '<br><br>⚠️ 风控提醒：先定单笔风险上限（建议总资金 1%~2%），再考虑收益。';
   }
 
-  setTimeout(()=>{
-    const rm=document.createElement('div');rm.className='aip-msg';
-    rm.innerHTML=ans;msgs.appendChild(rm);msgs.scrollTop=9999;
-  },420);
+  typing.innerHTML=ans;
 }
 
 // ══ MODAL ══
@@ -3781,8 +3978,7 @@ async function initApp(){
   normalizeCardData();
   renderCards();
   loadFG();
-  syncOfficialActivities();
-  setInterval(syncOfficialActivities, 15*60*1000);
+  // 线上生产建议由 GitHub Actions 定时更新 data.json，这里保留本地手动同步入口
   ensureDailyQuizState();
   renderWrongBook();
   loadQ();
@@ -3790,6 +3986,7 @@ async function initApp(){
   // Show onboarding only on first visit of the local experience
   if(!DAILY_QUIZ_STATE?.onboardingShown)setTimeout(()=>showOnboarding(), 400);
   updateTierDesc(curTier);
+  loadOfficialDocs().catch(()=>{});
 }
 
 initApp();
