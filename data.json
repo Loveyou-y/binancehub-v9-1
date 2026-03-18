@@ -1,0 +1,54 @@
+[
+  {
+    "id": "mock_launch_001",
+    "cat": "launch",
+    "emoji": "🪂",
+    "title": "Launchpool Mock · TEST",
+    "subtitle": "用于本地 data.json 联调的示例活动",
+    "tags": ["打新", "Mock"],
+    "ico": "var(--gs)",
+    "deadlineSoon": false,
+    "deadline": "3 天",
+    "nums": [
+      { "l": "预期 APR", "v": "25%", "c": "var(--green)" },
+      { "l": "门槛", "v": "0.1 BNB" }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": ["Mock", "Launchpool"],
+      "details": [
+        { "i": "💡", "l": "说明", "v": "这是 data.json 示例数据，用于验证前端动态拉取。" },
+        { "i": "🔗", "l": "官方链接", "link": "https://www.binance.com", "lv": "前往 Binance" }
+      ],
+      "steps": ["打开活动页", "阅读规则", "完成申购"],
+      "est": "3 分钟"
+    }
+  },
+  {
+    "id": "mock_learn_001",
+    "cat": "square",
+    "emoji": "📚",
+    "title": "学习与答题 Mock",
+    "subtitle": "示例：用于验证分类和筛选状态",
+    "tags": ["学习", "答题"],
+    "ico": "var(--ps)",
+    "deadlineSoon": false,
+    "deadline": "长期",
+    "nums": [
+      { "l": "题量", "v": "5 题" },
+      { "l": "奖励", "v": "Points" }
+    ],
+    "risk": null,
+    "subscribed": true,
+    "drawer": {
+      "tags": ["Mock", "学习"],
+      "details": [
+        { "i": "💡", "l": "说明", "v": "这是第二条 mock 数据。" },
+        { "i": "🔗", "l": "链接", "link": "https://www.binance.com/en/square", "lv": "前往广场" }
+      ],
+      "steps": ["进入任务", "完成答题", "领取奖励"],
+      "est": "5 分钟"
+    }
+  }
+]
