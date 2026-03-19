@@ -122,7 +122,7 @@ function toCardBase({ title, url, cat, subtitle, steps, reward, source = '自动
     code: '',
     cat,
     emoji: iconFor(cat),
-    title: title.length > 60 ? `${title.slice(0, 59)}…` : title,
+    title: title.length > 120 ? `${title.slice(0, 119)}…` : title,
     subtitle: subtitle || '自动读取官方链接内容',
     tags: [source, '官方链接解析', cat],
     ico: icoBg(cat),
@@ -216,6 +216,19 @@ async function main() {
 
   const merged = [...curatedCards, ...xCards, ...autoCards];
   const deduped = uniqBy(merged, (x) => (x.drawer?.details?.find((d) => d.link)?.link || x.id));
+
+  // 标题去冲突：避免前端看到多个相同标题
+  const tCount = new Map();
+  for (const item of deduped) {
+    const t = (item.title || '').trim();
+    const n = (tCount.get(t) || 0) + 1;
+    tCount.set(t, n);
+    if (n > 1) {
+      const link = item.drawer?.details?.find((d) => d.link)?.link || '';
+      const suffix = link ? ` #${link.slice(-6)}` : ` #${n}`;
+      item.title = `${t}${suffix}`;
+    }
+  }
 
   await fs.writeFile(OUT_FILE, JSON.stringify(deduped, null, 2), 'utf8');
   console.log(`[ok] wrote ${deduped.length} cards to data.json (curated=${curatedCards.length}, x=${xCards.length}, auto=${autoCards.length})`);
