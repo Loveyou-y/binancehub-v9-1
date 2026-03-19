@@ -63,7 +63,7 @@ let CARDS = [
    nums:[{l:'本周奖池',v:'500K Pts',c:'var(--purple)'},{l:'本周进度',v:'3/5 完成',c:'var(--green)'}],
    progress:{l:'本周进度',v:60,c:'var(--purple)'},risk:null,sub:true,
    drawer:{tags:['WOTD','广场任务','零门槛','每日重置'],
-    details:[{i:'🎯',l:'玩法',v:'猜出当日加密词汇（类似 Wordle，6次机会）'},{i:'🏆',l:'奖励',v:'一周猜对 5 次瓜分 500,000 Binance Points'},{i:'📊',l:'本周进度',v:'3/5，再完成 2 次即可参与'},{i:'⏰',l:'重置',v:'每日 UTC 00:00 出新题'},{i:'🔗',l:'前往参与',link:'https://www.binance.com/en/square/wotd',lv:'WOTD 每日密语'}],
+    details:[{i:'🎯',l:'玩法',v:'猜出当日加密词汇（类似 Wordle，6次机会）'},{i:'🏆',l:'奖励',v:'一周猜对 5 次瓜分 500,000 Binance Points'},{i:'📊',l:'本周进度',v:'3/5，再完成 2 次即可参与'},{i:'⏰',l:'重置',v:'每日 UTC 00:00 出新题'},{i:'🔗',l:'前往参与',link:'https://www.binance.com/en/support/announcement/list/93',lv:'WOTD 每日密语'}],
     steps:['前往币安广场找到 WOTD 入口','猜测当日词汇','猜对后获得积分','每日坚持，周内完成 5 次','月底统计最终奖励'],est:'3 分钟'}},
   {id:'c7',cat:'earn',emoji:'🎓',title:'学习赚币 · Learn & Earn',sub:'观看币安学院课程，答题通过即可领取免费代币奖励',
    tags:['学习赚币','零门槛','需KYC'],stripe:'var(--green)',ico:'var(--grs)',
@@ -73,14 +73,6 @@ let CARDS = [
    drawer:{tags:['Learn & Earn','学习赚币','需KYC','币安学院'],
     details:[{i:'🎓',l:'玩法说明',v:'观看币安学院视频课程，完成答题（≥60分）即可领取代币'},{i:'💰',l:'奖励',v:'最高约 $30 USDT 等值代币，每门课程独立结算'},{i:'✅',l:'前置条件',v:'需完成 KYC Level 1 身份认证'},{i:'📊',l:'当前状态',v:'4 门课程待完成，预计可领 ~$18 USDT'},{i:'🔗',l:'前往参与',link:'https://www.binance.com/zh-CN/academy/learn-and-earn?utm_source=BinanceAcademy&utm_medium=NavBar',lv:'币安学院 · Learn & Earn'}],
     steps:['确认已完成 KYC Level 1','进入币安学院 Learn & Earn 页面','选择课程，完整观看视频（不可快进）','完成课程结束的测验（答对 60% 以上）','奖励自动发放至现货账户'],est:'15-30 分钟'}},
-  {id:'c7sq',cat:'square',emoji:'🔤',title:'WOTD 每日密语',sub:'每日解谜加密词汇，5连中瓜分 500K Binance Points',
-   tags:['广场任务','零门槛','每日'],stripe:'var(--purple)',ico:'var(--ps)',
-   deadlineSoon:true,deadline:'今日 23:59',dlLabel:'⏰',
-   nums:[{l:'本周奖池',v:'500K Pts',c:'var(--purple)'},{l:'本周进度',v:'3/5 完成',c:'var(--green)'}],
-   progress:null,risk:null,sub:true,
-   drawer:{tags:['WOTD','广场任务','零门槛','每日重置'],
-    details:[{i:'🎯',l:'玩法',v:'猜出当日加密词汇（类似 Wordle，6次机会）'},{i:'🏆',l:'奖励',v:'一周猜对 5 次瓜分 500,000 Binance Points'},{i:'⏰',l:'重置',v:'每日 UTC 00:00 出新题'},{i:'🔗',l:'前往参与',link:'https://www.binance.com/en/square/wotd',lv:'WOTD 每日密语'}],
-    steps:['前往币安广场找到 WOTD 入口','猜测当日词汇','猜对后获得积分','每日坚持，周内完成 5 次','周末统计最终奖励'],est:'3 分钟'}},
   {id:'c8',cat:'welfare',emoji:'₿',title:'比特币按钮游戏',sub:'倒计时归零瞬间按下赢 1 BTC，每次按下重置 60 分钟',
    tags:['福利活动','零门槛'],stripe:'var(--orange)',ico:'var(--os)',
    deadlineSoon:false,deadline:'第 14 轮',dlLabel:'🎮',
@@ -198,14 +190,23 @@ async function loadCardsFromJson(){
   }
 }
 
+function normalizeCardTitle(title=''){
+  return String(title).toLowerCase().replace(/\s+/g,' ').replace(/[\-—·:：_]+/g,' ').trim();
+}
+function cardRichnessScore(item){
+  const d=item?.drawer||{};
+  return (d.details?.length||0)*3 + (d.steps?.length||0)*2 + ((item.deadline&&item.deadline!=='重点关注')?2:0);
+}
 function dedupeCards(list){
-  const seen=new Set();
-  return list.filter(item=>{
-    const key=item.id||item.code||`${item.title}-${cardSubtitle(item)}`;
-    if(seen.has(key))return false;
-    seen.add(key);
-    return true;
-  });
+  const byKey=new Map();
+  for(const item of list){
+    const link=getCardPrimaryLink(item);
+    const key=(link&&link.trim()) || normalizeCardTitle(item.title) || item.id || item.code;
+    if(!byKey.has(key)){ byKey.set(key,item); continue; }
+    const kept=byKey.get(key);
+    if(cardRichnessScore(item)>cardRichnessScore(kept)) byKey.set(key,item);
+  }
+  return [...byKey.values()];
 }
 
 function renderCards(){
