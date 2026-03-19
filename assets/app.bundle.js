@@ -147,27 +147,32 @@ function getCardPrimaryLink(card){
   return card?.drawer?.details?.find(d=>d.link)?.link||'';
 }
 
+function isGenericLink(link=''){
+  return /\/support\/announcement\/list\/|\/support\/announcement\/?$/i.test(link||'');
+}
+
 function mergeIncomingCards(baseCards,incomingCards){
   const merged=[...baseCards];
-  const keyOf=(c)=>getCardPrimaryLink(c)||`${(c.title||'').trim()}::${(cardSubtitle(c)||'').trim()}`;
+  const keyOf=(c)=>normalizeCardTitle(c.title)||getCardPrimaryLink(c)||`${(c.title||'').trim()}::${(cardSubtitle(c)||'').trim()}`;
   const idx=new Map();
   merged.forEach((c,i)=>idx.set(keyOf(c),i));
 
   for(const incoming of incomingCards){
     const k=keyOf(incoming);
     if(idx.has(k)){
-      // 保留原卡片详情（尤其 deadline / drawer 结构），仅补充缺失字段
       const i=idx.get(k);
       const base=merged[i];
+      const baseLink=getCardPrimaryLink(base);
+      const incomingLink=getCardPrimaryLink(incoming);
+      const preferIncomingDrawer=!base.drawer || (isGenericLink(baseLink)&&incomingLink&&!isGenericLink(incomingLink));
       merged[i]={
         ...incoming,
         ...base,
-        // 关键字段永远以原卡片优先，避免“剩余时间”被覆盖成“重点关注”
         deadline: base.deadline || incoming.deadline,
         deadlineSoon: base.deadlineSoon ?? incoming.deadlineSoon,
         dlLabel: base.dlLabel || incoming.dlLabel,
         nums: (base.nums&&base.nums.length)?base.nums:incoming.nums,
-        drawer: base.drawer||incoming.drawer,
+        drawer: preferIncomingDrawer ? incoming.drawer : (base.drawer||incoming.drawer),
       };
     }else{
       merged.push(incoming);
@@ -200,8 +205,7 @@ function cardRichnessScore(item){
 function dedupeCards(list){
   const byKey=new Map();
   for(const item of list){
-    const link=getCardPrimaryLink(item);
-    const key=(link&&link.trim()) || normalizeCardTitle(item.title) || item.id || item.code;
+    const key=normalizeCardTitle(item.title) || getCardPrimaryLink(item) || item.id || item.code;
     if(!byKey.has(key)){ byKey.set(key,item); continue; }
     const kept=byKey.get(key);
     if(cardRichnessScore(item)>cardRichnessScore(kept)) byKey.set(key,item);
