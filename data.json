@@ -237,7 +237,7 @@
     "cat": "newbie",
     "emoji": "👛",
     "title": "链上赚币 · On-chain Yields",
-    "subtitle": "URL Source: http://www.binance.com/zh-CN/earn/onchain-yields",
+    "subtitle": "链上赚币专区：通过 Web3 钱包参与链上收益",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -278,10 +278,10 @@
         }
       ],
       "steps": [
-        "# 币安链上赚币 - 通过区块链赚取加密货币奖励",
-        "[质押借币](http://www.binance.com/zh-CN/loan)",
-        "币安[链上赚币](http://www.binance.com/zh-CN/earn/onchain-yields)可供您利用个人币安账户轻松参与各种链上协议…",
-        "币安链上赚币根据链上协议提供各种类型的奖励，包括代币和积分。"
+        "打开链上赚币页面",
+        "选择链和产品",
+        "确认风险与收益",
+        "完成参与并追踪结果"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -411,7 +411,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
+    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -452,10 +452,10 @@
         }
       ],
       "steps": [
-        "Published Time: Fri, 20 Mar 2026 11:50:06 GMT",
-        "Warning: This page maybe not yet fully loaded, consider explicitly specify a ti…",
-        "Don’t miss what’s happening",
-        "People on X are the first to know."
+        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
+        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
+        "• 在 https://t.co/43VDt0yUa5\" / X",
+        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -811,6 +811,63 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
+    "title": "binance 最新活动推文：2034972817801060722",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2034972817801060722"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2034972817801060722",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
     "title": "binance 最新活动推文：2034933679928066282",
     "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
@@ -978,18 +1035,18 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binance 最新活动推文：2034736904701124994",
-    "subtitle": "来自 @binance 的社媒活动线索",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)",
+    "subtitle": "自动抓取 · 2026-03-20",
     "tags": [
-      "X活动",
+      "自动抓取",
       "官方链接解析",
-      "social"
+      "trade"
     ],
-    "ico": "var(--cs)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -1000,318 +1057,34 @@
       },
       {
         "l": "类型",
-        "v": "social"
+        "v": "trade"
       }
     ],
-    "risk": null,
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
     "subscribed": false,
     "drawer": {
       "tags": [
-        "X活动",
+        "自动抓取",
         "Binance"
       ],
       "details": [
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binance 最新活动推文：2034736904701124994"
+          "v": "Binance Futures Will Launch PAYPUSDT USDⓈ-Margined Equity Perpetual Contract (2026-03-23)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binance/status/2034736904701124994",
+          "link": "https://www.binance.com/en/support/announcement/detail/eb32c90a26fd405d97ea0c4174d41d74",
           "lv": "前往原文"
         }
       ],
       "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "BinanceWallet 最新活动推文：2034896246155223074",
-    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "BinanceWallet 最新活动推文：2034896246155223074"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/BinanceWallet/status/2034896246155223074",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "BinanceWallet 最新活动推文：2033577209290764772",
-    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "BinanceWallet 最新活动推文：2033577209290764772"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/BinanceWallet/status/2033577209290764772",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "BinanceWallet 最新活动推文：1879820890709320131",
-    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "BinanceWallet 最新活动推文：1879820890709320131"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/BinanceWallet/status/1879820890709320131",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "BinanceWallet 最新活动推文：1416054701628567553",
-    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "BinanceWallet 最新活动推文：1416054701628567553"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/BinanceWallet/status/1416054701628567553",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "BinanceWallet 最新活动推文：1846903139196166482",
-    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "BinanceWallet 最新活动推文：1846903139196166482"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/BinanceWallet/status/1846903139196166482",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -2348,64 +2121,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/82c9c8166a2a434681c20a23a346a5b8",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Futures Will Launch USDⓈ-Margined COPPERUSDT Perpetual Contract (2026-03-06)",
-    "subtitle": "自动抓取 · 2026-03-04",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Futures Will Launch USDⓈ-Margined COPPERUSDT Perpetual Contract (2026-03-06)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/44a37bb537b3460aafed58b8d68f5313",
           "lv": "前往原文"
         }
       ],
@@ -5846,6 +5561,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Delist COIN-M APTUSD and OPUSD Perpetual Contracts (2026-03-25)",
+    "subtitle": "自动抓取 · 2026-03-20",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Delist COIN-M APTUSD and OPUSD Perpetual Contracts (2026-03-25)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/48f99309fd5442d7b44491c76483223e",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Binance Will Delist A2Z, FORTH, HOOK, IDEX, LRC, NTRN, RDNT, SXP on 2026-04-01",
@@ -6930,64 +6703,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/39afd25e6e09454bb29d06e972b7a033",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Delist ACA, CHESS, DATA, DF, GHST, NKN on 2026-02-13",
-    "subtitle": "自动抓取 · 2026-02-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Delist ACA, CHESS, DATA, DF, GHST, NKN on 2026-02-13"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27",
           "lv": "前往原文"
         }
       ],
@@ -10486,6 +10201,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Launch USDⓈ-Margined COPPERUSDT Perpetual Contract (2026-03-06)",
+    "subtitle": "自动抓取 · 2026-03-04",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Launch USDⓈ-Margined COPPERUSDT Perpetual Contract (2026-03-06)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/44a37bb537b3460aafed58b8d68f5313",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
     "title": "Binance Will Add MANTRA (MANTRA) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures",
@@ -11570,64 +11343,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/99617273605941ae808e420ea947fe46",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will List Zama (ZAMA) with Seed Tag Applied",
-    "subtitle": "自动抓取 · 2026-02-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will List Zama (ZAMA) with Seed Tag Applied"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/c411646abd94488bba084537c5563beb",
           "lv": "前往原文"
         }
       ],
@@ -15126,6 +14841,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Delist ACA, CHESS, DATA, DF, GHST, NKN on 2026-02-13",
+    "subtitle": "自动抓取 · 2026-02-02",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Delist ACA, CHESS, DATA, DF, GHST, NKN on 2026-02-13"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Notice of Removal of Spot Trading Pairs - 2026-01-30",
@@ -16210,64 +15983,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/62aea45c9ea44de4bddf550c67f4c483",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice of Removal of Spot Trading Pairs - 2025-12-26",
-    "subtitle": "自动抓取 · 2025-12-24",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Notice of Removal of Spot Trading Pairs - 2025-12-26"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/1351888d07104a7b93b60afae7d503c9",
           "lv": "前往原文"
         }
       ],
