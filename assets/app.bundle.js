@@ -2288,8 +2288,8 @@ async function initApp(){
   renderWrongBook();
   loadQ();
   startQuizCountdown();
-  // Show onboarding only on first visit of the local experience
-  if(!DAILY_QUIZ_STATE?.onboardingShown)setTimeout(()=>showOnboarding(), 400);
+  // Disable blocking auto-popup; onboarding is manual via "重新定级" button.
+  // if(!DAILY_QUIZ_STATE?.onboardingShown)setTimeout(()=>showOnboarding(), 400);
   updateTierDesc(curTier);
   loadOfficialDocs().catch(()=>{});
 }
