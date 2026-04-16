@@ -121,7 +121,7 @@
     "cat": "earn",
     "emoji": "💰",
     "title": "保本赚币 · Simple Earn",
-    "subtitle": "保本赚币产品集合：活期/定期可选",
+    "subtitle": "URL Source: http://www.binance.com/en/earn/simple-earn",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "进入产品页选择币种",
-        "确认年化和期限",
-        "申购并持有",
-        "查看每日收益"
+        "# Simple Earn on Binance - Earn Crypto Rewards with Flexible Options",
+        "Earn rewards on principal-protected products.",
+        "Subscribe at any time and start earning rewards.",
+        "Lock assets for a fixed term and earn higher rewards"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -179,7 +179,7 @@
     "cat": "earn",
     "emoji": "💰",
     "title": "进阶赚币 · Advanced Earn",
-    "subtitle": "URL Source: http://www.binance.com/en/earn/advanced-earn",
+    "subtitle": "进阶赚币：结构化产品，收益更高风险也更高",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -427,8 +427,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "social"
+        "l": "奖励线索",
+        "v": "23BNB"
       }
     ],
     "risk": null,
