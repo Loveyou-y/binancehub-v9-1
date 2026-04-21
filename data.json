@@ -1092,18 +1092,18 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binance 最新活动推文：2046106973989392844",
-    "subtitle": "来自 @binance 的社媒活动线索",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Margin Will Add New Pairs - 2026-04-21",
+    "subtitle": "自动抓取 · 2026-04-21",
     "tags": [
-      "X活动",
+      "自动抓取",
       "官方链接解析",
-      "social"
+      "trade"
     ],
-    "ico": "var(--cs)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -1114,147 +1114,34 @@
       },
       {
         "l": "类型",
-        "v": "social"
+        "v": "trade"
       }
     ],
-    "risk": null,
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
     "subscribed": false,
     "drawer": {
       "tags": [
-        "X活动",
+        "自动抓取",
         "Binance"
       ],
       "details": [
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binance 最新活动推文：2046106973989392844"
+          "v": "Binance Margin Will Add New Pairs - 2026-04-21"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binance/status/2046106973989392844",
+          "link": "https://www.binance.com/en/support/announcement/detail/dc394582165d4c6da83c54b78791687f",
           "lv": "前往原文"
         }
       ],
       "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "BinanceWallet 最新活动推文：1879820890709320131",
-    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "BinanceWallet 最新活动推文：1879820890709320131"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/BinanceWallet/status/1879820890709320131",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "BinanceWallet 最新活动推文：1416054701628567553",
-    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "BinanceWallet 最新活动推文：1416054701628567553"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/BinanceWallet/status/1416054701628567553",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -2367,16 +2254,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)",
-    "subtitle": "自动抓取 · 2026-03-19",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Introducing Enhanced Binance Alpha 2.0 Limit Order Liquidity Providers Program",
+    "subtitle": "自动抓取 · 2026-04-21",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2387,10 +2274,10 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -2401,12 +2288,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)"
+          "v": "Introducing Enhanced Binance Alpha 2.0 Limit Order Liquidity Providers Program"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/f4038a3dbd6d49318c2ee201051fe43e",
+          "link": "https://www.binance.com/en/support/announcement/detail/ed614a6387524a8d8534ecc39b5974eb",
           "lv": "前往原文"
         }
       ],
@@ -3509,64 +3396,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/69a9ac042e914e33991ce282e3fe49af",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-04-10)",
-    "subtitle": "自动抓取 · 2026-04-07",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-04-10)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/5a1c6a6e8dff4456b6e4710482eaaeec",
           "lv": "前往原文"
         }
       ],
@@ -10545,6 +10374,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)",
+    "subtitle": "自动抓取 · 2026-03-19",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Launch USDⓈ-Margined EDGEUSDT Perpetual Contract Pre-Market Trading (2026-03-19)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/f4038a3dbd6d49318c2ee201051fe43e",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
     "title": "Binance Will Add Katana (KAT) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures",
@@ -11591,8 +11478,8 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Binance Margin Will Add New Pairs - 2026-03-05",
-    "subtitle": "自动抓取 · 2026-03-04",
+    "title": "Update on the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-04-10)",
+    "subtitle": "自动抓取 · 2026-04-07",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -11623,12 +11510,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Margin Will Add New Pairs - 2026-03-05"
+          "v": "Update on the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-04-10)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/6e0cd5fcbb5746db84ba0b2f2f055d2b",
+          "link": "https://www.binance.com/en/support/announcement/detail/5a1c6a6e8dff4456b6e4710482eaaeec",
           "lv": "前往原文"
         }
       ],
@@ -12731,64 +12618,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/0f8071e9f6ec4924a4d996b0d801a954",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Introducing Binance Ai Pro Beta",
-    "subtitle": "自动抓取 · 2026-03-24",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Introducing Binance Ai Pro Beta"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/9035e912721848699805c8b09b7ca9bd",
           "lv": "前往原文"
         }
       ],
