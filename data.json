@@ -353,7 +353,7 @@
     "cat": "square",
     "emoji": "📚",
     "title": "学习赚币 · Learn & Earn",
-    "subtitle": "URL Source: http://www.binance.com/zh-CN/academy/learn-and-earn",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -394,10 +394,10 @@
         }
       ],
       "steps": [
-        "增长区块链知识、完成测验并免费获得加密货币。",
-        "Defi App (HOME) 通过简化钱包操作、免 Gas 费跨链兑换及奖励机制，让所有用户都能轻松探索 DeFi 领域。",
-        "*   [ETH 质押](https://www.binance.com/zh-CN/eth2)",
-        "*   [邀请奖励](https://www.binance.com/zh-CN/activity/referral)"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -411,7 +411,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
+    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -452,10 +452,10 @@
         }
       ],
       "steps": [
-        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
-        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
-        "• 在 https://t.co/43VDt0yUa5\" / X",
-        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
+        "Published Time: Sat, 25 Apr 2026 07:14:11 GMT",
+        "Don’t miss what’s happening",
+        "People on X are the first to know.",
+        "[Log in](http://x.com/login)"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -792,6 +792,120 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://x.com/binancezh/status/1495984097063505927",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "binance 最新活动推文：2047918839547965509",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2047918839547965509"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2047918839547965509",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "binance 最新活动推文：2047767714219925952",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2047767714219925952"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2047767714219925952",
           "lv": "前往原文"
         }
       ],
