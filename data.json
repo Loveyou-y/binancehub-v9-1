@@ -427,8 +427,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "social"
+        "l": "奖励线索",
+        "v": "23BNB"
       }
     ],
     "risk": null,
@@ -868,6 +868,120 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
+    "title": "binance 最新活动推文：2049791207748817373",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2049791207748817373"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2049791207748817373",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "binance 最新活动推文：2049779016266285402",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2049779016266285402"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2049779016266285402",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
     "title": "binance 最新活动推文：2049761267179471049",
     "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
@@ -1035,12 +1149,12 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binance 最新活动推文：2049609893796106476",
-    "subtitle": "来自 @binance 的社媒活动线索",
+    "title": "BinanceWallet 最新活动推文：2049799576027312166",
+    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
     "tags": [
       "X活动",
       "官方链接解析",
@@ -1071,69 +1185,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binance 最新活动推文：2049609893796106476"
+          "v": "BinanceWallet 最新活动推文：2049799576027312166"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binance/status/2049609893796106476",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binance 最新活动推文：2049579697743233298",
-    "subtitle": "来自 @binance 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "binance 最新活动推文：2049579697743233298"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/binance/status/2049579697743233298",
+          "link": "https://x.com/BinanceWallet/status/2049799576027312166",
           "lv": "前往原文"
         }
       ],
@@ -1263,18 +1320,18 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9C",
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "BinanceWallet 最新活动推文：1846903139196166482",
-    "subtitle": "来自 @BinanceWallet 的社媒活动线索",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Will Add MegaETH (MEGA) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures",
+    "subtitle": "自动抓取 · 2026-04-30",
     "tags": [
-      "X活动",
+      "自动抓取",
       "官方链接解析",
-      "social"
+      "earn"
     ],
-    "ico": "var(--cs)",
+    "ico": "var(--grs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -1285,33 +1342,34 @@
       },
       {
         "l": "类型",
-        "v": "social"
+        "v": "earn"
       }
     ],
-    "risk": null,
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
     "subscribed": false,
     "drawer": {
       "tags": [
-        "X活动",
+        "自动抓取",
         "Binance"
       ],
       "details": [
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "BinanceWallet 最新活动推文：1846903139196166482"
+          "v": "Binance Will Add MegaETH (MEGA) on Earn, Buy Crypto, Convert, VIP Loan, Margin & Futures"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/BinanceWallet/status/1846903139196166482",
+          "link": "https://www.binance.com/en/support/announcement/detail/cd5899547cf34fb0a09cdc9a1eddee9f",
           "lv": "前往原文"
         }
       ],
       "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -2406,64 +2464,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/e24d20cdd61041eca8050482e824a522",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Futures Will Launch USDⓈ-Margined CLUSDT, BZUSDT and NATGASUSDT Perpetual Contracts (2026-04-01)",
-    "subtitle": "自动抓取 · 2026-03-30",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Futures Will Launch USDⓈ-Margined CLUSDT, BZUSDT and NATGASUSDT Perpetual Contracts (2026-04-01)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/e7a10ca855524655ab3dea73add40ef4",
           "lv": "前往原文"
         }
       ],
@@ -3642,6 +3642,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Acurast Trading Competition: Trade Acurast (ACU) and Share $200K Worth of Rewards (2026-04-30)",
+    "subtitle": "自动抓取 · 2026-04-30",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Acurast Trading Competition: Trade Acurast (ACU) and Share $200K Worth of Rewards (2026-04-30)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/2ef9da217b8a4507a33861f4b74795f8",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
     "title": "Learn & Earn: Complete the Quiz to Share Sonic (S) Token Rewards!",
@@ -4726,64 +4784,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/49bca20b219744ac8c92f329ea264769",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards",
-    "subtitle": "自动抓取 · 2026-04-16",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/a697faab2f6e4216b6cf1ee06debec6e",
           "lv": "前往原文"
         }
       ],
@@ -5962,6 +5962,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Alpha Will Remove REX, XO, TANSSI, DARKSTAR, YALA, RCADE, RDAC, SKATE, OVL, SLAY, Ghibli (SOL), Ghibli (BSC), P…",
+    "subtitle": "自动抓取 · 2026-04-30",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Alpha Will Remove REX, XO, TANSSI, DARKSTAR, YALA, RCADE, RDAC, SKATE, OVL, SLAY, Ghibli (SOL), Ghibli (BSC), PHY, VLR, SVSA, WBAI, EDGEN, FAIR3, MM, BUBB, AICELL, XLAB, SIGHT (2026-04-30)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/9b3112ca2a4b4d8098403d9cc4a1a855",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Notice of Removal of Spot Trading Pairs - 2026-05-01",
@@ -7066,8 +7124,8 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
-    "title": "Binance Will Delist A2Z, FORTH, HOOK, IDEX, LRC, NTRN, RDNT, SXP on 2026-04-01",
-    "subtitle": "自动抓取 · 2026-03-18",
+    "title": "Binance Completes Integration of Kyrgyz Som Stablecoin (KGST) on TRC20 Network, Opens Deposits - 2026-04-30",
+    "subtitle": "自动抓取 · 2026-04-30",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -7098,12 +7156,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will Delist A2Z, FORTH, HOOK, IDEX, LRC, NTRN, RDNT, SXP on 2026-04-01"
+          "v": "Binance Completes Integration of Kyrgyz Som Stablecoin (KGST) on TRC20 Network, Opens Deposits - 2026-04-30"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/ddac99c0e5044c13a13c7c113e530e2b",
+          "link": "https://www.binance.com/en/support/announcement/detail/206adb88d0e84ab5baa192e25abe554e",
           "lv": "前往原文"
         }
       ],
@@ -8206,64 +8264,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/a09723dfd4984b94b5fe3b28a3f75b17",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Support ERC20 Integration of NIL (Nillion) and Discontinue Mainnet Support",
-    "subtitle": "自动抓取 · 2026-03-10",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Support ERC20 Integration of NIL (Nillion) and Discontinue Mainnet Support"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/c4c4720bb3d04a95ad7c28977e0f1a64",
           "lv": "前往原文"
         }
       ],
@@ -10604,6 +10604,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Binance Futures Will Launch USDⓈ-Margined CLUSDT, BZUSDT and NATGASUSDT Perpetual Contracts (2026-04-01)",
+    "subtitle": "自动抓取 · 2026-03-30",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Launch USDⓈ-Margined CLUSDT, BZUSDT and NATGASUSDT Perpetual Contracts (2026-04-01)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/e7a10ca855524655ab3dea73add40ef4",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-03-31",
     "subtitle": "自动抓取 · 2026-03-30",
     "tags": [
@@ -11628,64 +11686,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/ce8f84ad8b6e4307becb06758017cb02",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Will Add Midnight (NIGHT) on Earn, Buy Crypto, Convert, VIP Loan & Margin",
-    "subtitle": "自动抓取 · 2026-03-11",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Add Midnight (NIGHT) on Earn, Buy Crypto, Convert, VIP Loan & Margin"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/d99bba308e50404b889f677101ed5112",
           "lv": "前往原文"
         }
       ],
@@ -12866,6 +12866,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards",
+    "subtitle": "自动抓取 · 2026-04-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Genius Foundation Trading Competition: Trade Genius Foundation (GENIUS) and Share $200K Worth of Rewards"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/a697faab2f6e4216b6cf1ee06debec6e",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "PLUME Trading Tournament: Trade to Share Up to 20,000,000 PLUME Token Vouchers",
     "subtitle": "自动抓取 · 2026-04-16",
     "tags": [
@@ -13948,64 +14006,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/5205ebd249224b7c8805a4593370f8bb",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "launch",
-    "emoji": "🪂",
-    "title": "Binance Earn: Enjoy Daily CATI Boost Airdrop on RWUSD & Earn Up to 20% APR on CATI Flexible Products!",
-    "subtitle": "自动抓取 · 2026-04-10",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "launch"
-    ],
-    "ico": "var(--gs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "launch"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Earn: Enjoy Daily CATI Boost Airdrop on RWUSD & Earn Up to 20% APR on CATI Flexible Products!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/55f57d60bcf841b191379ee3cd25189f",
           "lv": "前往原文"
         }
       ],
@@ -15184,6 +15184,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Delist A2Z, FORTH, HOOK, IDEX, LRC, NTRN, RDNT, SXP on 2026-04-01",
+    "subtitle": "自动抓取 · 2026-03-18",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Delist A2Z, FORTH, HOOK, IDEX, LRC, NTRN, RDNT, SXP on 2026-04-01"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/ddac99c0e5044c13a13c7c113e530e2b",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Notice of Removal of Spot Trading Pairs - 2026-03-20",
@@ -16286,16 +16344,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice of Removal of Spot Trading Pairs - 2026-01-30",
-    "subtitle": "自动抓取 · 2026-01-29",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Support ERC20 Integration of NIL (Nillion) and Discontinue Mainnet Support",
+    "subtitle": "自动抓取 · 2026-03-10",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -16306,7 +16364,7 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -16320,12 +16378,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Notice of Removal of Spot Trading Pairs - 2026-01-30"
+          "v": "Binance Will Support ERC20 Integration of NIL (Nillion) and Discontinue Mainnet Support"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/ed20e109dd4648b7a2f0c4a9ff725c4c",
+          "link": "https://www.binance.com/en/support/announcement/detail/c4c4720bb3d04a95ad7c28977e0f1a64",
           "lv": "前往原文"
         }
       ],
@@ -17428,64 +17486,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/a9999894ac4145a6afe7738310d8537d",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Support the Moonriver (MOVR) Network Upgrade - 2026-01-06",
-    "subtitle": "自动抓取 · 2026-01-05",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Support the Moonriver (MOVR) Network Upgrade - 2026-01-06"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/ded059ab743e41cc94760280f0d39ffa",
           "lv": "前往原文"
         }
       ],
