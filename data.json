@@ -295,7 +295,7 @@
     "cat": "welfare",
     "emoji": "🎁",
     "title": "邀请赚币 · Refer2Earn USDC",
-    "subtitle": "重点活动",
+    "subtitle": "URL Source: http://www.binance.com/zh-CN/referral/earn-together/refer2earn-usdc",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -411,7 +411,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "重点活动",
+    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -427,8 +427,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "social"
+        "l": "奖励线索",
+        "v": "23BNB"
       }
     ],
     "risk": null,
@@ -452,10 +452,10 @@
         }
       ],
       "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
+        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
+        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
+        "• 在 https://t.co/43VDt0yUa5\" / X",
+        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
