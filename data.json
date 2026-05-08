@@ -179,7 +179,7 @@
     "cat": "earn",
     "emoji": "💰",
     "title": "进阶赚币 · Advanced Earn",
-    "subtitle": "URL Source: http://www.binance.com/en/earn/advanced-earn",
+    "subtitle": "进阶赚币：结构化产品，收益更高风险也更高",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -195,8 +195,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": ", BNB"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -220,10 +220,10 @@
         }
       ],
       "steps": [
-        "# High Yield Earnings with Advanced Earn on Binance - Maximize Crypto Rewards",
-        "Enjoy high rewards - Buy Low, Sell High",
-        "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
-        "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
+        "阅读产品说明",
+        "选择目标价格和周期",
+        "确认风险后申购",
+        "到期查看结算结果"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
