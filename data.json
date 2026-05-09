@@ -5,7 +5,7 @@
     "cat": "trade",
     "emoji": "📈",
     "title": "Block Street (BSB) 交易大赛：赢取价值 10 万美元奖励",
-    "subtitle": "参与 Block Street (BSB) 交易，赢取价值 10 万美元奖励",
+    "subtitle": "URL Source: http://www.binance.com/en/support/announcement/detail/f94b496c858448c6ac9847b306babbfd",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -46,10 +46,9 @@
         }
       ],
       "steps": [
-        "打开活动详情并报名",
-        "确认交易赛规则与计分口径",
-        "在活动期内完成交易任务",
-        "查看排名与奖励发放"
+        "Warning: Target URL returned error 405: Method Not Allowed",
+        "Warning: This page maybe not yet fully loaded, consider explicitly specify a ti…",
+        "Warning: This page maybe requiring CAPTCHA, please make sure you are authorized…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
