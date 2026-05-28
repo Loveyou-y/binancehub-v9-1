@@ -277,9 +277,9 @@
       ],
       "steps": [
         "# 币安链上赚币 - 通过区块链赚取加密货币奖励",
+        "[质押借币](http://www.binance.com/zh-CN/loan)",
         "币安[链上赚币](http://www.binance.com/zh-CN/earn/onchain-yields)可供您利用个人币安账户轻松参与各种链上协议…",
-        "币安链上赚币根据链上协议提供各种类型的奖励，包括代币和积分。",
-        "对于币安已经支持的代币，奖励将直接发放到用户的币安现货账户，用户可以在账户中查看和管理自己的收益。"
+        "币安链上赚币根据链上协议提供各种类型的奖励，包括代币和积分。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -309,8 +309,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1,000 "
+        "l": "类型",
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -406,7 +406,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
+    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -422,8 +422,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "social"
+        "l": "奖励线索",
+        "v": "23BNB"
       }
     ],
     "risk": null,
@@ -447,10 +447,10 @@
         }
       ],
       "steps": [
-        "Published Time: Wed, 27 May 2026 23:44:53 GMT",
-        "Don’t miss what’s happening",
-        "People on X are the first to know.",
-        "[Log in](http://x.com/login)"
+        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
+        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
+        "• 在 https://t.co/43VDt0yUa5\" / X",
+        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -480,8 +480,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "newbie"
+        "l": "奖励线索",
+        "v": "30,000 USDT"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -505,10 +505,10 @@
         }
       ],
       "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
+        "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
+        "排名为动态，如有违规参与者将被移除。",
+        "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
+        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -863,6 +863,63 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
+    "title": "binance 最新活动推文：2059786924911415517",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2059786924911415517"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2059786924911415517",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
     "title": "binance 最新活动推文：2059756554979611103",
     "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
@@ -958,63 +1015,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://x.com/binance/status/2059734282155983021",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binance 最新活动推文：2059613141974090060",
-    "subtitle": "来自 @binance 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "binance 最新活动推文：2059613141974090060"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/binance/status/2059613141974090060",
           "lv": "前往原文"
         }
       ],
@@ -3580,6 +3580,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Launches KGST/USDT Zero Trading Fee Campaign (2026-06-01)",
+    "subtitle": "自动抓取 · 2026-05-28",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Launches KGST/USDT Zero Trading Fee Campaign (2026-06-01)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/8313e84b32174279957aca371d856ad6",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "GENIUS Trading Tournament: Trade to Share Up to 1,000,000 GENIUS Token Vouchers",
@@ -4664,64 +4722,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/e9821f5759ab492ab8b5011af8581bf7",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!",
-    "subtitle": "自动抓取 · 2026-05-19",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/f7f900db713e47cfa4debc6daa463484",
           "lv": "前往原文"
         }
       ],
@@ -12860,6 +12860,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!",
+    "subtitle": "自动抓取 · 2026-05-19",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Pakistan Crypto Clash: Join a Team, Trade Together, and Win a Share of Up to  $100,000 in USDT Token Vouchers!"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/f7f900db713e47cfa4debc6daa463484",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Join the Binance Pakistan Referrals Championship to Share 30,000 USDT",
@@ -13944,64 +14002,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/488dcf2c67de435a92ad65dfb8e5dcd1",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "CIS Exclusive TradeFi Challenge: Win Golden Rewards",
-    "subtitle": "自动抓取 · 2026-05-12",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "CIS Exclusive TradeFi Challenge: Win Golden Rewards"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/75d59759c5024327990ddec46a8defce",
           "lv": "前往原文"
         }
       ],
