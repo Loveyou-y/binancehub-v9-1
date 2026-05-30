@@ -63,7 +63,7 @@
     "cat": "launch",
     "emoji": "🪂",
     "title": "HODLer 空投：Fabric Protocol (ROBO)",
-    "subtitle": "URL Source: http://www.binance.com/en/support/announcement/detail/20ac487755434d559568552e9812cbf0",
+    "subtitle": "HODLer 空投推出 ROBO，通过回溯式 BNB 订阅参与",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -104,9 +104,10 @@
         }
       ],
       "steps": [
-        "Warning: Target URL returned error 405: Method Not Allowed",
-        "Warning: This page maybe not yet fully loaded, consider explicitly specify a ti…",
-        "Warning: This page maybe requiring CAPTCHA, please make sure you are authorized…"
+        "确认 BNB 计入快照范围",
+        "查看回溯快照规则",
+        "等待系统分配空投",
+        "上线后查看到账与交易"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -276,9 +277,9 @@
       ],
       "steps": [
         "# 币安链上赚币 - 通过区块链赚取加密货币奖励",
+        "[质押借币](http://www.binance.com/zh-CN/loan)",
         "币安[链上赚币](http://www.binance.com/zh-CN/earn/onchain-yields)可供您利用个人币安账户轻松参与各种链上协议…",
-        "币安链上赚币根据链上协议提供各种类型的奖励，包括代币和积分。",
-        "对于币安已经支持的代币，奖励将直接发放到用户的币安现货账户，用户可以在账户中查看和管理自己的收益。"
+        "币安链上赚币根据链上协议提供各种类型的奖励，包括代币和积分。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -843,6 +844,63 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://x.com/binance/status/2059575779323789732",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "binance 最新活动推文：2060557024476176424",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2060557024476176424"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2060557024476176424",
           "lv": "前往原文"
         }
       ],
