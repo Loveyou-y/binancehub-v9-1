@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "# Simple Earn on Binance - Earn Crypto Rewards with Flexible Options",
-        "Earn rewards on principal-protected products.",
-        "Subscribe at any time and start earning rewards.",
-        "Lock assets for a fixed term and earn higher rewards"
+        "Simple Earn allows users to earn rewards by depositing their digital assets for…",
+        "What rewards can I earn from Flexible Products?",
+        "Flexible Products distribute rewards based on Real-Time APR and Bonus Tiered AP…",
+        "Real-Time APR is a live indication of rewards you can receive, and is subject t…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -309,8 +309,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1,000 "
+        "l": "类型",
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -404,7 +404,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
+    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -420,8 +420,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "23BNB"
+        "l": "类型",
+        "v": "social"
       }
     ],
     "risk": null,
@@ -445,10 +445,8 @@
         }
       ],
       "steps": [
-        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
-        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
-        "• 在 https://t.co/43VDt0yUa5\" / X",
-        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
+        "Published Time: Thu, 04 Jun 2026 14:15:10 GMT",
+        "Warning: This page maybe not yet fully loaded, consider explicitly specify a ti…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -785,6 +783,63 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://x.com/binance/status/2059575779323789732",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "binance 最新活动推文：2062510890369388888",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2062510890369388888"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2062510890369388888",
           "lv": "前往原文"
         }
       ],
@@ -1248,6 +1303,64 @@
         "打开原推文",
         "按要求完成互动",
         "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Launch USDⓈ-Margined ZESTUSDT and BTWUSDT Perpetual Contracts (2026-06-04)",
+    "subtitle": "自动抓取 · 2026-06-04",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Launch USDⓈ-Margined ZESTUSDT and BTWUSDT Perpetual Contracts (2026-06-04)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/61e41ce0e4b74dc7a794cc6bf9c57d38",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -2362,8 +2475,8 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
-    "title": "Binance Will List Gensyn (AIGENSYN) with Seed Tag Applied",
-    "subtitle": "自动抓取 · 2026-05-14",
+    "title": "Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns",
+    "subtitle": "自动抓取 · 2026-06-04",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -2394,12 +2507,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will List Gensyn (AIGENSYN) with Seed Tag Applied"
+          "v": "Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/71f44e5e014c445697bb6a6f70315e35",
+          "link": "https://www.binance.com/en/support/announcement/detail/c551fe705be942888cb7b27493482dd8",
           "lv": "前往原文"
         }
       ],
@@ -3502,64 +3615,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/f0c49008c37f4f438177a624a7df8667",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed",
-    "subtitle": "自动抓取 · 2026-05-22",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/8ae1dd80262c49448ed114e499159f20",
           "lv": "前往原文"
         }
       ],
@@ -10538,6 +10593,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will List Gensyn (AIGENSYN) with Seed Tag Applied",
+    "subtitle": "自动抓取 · 2026-05-14",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will List Gensyn (AIGENSYN) with Seed Tag Applied"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/71f44e5e014c445697bb6a6f70315e35",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-05-15 & 2026-05-18)",
@@ -11640,16 +11753,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Futures Will Launch MSFTUSDT, AVGOUSDT and BABAUSDT USDⓈ-Margined Perpetual Contracts (2026-04-20)",
-    "subtitle": "自动抓取 · 2026-04-16",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed",
+    "subtitle": "自动抓取 · 2026-05-22",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -11660,10 +11773,10 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -11674,12 +11787,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Launch MSFTUSDT, AVGOUSDT and BABAUSDT USDⓈ-Margined Perpetual Contracts (2026-04-20)"
+          "v": "Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/16fe15060947481ab240fb398230a3ee",
+          "link": "https://www.binance.com/en/support/announcement/detail/8ae1dd80262c49448ed114e499159f20",
           "lv": "前往原文"
         }
       ],
@@ -12782,64 +12895,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/d29b59c26a914c71b95e864369a6bfb0",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Launches Seven New Localized WhatsApp Channels",
-    "subtitle": "自动抓取 · 2026-05-05",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Launches Seven New Localized WhatsApp Channels"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/28e3d1ecbb7f4b28a44f378a8d3f16ef",
           "lv": "前往原文"
         }
       ],
