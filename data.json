@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "Simple Earn allows users to earn rewards by depositing their digital assets for…",
-        "What rewards can I earn from Flexible Products?",
-        "Flexible Products distribute rewards based on Real-Time APR and Bonus Tiered AP…",
-        "Real-Time APR is a live indication of rewards you can receive, and is subject t…"
+        "# Simple Earn on Binance - Earn Crypto Rewards with Flexible Options",
+        "Earn rewards on principal-protected products.",
+        "Subscribe at any time and start earning rewards.",
+        "Lock assets for a fixed term and earn higher rewards"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -309,8 +309,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1,000 "
+        "l": "类型",
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -785,6 +785,63 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://x.com/binance/status/2064256508636864573",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "binance 最新活动推文：2064452867440705688",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2064452867440705688"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2064452867440705688",
           "lv": "前往原文"
         }
       ],
