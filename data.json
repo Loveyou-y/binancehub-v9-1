@@ -478,8 +478,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "30,000 USDT"
+        "l": "类型",
+        "v": "newbie"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -503,10 +503,10 @@
         }
       ],
       "steps": [
-        "[奖励](http://web3.binance.com/zh-CN/referral)",
-        "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
-        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00",
-        "按钮完成报名。活动期间任何时间均可交易完成注册，注册后所产生的合约交易量，方可计为本活动的有效参赛交易量。"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -804,6 +804,120 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
+    "title": "binance 最新活动推文：2064710216675897844",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2064710216675897844"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2064710216675897844",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "binance 最新活动推文：2064679327740973380",
+    "subtitle": "来自 @binance 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binance 最新活动推文：2064679327740973380"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/binance/status/2064679327740973380",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
     "title": "binance 最新活动推文：2064655630036832295",
     "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
@@ -956,63 +1070,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://x.com/binance/status/2064543290037276917",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binance 最新活动推文：2064452867440705688",
-    "subtitle": "来自 @binance 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "binance 最新活动推文：2064452867440705688"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/binance/status/2064452867440705688",
           "lv": "前往原文"
         }
       ],
@@ -2361,6 +2418,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Notice on Binance Futures COIN-M System Upgrade (2026-06-30)",
+    "subtitle": "自动抓取 · 2026-06-10",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice on Binance Futures COIN-M System Upgrade (2026-06-30)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/2a84dfd7643f4dc18084e45e8691b69e",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
     "title": "Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-10)",
@@ -3463,16 +3578,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Alpha Trading Competition: Trade Solstice (SLX) and Share $200K Worth of Rewards (2026-06-01)",
-    "subtitle": "自动抓取 · 2026-06-01",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Football Challenge 2026: Make Your Daily Picks to Win a Share of a $4,000,000 Valued Prize Pool",
+    "subtitle": "自动抓取 · 2026-06-10",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -3483,7 +3598,7 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -3497,12 +3612,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Alpha Trading Competition: Trade Solstice (SLX) and Share $200K Worth of Rewards (2026-06-01)"
+          "v": "Binance Football Challenge 2026: Make Your Daily Picks to Win a Share of a $4,000,000 Valued Prize Pool"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/8ca0bf0ca6b04a439c529f0b503b38f7",
+          "link": "https://www.binance.com/en/support/announcement/detail/a6f02526afd1466ab72fe29af4c84c67",
           "lv": "前往原文"
         }
       ],
@@ -4605,64 +4720,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/e187a603a2084c4cafe8acd651dca160",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Alpha Trading Competition: Trade Tokenized Securities on Binance Alpha and Share 300 MUon Tokenized Securities …",
-    "subtitle": "自动抓取 · 2026-06-03",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Alpha Trading Competition: Trade Tokenized Securities on Binance Alpha and Share 300 MUon Tokenized Securities Rewards!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/92359220692b4bf4b4b32514f2777e31",
           "lv": "前往原文"
         }
       ],
@@ -11641,6 +11698,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Alpha Trading Competition: Trade Solstice (SLX) and Share $200K Worth of Rewards (2026-06-01)",
+    "subtitle": "自动抓取 · 2026-06-01",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Alpha Trading Competition: Trade Solstice (SLX) and Share $200K Worth of Rewards (2026-06-01)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/8ca0bf0ca6b04a439c529f0b503b38f7",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Important Updates for the Binance P2P Block Zone in LATAM",
@@ -12745,8 +12860,8 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20… #179c9a",
-    "subtitle": "自动抓取 · 2026-05-12",
+    "title": "Binance Alpha Trading Competition: Trade Tokenized Securities on Binance Alpha and Share 300 MUon Tokenized Securities …",
+    "subtitle": "自动抓取 · 2026-06-03",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -12766,7 +12881,7 @@
         "v": "trade"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -12777,12 +12892,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-15)"
+          "v": "Binance Alpha Trading Competition: Trade Tokenized Securities on Binance Alpha and Share 300 MUon Tokenized Securities Rewards!"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/fd9a0d1f932f4025bdb09b6c57179c9a",
+          "link": "https://www.binance.com/en/support/announcement/detail/92359220692b4bf4b4b32514f2777e31",
           "lv": "前往原文"
         }
       ],
@@ -13885,64 +14000,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/ef7615a969c24884933aa2b22a9f365c",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Launches KGST/USDT Zero Trading Fee Campaign (2026-06-01)",
-    "subtitle": "自动抓取 · 2026-05-28",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Launches KGST/USDT Zero Trading Fee Campaign (2026-06-01)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/8313e84b32174279957aca371d856ad6",
           "lv": "前往原文"
         }
       ],
