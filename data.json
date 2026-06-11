@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "# Simple Earn on Binance - Earn Crypto Rewards with Flexible Options",
-        "Earn rewards on principal-protected products.",
-        "Subscribe at any time and start earning rewards.",
-        "Lock assets for a fixed term and earn higher rewards"
+        "Simple Earn allows users to earn rewards by depositing their digital assets for…",
+        "What rewards can I earn from Flexible Products?",
+        "Flexible Products distribute rewards based on Real-Time APR and Bonus Tiered AP…",
+        "Real-Time APR is a live indication of rewards you can receive, and is subject t…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -479,7 +479,7 @@
       },
       {
         "l": "奖励线索",
-        "v": "5,000 USDT"
+        "v": "30,000 USDT"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -503,10 +503,10 @@
         }
       ],
       "steps": [
-        "*   参赛用户须使用 币安钱包（无私钥钱包） 完成报名，并通过 币安钱包（网页版） 进行链上合约交易。通过第三方 DApp 或非无私钥钱包产生的交易将不被计…",
-        "*   用户完成活动注册后所产生的合约交易量，方可计为本活动的有效参赛交易量。",
-        "*   活动期间产生的所有永续合约交易量，均将按照 Aster 积分规则获得 Aster 积分，并计入 Aster 的交易竞赛及奖励活动。如需了解更多关于 A…",
-        "*   活动期间，用户的个人合约交易量须达到至少 5,000 USDT（股票代币交易量不计入），且最终计算的奖励金额须 大于或等于 1 USDT，方可参与奖励…"
+        "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
+        "排名为动态，如有违规参与者将被移除。",
+        "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
+        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
