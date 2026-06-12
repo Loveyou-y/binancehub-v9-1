@@ -390,7 +390,8 @@
         }
       ],
       "steps": [
-        "增长区块链知识、完成测验并免费获得加密货币。"
+        "增长区块链知识、完成测验并免费获得加密货币。",
+        "Defi App (HOME) simplifies DeFi with easy wallets, gas-free cross-chain swaps, …"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -478,8 +479,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "newbie"
+        "l": "奖励线索",
+        "v": "30,000 USDT"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -499,6 +500,64 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://web3.binance.com/zh-CN/perpetuals/milestone-tc/szn3?chain=bsc",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
+        "排名为动态，如有违规参与者将被移除。",
+        "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
+        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12",
+    "subtitle": "自动抓取 · 2026-06-12",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Exchange Adds bStocks Tokenized Securities SpaceX (SPCXB) on Binance Spot - 2026-06-12"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/191cb96109f24c5c85362631a55a45d3",
           "lv": "前往原文"
         }
       ],
@@ -1619,16 +1678,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "launch",
-    "emoji": "🪂",
-    "title": "Introducing Gensyn (AIGENSYN) on Binance HODLer Airdrops! Earn AIGENSYN With Retroactive BNB Simple Earn Subscriptions",
-    "subtitle": "自动抓取 · 2026-05-21",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Convert SPCXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-12)",
+    "subtitle": "自动抓取 · 2026-06-12",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "launch"
+      "trade"
     ],
-    "ico": "var(--gs)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -1639,7 +1698,65 @@
       },
       {
         "l": "类型",
-        "v": "launch"
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Convert SPCXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-12)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/8ad8bd3442964b3c90e67ee3de96ec0e",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "newbie",
+    "emoji": "👛",
+    "title": "Important Notice: Binance Wallet SPCXx IPO Campaign Cancellation and Next Steps",
+    "subtitle": "自动抓取 · 2026-06-12",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "newbie"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "newbie"
       }
     ],
     "risk": null,
@@ -1653,12 +1770,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Introducing Gensyn (AIGENSYN) on Binance HODLer Airdrops! Earn AIGENSYN With Retroactive BNB Simple Earn Subscriptions"
+          "v": "Important Notice: Binance Wallet SPCXx IPO Campaign Cancellation and Next Steps"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/8c6cfaeddbd04f1595f658ac1dfbd0e7",
+          "link": "https://www.binance.com/en/support/announcement/detail/73745bb4cc9d49528cfb2b3f2b354f0f",
           "lv": "前往原文"
         }
       ],
@@ -2703,122 +2820,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/45800a2dd0b7490d85e9173a51d2bd81",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)",
-    "subtitle": "自动抓取 · 2026-06-03",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/fcf3698a42104ba2b52e5c475d155321",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "newbie",
-    "emoji": "👛",
-    "title": "Binance NFT Upgrade to Binance Wallet and Limited Time Withdrawal Fee Reimbursement",
-    "subtitle": "自动抓取 · 2026-06-03",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "newbie"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "newbie"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance NFT Upgrade to Binance Wallet and Limited Time Withdrawal Fee Reimbursement"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/0b6eb93d6c934fa48dadd49b1bdf452f",
           "lv": "前往原文"
         }
       ],
@@ -9797,6 +9798,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "launch",
+    "emoji": "🪂",
+    "title": "Introducing Gensyn (AIGENSYN) on Binance HODLer Airdrops! Earn AIGENSYN With Retroactive BNB Simple Earn Subscriptions",
+    "subtitle": "自动抓取 · 2026-05-21",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "launch"
+    ],
+    "ico": "var(--gs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "launch"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Introducing Gensyn (AIGENSYN) on Binance HODLer Airdrops! Earn AIGENSYN With Retroactive BNB Simple Earn Subscriptions"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/8c6cfaeddbd04f1595f658ac1dfbd0e7",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Binance Futures Will Launch USDⓈ-Margined SPCXUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-05-21)",
@@ -10901,8 +10960,8 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-28",
-    "subtitle": "自动抓取 · 2026-04-27",
+    "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)",
+    "subtitle": "自动抓取 · 2026-06-03",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -10922,6 +10981,64 @@
         "v": "trade"
       }
     ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/fcf3698a42104ba2b52e5c475d155321",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "newbie",
+    "emoji": "👛",
+    "title": "Binance NFT Upgrade to Binance Wallet and Limited Time Withdrawal Fee Reimbursement",
+    "subtitle": "自动抓取 · 2026-06-03",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "newbie"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "newbie"
+      }
+    ],
     "risk": null,
     "subscribed": false,
     "drawer": {
@@ -10933,12 +11050,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-28"
+          "v": "Binance NFT Upgrade to Binance Wallet and Limited Time Withdrawal Fee Reimbursement"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/75a90e75150c4917b54c5251cba87225",
+          "link": "https://www.binance.com/en/support/announcement/detail/0b6eb93d6c934fa48dadd49b1bdf452f",
           "lv": "前往原文"
         }
       ],
@@ -11983,122 +12100,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/0626daaf33cf433bb922e48e04049d7c",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20… #77387e",
-    "subtitle": "自动抓取 · 2026-05-19",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-05-22)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/7a9deab7bcad40a69dd61734a577387e",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Gensyn (AIGENSYN) Listing Will Be Further Postponed",
-    "subtitle": "自动抓取 · 2026-05-14",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Gensyn (AIGENSYN) Listing Will Be Further Postponed"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/5adac817d3a44e0e991701cf02153ed1",
           "lv": "前往原文"
         }
       ],
