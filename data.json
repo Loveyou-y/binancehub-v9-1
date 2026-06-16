@@ -195,8 +195,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "earn"
+        "l": "奖励线索",
+        "v": ", BNB"
       }
     ],
     "risk": null,
@@ -220,7 +220,8 @@
         }
       ],
       "steps": [
-        "# High Yield Earnings with Advanced Earn on Binance - Maximize Crypto Rewards"
+        "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
+        "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -276,9 +277,9 @@
       ],
       "steps": [
         "# 币安链上赚币 - 通过区块链赚取加密货币奖励",
+        "[质押借币](http://www.binance.com/zh-CN/loan)",
         "币安[链上赚币](http://www.binance.com/zh-CN/earn/onchain-yields)可供您利用个人币安账户轻松参与各种链上协议…",
-        "币安链上赚币根据链上协议提供各种类型的奖励，包括代币和积分。",
-        "对于币安已经支持的代币，奖励将直接发放到用户的币安现货账户，用户可以在账户中查看和管理自己的收益。"
+        "币安链上赚币根据链上协议提供各种类型的奖励，包括代币和积分。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -389,8 +390,7 @@
         }
       ],
       "steps": [
-        "增长区块链知识、完成测验并免费获得加密货币。",
-        "Defi App (HOME) simplifies DeFi with easy wallets, gas-free cross-chain swaps, …"
+        "增长区块链知识、完成测验并免费获得加密货币。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -478,8 +478,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "30,000 USDT"
+        "l": "类型",
+        "v": "newbie"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -503,10 +503,10 @@
         }
       ],
       "steps": [
-        "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
-        "排名为动态，如有违规参与者将被移除。",
-        "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
-        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1679,6 +1679,122 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Binance Margin: New Convert Option for Close Position",
+    "subtitle": "自动抓取 · 2026-06-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Margin: New Convert Option for Close Position"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/568b96e7109548048ba17f67a231defd",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Banking Triparty: 0% Fee Promotion Extended Through 2026 & Revised Tiered Fees from 2027",
+    "subtitle": "自动抓取 · 2026-06-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Banking Triparty: 0% Fee Promotion Extended Through 2026 & Revised Tiered Fees from 2027"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/c57c265f0846472fb22648762e68e9e2",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-17)",
     "subtitle": "自动抓取 · 2026-06-16",
     "tags": [
@@ -2721,16 +2837,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns",
-    "subtitle": "自动抓取 · 2026-06-04",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-06-16)",
+    "subtitle": "自动抓取 · 2026-06-16",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "trade"
     ],
-    "ico": "var(--os)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2741,7 +2857,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "trade"
       }
     ],
     "risk": null,
@@ -2755,12 +2871,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns"
+          "v": "Binance Alpha Trading Competition: Trade ETHGas (GWEI) and Share $200K Worth of Rewards (2026-06-16)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/c551fe705be942888cb7b27493482dd8",
+          "link": "https://www.binance.com/en/support/announcement/detail/6da78dd5f06c441ba03f974321dc46f3",
           "lv": "前往原文"
         }
       ],
@@ -2779,16 +2895,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Updates Fiat Liquidity Provider Program (2026-06-04)",
-    "subtitle": "自动抓取 · 2026-06-03",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Traders League Season 3: Trade TAO to Share Up to 600 BNB Token Vouchers",
+    "subtitle": "自动抓取 · 2026-06-16",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "trade"
     ],
-    "ico": "var(--os)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2799,7 +2915,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "trade"
       }
     ],
     "risk": null,
@@ -2813,12 +2929,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Updates Fiat Liquidity Provider Program (2026-06-04)"
+          "v": "Binance Traders League Season 3: Trade TAO to Share Up to 600 BNB Token Vouchers"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/c44afeb363734e6c9c733c4b798fe9f8",
+          "link": "https://www.binance.com/en/support/announcement/detail/e219edb4f42644fba4a3a4d987746229",
           "lv": "前往原文"
         }
       ],
@@ -3863,122 +3979,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/836fb54e92044caab159c342222dfabb",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "MENA Exclusive: Invite and Earn Together — Share in 50,000 USDC Rewards",
-    "subtitle": "自动抓取 · 2026-06-10",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "MENA Exclusive: Invite and Earn Together — Share in 50,000 USDC Rewards"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/08e5e3d8310242e5a2294b805af47d85",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "newbie",
-    "emoji": "👛",
-    "title": "Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign and Win a Share of 100,000 U Token Rewards",
-    "subtitle": "自动抓取 · 2026-06-10",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "newbie"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "newbie"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign and Win a Share of 100,000 U Token Rewards"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/39e4f49b1f3e4f968a5ead463c74d2cd",
           "lv": "前往原文"
         }
       ],
@@ -10957,6 +10957,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns",
+    "subtitle": "自动抓取 · 2026-06-04",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Execution Services Launches Upgraded OTC Dashboard & Limited-Time Campaigns"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/c551fe705be942888cb7b27493482dd8",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Updates Fiat Liquidity Provider Program (2026-06-04)",
+    "subtitle": "自动抓取 · 2026-06-03",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Updates Fiat Liquidity Provider Program (2026-06-04)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/c44afeb363734e6c9c733c4b798fe9f8",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
     "title": "Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-03)",
@@ -12001,16 +12117,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed",
-    "subtitle": "自动抓取 · 2026-05-22",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "MENA Exclusive: Invite and Earn Together — Share in 50,000 USDC Rewards",
+    "subtitle": "自动抓取 · 2026-06-10",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "earn"
     ],
-    "ico": "var(--os)",
+    "ico": "var(--grs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -12021,7 +12137,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -12035,12 +12151,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Genius Terminal (GENIUS) and OpenGradient (OPG) Listing Will Be Postponed"
+          "v": "MENA Exclusive: Invite and Earn Together — Share in 50,000 USDC Rewards"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/8ae1dd80262c49448ed114e499159f20",
+          "link": "https://www.binance.com/en/support/announcement/detail/08e5e3d8310242e5a2294b805af47d85",
           "lv": "前往原文"
         }
       ],
@@ -12059,14 +12175,14 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22",
-    "subtitle": "自动抓取 · 2026-05-22",
+    "cat": "newbie",
+    "emoji": "👛",
+    "title": "Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign and Win a Share of 100,000 U Token Rewards",
+    "subtitle": "自动抓取 · 2026-06-10",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "newbie"
     ],
     "ico": "var(--os)",
     "deadlineSoon": false,
@@ -12079,7 +12195,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "newbie"
       }
     ],
     "risk": null,
@@ -12093,12 +12209,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will Extend the Monitoring Tag to Include ALCX, COOKIE, DODO, EPIC, HEI, HFT, STORJ, SYN & TLM on 2026-05-22"
+          "v": "Join the 2026 Binance Wallet Football Trading Cup - U Trading Volume Campaign and Win a Share of 100,000 U Token Rewards"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/ca0f3a3ff83243b79102b4561c8ccdc2",
+          "link": "https://www.binance.com/en/support/announcement/detail/39e4f49b1f3e4f968a5ead463c74d2cd",
           "lv": "前往原文"
         }
       ],
@@ -13143,64 +13259,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/01972f67daab43968fd656acb07ca265",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Convert Weekly Accumulation Challenge: Convert Daily to Share 35,000 USDC in Rewards!",
-    "subtitle": "自动抓取 · 2026-06-03",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Convert Weekly Accumulation Challenge: Convert Daily to Share 35,000 USDC in Rewards!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/2504fae5fa1d474caf9233f0b39e76c0",
           "lv": "前往原文"
         }
       ],
@@ -19001,64 +19059,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/ba650472785243d0b997fe5aae4f5d4f",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-28",
-    "subtitle": "自动抓取 · 2026-04-27",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-04-28"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/75a90e75150c4917b54c5251cba87225",
           "lv": "前往原文"
         }
       ],
