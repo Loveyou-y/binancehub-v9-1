@@ -195,8 +195,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "earn"
+        "l": "奖励线索",
+        "v": ", BNB"
       }
     ],
     "risk": null,
@@ -220,10 +220,8 @@
         }
       ],
       "steps": [
-        "阅读产品说明",
-        "选择目标价格和周期",
-        "确认风险后申购",
-        "到期查看结算结果"
+        "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
+        "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1681,6 +1679,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-06-24)",
+    "subtitle": "自动抓取 · 2026-06-24",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-06-24)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/ca1d8c973ea348da8c7fa95b04c57777",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20…",
@@ -2783,16 +2839,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12",
-    "subtitle": "自动抓取 · 2026-06-11",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Traders League Season 3: Trade CELO to Share Up to 400 BNB Token Vouchers",
+    "subtitle": "自动抓取 · 2026-06-24",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "trade"
     ],
-    "ico": "var(--os)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2803,7 +2859,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "trade"
       }
     ],
     "risk": null,
@@ -2817,12 +2873,70 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12"
+          "v": "Binance Traders League Season 3: Trade CELO to Share Up to 400 BNB Token Vouchers"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/3470731ce77d4cfea1e2d9b591b0f4bb",
+          "link": "https://www.binance.com/en/support/announcement/detail/0185629496dc4de68ec4fedf550f3d55",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "newbie",
+    "emoji": "👛",
+    "title": "Join the 2026 Binance Wallet Football Trading Cup - Trading Volume Campaign Season 2 and Win a Share of 100,000 USDT To…",
+    "subtitle": "自动抓取 · 2026-06-24",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "newbie"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "newbie"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Join the 2026 Binance Wallet Football Trading Cup - Trading Volume Campaign Season 2 and Win a Share of 100,000 USDT Token Rewards"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/8f98d7ab3dbf4933ba4db5abbb9e876a",
           "lv": "前往原文"
         }
       ],
@@ -3867,122 +3981,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/070d72e55f4c40e1b7710c2ff2ad2903",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "Binance The Pitch is Yours Discord Game: Climb the Leaderboard and Share 5,000 USDC in Rewards!",
-    "subtitle": "自动抓取 · 2026-06-15",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance The Pitch is Yours Discord Game: Climb the Leaderboard and Share 5,000 USDC in Rewards!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/52894c62b6544e2d9bf8844178e31c7f",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Word of the Day: Test Your Knowledge on “bStocks” to Unlock BNB Rewards!",
-    "subtitle": "自动抓取 · 2026-06-15",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Word of the Day: Test Your Knowledge on “bStocks” to Unlock BNB Rewards!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/ff84d61931b44acabd8e6b3011c51ad8",
           "lv": "前往原文"
         }
       ],
@@ -10961,6 +10959,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12",
+    "subtitle": "自动抓取 · 2026-06-11",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/3470731ce77d4cfea1e2d9b591b0f4bb",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Notice on Binance Futures COIN-M System Upgrade (2026-06-30)",
@@ -12063,16 +12119,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Trade Stocks on Binance: Buy and Sell U.S. Stocks and ETFs from Your Binance Account",
-    "subtitle": "自动抓取 · 2026-06-01",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "Binance The Pitch is Yours Discord Game: Climb the Leaderboard and Share 5,000 USDC in Rewards!",
+    "subtitle": "自动抓取 · 2026-06-15",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "social"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--cs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -12083,7 +12139,7 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "social"
       }
     ],
     "risk": null,
@@ -12097,12 +12153,70 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Trade Stocks on Binance: Buy and Sell U.S. Stocks and ETFs from Your Binance Account"
+          "v": "Binance The Pitch is Yours Discord Game: Climb the Leaderboard and Share 5,000 USDC in Rewards!"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/8c8fb6809d9c46789306905327e7567a",
+          "link": "https://www.binance.com/en/support/announcement/detail/52894c62b6544e2d9bf8844178e31c7f",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Word of the Day: Test Your Knowledge on “bStocks” to Unlock BNB Rewards!",
+    "subtitle": "自动抓取 · 2026-06-15",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Word of the Day: Test Your Knowledge on “bStocks” to Unlock BNB Rewards!"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/ff84d61931b44acabd8e6b3011c51ad8",
           "lv": "前往原文"
         }
       ],
@@ -13147,122 +13261,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/4d7669d3008048cabadc23701bc6dce6",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "BABY Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers",
-    "subtitle": "自动抓取 · 2026-06-09",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "BABY Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/5c7529d7556d4702b12698a276dc3bdd",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "newbie",
-    "emoji": "👛",
-    "title": "Join the 2026 Binance Wallet Football Trading Cup - PNL Trading Campaign and Share a 300,000 USDT Prize Pool",
-    "subtitle": "自动抓取 · 2026-06-09",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "newbie"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "newbie"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Join the 2026 Binance Wallet Football Trading Cup - PNL Trading Campaign and Share a 300,000 USDT Prize Pool"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/92b1c5c7761443309c8594185a5e8989",
           "lv": "前往原文"
         }
       ],
