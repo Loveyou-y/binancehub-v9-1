@@ -349,7 +349,7 @@
     "cat": "square",
     "emoji": "📚",
     "title": "学习赚币 · Learn & Earn",
-    "subtitle": "upstream connect error or disconnect/reset before headers. reset reason: connection termination",
+    "subtitle": "URL Source: http://www.binance.com/zh-CN/academy/learn-and-earn",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -390,10 +390,7 @@
         }
       ],
       "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
+        "增长区块链知识、完成测验并免费获得加密货币。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
