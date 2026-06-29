@@ -220,7 +220,6 @@
         }
       ],
       "steps": [
-        "Enjoy high rewards - Buy Low, Sell High",
         "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
         "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
       ],
@@ -408,7 +407,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -449,10 +448,10 @@
         }
       ],
       "steps": [
-        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
-        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
-        "• 在 https://t.co/43VDt0yUa5",
-        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -507,10 +506,10 @@
         }
       ],
       "steps": [
+        "[新 奖励](http://web3.binance.com/zh-CN/referral)",
         "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
-        "排名为动态，如有违规参与者将被移除。",
-        "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
-        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
+        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00",
+        "按钮完成报名。活动期间任何时间均可交易完成注册，注册后所产生的合约交易量，方可计为本活动的有效参赛交易量。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1681,6 +1680,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Supplementary Notice on Binance Futures COIN-M System Upgrade (2026-06-30)",
+    "subtitle": "自动抓取 · 2026-06-29",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Supplementary Notice on Binance Futures COIN-M System Upgrade (2026-06-30)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/c5000c295b0a4051af9e2f0ef59066de",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Recurring Transactions for bStocks Now Available on Binance Convert",
@@ -2765,64 +2822,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/e87980ae86524568ba511a08ab92ea44",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Introducing bStocks: Tokenized Securities 1:1 Backing with 24/7 Trading",
-    "subtitle": "自动抓取 · 2026-06-11",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Introducing bStocks: Tokenized Securities 1:1 Backing with 24/7 Trading"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/2c0c92ed15ac42d1b14bb1eac00d22bb",
           "lv": "前往原文"
         }
       ],
@@ -10963,6 +10962,64 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
+    "title": "Introducing bStocks: Tokenized Securities 1:1 Backing with 24/7 Trading",
+    "subtitle": "自动抓取 · 2026-06-11",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Introducing bStocks: Tokenized Securities 1:1 Backing with 24/7 Trading"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/2c0c92ed15ac42d1b14bb1eac00d22bb",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
     "title": "Notice on SpaceX (SPCX) on Binance Stocks - 2026-06-12",
     "subtitle": "自动抓取 · 2026-06-11",
     "tags": [
@@ -12045,64 +12102,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/e84a50267c8b4fd0a37fdba9414ca84d",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Dubai Launches Direct AED Deposits & Withdrawals — Earn Up to 450 AED in Rewards",
-    "subtitle": "自动抓取 · 2026-06-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Dubai Launches Direct AED Deposits & Withdrawals — Earn Up to 450 AED in Rewards"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/b3e8f4877a454461b235bc534495962a",
           "lv": "前往原文"
         }
       ],
