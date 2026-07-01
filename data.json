@@ -195,8 +195,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": ", BNB"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -220,8 +220,10 @@
         }
       ],
       "steps": [
-        "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
-        "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
+        "阅读产品说明",
+        "选择目标价格和周期",
+        "确认风险后申购",
+        "到期查看结算结果"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -407,7 +409,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "重点活动",
+    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -448,10 +450,10 @@
         }
       ],
       "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
+        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
+        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
+        "• 在 https://t.co/43VDt0yUa5\" / X",
+        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1680,6 +1682,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Notice on Bending Spoons (BSP) on Binance Stocks - 2026-07-01",
+    "subtitle": "自动抓取 · 2026-07-01",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice on Bending Spoons (BSP) on Binance Stocks - 2026-07-01"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/45a5fb47045544988728c1f86b32dcb8",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20…",
@@ -2782,16 +2842,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined HUSDT Perpetual Contract (2026-06-15)",
-    "subtitle": "自动抓取 · 2026-06-15",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Stocks Teach Me the Difference: Participate and Share 500 USDC worth of Rewards!",
+    "subtitle": "自动抓取 · 2026-07-01",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2802,10 +2862,10 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -2816,12 +2876,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined HUSDT Perpetual Contract (2026-06-15)"
+          "v": "Binance Stocks Teach Me the Difference: Participate and Share 500 USDC worth of Rewards!"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/c18ef5b48c5a4d5494eb178a10ffd4bc",
+          "link": "https://www.binance.com/en/support/announcement/detail/8bd5ddf60dfe4d9c8dc670e386c79dfb",
           "lv": "前往原文"
         }
       ],
@@ -3924,64 +3984,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/8550a50c2d314dc3bdfc2c29fc9cf46a",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers",
-    "subtitle": "自动抓取 · 2026-06-19",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/fa211572d953433da7f6d39b7f184a72",
           "lv": "前往原文"
         }
       ],
@@ -10962,6 +10964,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined HUSDT Perpetual Contract (2026-06-15)",
+    "subtitle": "自动抓取 · 2026-06-15",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined HUSDT Perpetual Contract (2026-06-15)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/c18ef5b48c5a4d5494eb178a10ffd4bc",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Binance Futures Will Convert SPCXUSDT Pre-IPO Perp to Standard USDⓈ-Margined TradFi Perp (2026-06-12)",
     "subtitle": "自动抓取 · 2026-06-12",
     "tags": [
@@ -12064,8 +12124,8 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)",
-    "subtitle": "自动抓取 · 2026-06-03",
+    "title": "Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers",
+    "subtitle": "自动抓取 · 2026-06-19",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -12085,7 +12145,7 @@
         "v": "trade"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -12096,12 +12156,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-04 & 2026-06-08)"
+          "v": "Binance Traders League Season 3: Trade RE to Share Up to 2,000,000 RE Token Vouchers"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/fcf3698a42104ba2b52e5c475d155321",
+          "link": "https://www.binance.com/en/support/announcement/detail/fa211572d953433da7f6d39b7f184a72",
           "lv": "前往原文"
         }
       ],
@@ -13204,64 +13264,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/ff188abbdcd74f3fa8f94de32c27ce87",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "bStocks Trading Competition: Trade to Share Up to $240,000 in SpaceX bStocks (SPCXB) Token Rewards",
-    "subtitle": "自动抓取 · 2026-06-12",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "bStocks Trading Competition: Trade to Share Up to $240,000 in SpaceX bStocks (SPCXB) Token Rewards"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/aeac1e4214324ba886e698a422e02179",
           "lv": "前往原文"
         }
       ],
