@@ -407,7 +407,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -448,10 +448,10 @@
         }
       ],
       "steps": [
-        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
-        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
-        "• 在 https://t.co/43VDt0yUa5",
-        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1680,6 +1680,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets",
+    "subtitle": "自动抓取 · 2026-07-07",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Add 10 bStocks Tokenized Securities as Collateral Assets"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/e4bbadb04b5046cab29e298f0c61f7bb",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "launch",
+    "emoji": "🪂",
+    "title": "Binance Earn Launches BTC Yield: Earn Potential Weekly Yield on Your Bitcoin and Subscribe for a Discount Buy Airdrop",
+    "subtitle": "自动抓取 · 2026-07-07",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "launch"
+    ],
+    "ico": "var(--gs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "launch"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Earn Launches BTC Yield: Earn Potential Weekly Yield on Your Bitcoin and Subscribe for a Discount Buy Airdrop"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/a9e5ece8913240f69949de83bef5111f",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20…",
@@ -2726,8 +2842,8 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20… #58f757",
-    "subtitle": "自动抓取 · 2026-06-24",
+    "title": "Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-07)",
+    "subtitle": "自动抓取 · 2026-07-07",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -2747,7 +2863,7 @@
         "v": "trade"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -2758,12 +2874,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-06-26)"
+          "v": "Binance Alpha Trading Competition: Trade o1.exchange (O) and Share $200K Worth of Rewards (2026-07-07)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/f9b4352902014b6a983b4838f958f757",
+          "link": "https://www.binance.com/en/support/announcement/detail/958162f99c1d4cc6a7f7eaefb1d67587",
           "lv": "前往原文"
         }
       ],
@@ -2782,16 +2898,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time",
-    "subtitle": "自动抓取 · 2026-06-18",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Traders League Season 3: Trade SXT to Share Up to 22,000,000 SXT Token Vouchers",
+    "subtitle": "自动抓取 · 2026-07-07",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "trade"
     ],
-    "ico": "var(--os)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2802,7 +2918,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "trade"
       }
     ],
     "risk": null,
@@ -2816,12 +2932,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time"
+          "v": "Binance Traders League Season 3: Trade SXT to Share Up to 22,000,000 SXT Token Vouchers"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/24d9efcec1024984b94b8526d0e76494",
+          "link": "https://www.binance.com/en/support/announcement/detail/bfbd7302d6fb495bba1258498df889a9",
           "lv": "前往原文"
         }
       ],
@@ -3866,122 +3982,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/2d6508a405454beb8ebbb9e0f1a695fe",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Alpha Trading Competition: Trade Nesa (NES) and Share $200K Worth of Rewards (2026-07-01)",
-    "subtitle": "自动抓取 · 2026-07-01",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Alpha Trading Competition: Trade Nesa (NES) and Share $200K Worth of Rewards (2026-07-01)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/2b2c293b1e554409a10296ef396dc0ab",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "South Asia New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR for 7 Days!",
-    "subtitle": "自动抓取 · 2026-07-01",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "South Asia New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR for 7 Days!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/55baa0469bad48b08e6bc64408e279ac",
           "lv": "前往原文"
         }
       ],
@@ -5162,6 +5162,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Notice of Removal of Spot Trading Pairs - 2026-07-10",
+    "subtitle": "自动抓取 · 2026-07-07",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice of Removal of Spot Trading Pairs - 2026-07-10"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/277c0e32800b40c3b8ed88a46ceac791",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Binance Margin And Loan Will Delist TST & IOTX on 2026-07-10",
     "subtitle": "自动抓取 · 2026-07-06",
     "tags": [
@@ -6262,16 +6320,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice of Removal of Spot Trading Pairs - 2026-05-29",
-    "subtitle": "自动抓取 · 2026-05-26",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-07-14",
+    "subtitle": "自动抓取 · 2026-07-07",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -6282,7 +6340,7 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -6296,12 +6354,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Notice of Removal of Spot Trading Pairs - 2026-05-29"
+          "v": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-07-14"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/eff79d1a82d74b4d9811d90fb2daf899",
+          "link": "https://www.binance.com/en/support/announcement/detail/25fc54a006ab4244b2212f2568f9473d",
           "lv": "前往原文"
         }
       ],
@@ -7404,64 +7462,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/881fa88001f7457bbce778188cf2d23a",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-06-03",
-    "subtitle": "自动抓取 · 2026-05-27",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-06-03"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/4456120cde6a4b1c8395822bca2f863c",
           "lv": "前往原文"
         }
       ],
@@ -10962,6 +10962,122 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20… #58f757",
+    "subtitle": "自动抓取 · 2026-06-24",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-06-26)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/f9b4352902014b6a983b4838f958f757",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time",
+    "subtitle": "自动抓取 · 2026-06-18",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Stock Trading Now Counts Toward Your Binance VIP Qualification for A Limited Time"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/24d9efcec1024984b94b8526d0e76494",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Updates on Tick Size for Spot Trading Pairs (2026-06-25)",
     "subtitle": "自动抓取 · 2026-06-18",
     "tags": [
@@ -12004,10 +12120,68 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Alpha Trading Competition: Trade Nesa (NES) and Share $200K Worth of Rewards (2026-07-01)",
+    "subtitle": "自动抓取 · 2026-07-01",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Alpha Trading Competition: Trade Nesa (NES) and Share $200K Worth of Rewards (2026-07-01)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/2b2c293b1e554409a10296ef396dc0ab",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
-    "title": "Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-10)",
-    "subtitle": "自动抓取 · 2026-06-10",
+    "title": "South Asia New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR for 7 Days!",
+    "subtitle": "自动抓取 · 2026-07-01",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -12038,70 +12212,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Earn Yield Arena: Earn Up to 200% APR With This Week’s New Limited-Time Offers! (2026-06-10)"
+          "v": "South Asia New Earn User Special: Subscribe to USDT or USDC Simple Earn to Enjoy 30% APR for 7 Days!"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/71e6ac61324f493094abc8c568091514",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-10 & 2026-06-12)",
-    "subtitle": "自动抓取 · 2026-06-09",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-06-10 & 2026-06-12)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/3d7ade5e0521477cbe75ca92a913c211",
+          "link": "https://www.binance.com/en/support/announcement/detail/55baa0469bad48b08e6bc64408e279ac",
           "lv": "前往原文"
         }
       ],
@@ -13146,122 +13262,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/a732ac1b1ebe4bd5a1a1a2d235ef4b14",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Traders League Season 3: Trade HYPER to Share Up to 4,000,000 HYPER Token Vouchers",
-    "subtitle": "自动抓取 · 2026-06-23",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Traders League Season 3: Trade HYPER to Share Up to 4,000,000 HYPER Token Vouchers"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/65009efe004541f8bff156127e320a21",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)",
-    "subtitle": "自动抓取 · 2026-06-22",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Alpha Trading Competition: Trade Stable (STABLE) and Share $200K Worth of Rewards (2026-06-22)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/d436942bb64949ceb83a20cb5c111076",
           "lv": "前往原文"
         }
       ],
@@ -14442,6 +14442,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Notice of Removal of Spot Trading Pairs - 2026-05-29",
+    "subtitle": "自动抓取 · 2026-05-26",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice of Removal of Spot Trading Pairs - 2026-05-29"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/eff79d1a82d74b4d9811d90fb2daf899",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Notice of Removal of Margin Trading Pairs - 2026-05-29",
     "subtitle": "自动抓取 · 2026-05-25",
     "tags": [
@@ -15544,8 +15602,8 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
-    "title": "Binance Will Delist BIFI, FIO, FUN, MDT, OXT, WAN on 2026-04-23",
-    "subtitle": "自动抓取 · 2026-04-09",
+    "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-06-03",
+    "subtitle": "自动抓取 · 2026-05-27",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -15576,12 +15634,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will Delist BIFI, FIO, FUN, MDT, OXT, WAN on 2026-04-23"
+          "v": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-06-03"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/d26a627649ee44fca27e07672add9ac2",
+          "link": "https://www.binance.com/en/support/announcement/detail/4456120cde6a4b1c8395822bca2f863c",
           "lv": "前往原文"
         }
       ],
@@ -16684,64 +16742,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/a2322e7390ca410ba698d0bffb21c66a",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "newbie",
-    "emoji": "👛",
-    "title": "Wallet Maintenance for Bitcoin (BTC) Network - 2026-04-15",
-    "subtitle": "自动抓取 · 2026-04-14",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "newbie"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "newbie"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Wallet Maintenance for Bitcoin (BTC) Network - 2026-04-15"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/5dfb43ffc4cd44a88265c660a4eeae78",
           "lv": "前往原文"
         }
       ],
