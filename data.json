@@ -195,8 +195,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "earn"
+        "l": "奖励线索",
+        "v": ", BNB"
       }
     ],
     "risk": null,
@@ -220,10 +220,8 @@
         }
       ],
       "steps": [
-        "阅读产品说明",
-        "选择目标价格和周期",
-        "确认风险后申购",
-        "到期查看结算结果"
+        "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
+        "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -409,7 +407,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -450,10 +448,10 @@
         }
       ],
       "steps": [
-        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
-        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
-        "• 在 https://t.co/43VDt0yUa5",
-        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
