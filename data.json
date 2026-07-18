@@ -5,7 +5,7 @@
     "cat": "trade",
     "emoji": "📈",
     "title": "Block Street (BSB) 交易大赛：赢取价值 10 万美元奖励",
-    "subtitle": "参与 Block Street (BSB) 交易，赢取价值 10 万美元奖励",
+    "subtitle": "upstream connect error or disconnect/reset before headers. reset reason: connection termination",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -309,8 +309,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "welfare"
+        "l": "奖励线索",
+        "v": "$1,000 "
       }
     ],
     "risk": null,
@@ -391,7 +391,9 @@
       ],
       "steps": [
         "增长区块链知识、完成测验并免费获得加密货币。",
-        "Defi App (HOME) simplifies DeFi with easy wallets, gas-free cross-chain swaps, …"
+        "Defi App (HOME) 通过简化钱包操作、免 Gas 费跨链兑换及奖励机制，让所有用户都能轻松探索 DeFi 领域。",
+        "KernelDAO 是一个再质押基础设施协议，为以太坊和 BNB Chain 提供共享经济安全性。本课程将带您了解其运作机制及未来发展方向。",
+        "*   [ETH 质押](https://www.binance.com/zh-CN/eth2)"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -405,7 +407,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "你觉得币安有哪些功能或服务可以通过AI实现创新和优化？",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -446,10 +448,10 @@
         }
       ],
       "steps": [
-        "🏄欢迎提交你的创意提案，用 #AI 建设加密和币安一起逐浪Wbe3",
-        "• 使用 OpenClaw（小龙虾）搭建币安主题的 AI Agent，录制演示视频或图文展示",
-        "• 在 https://t.co/43VDt0yUa5",
-        "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
