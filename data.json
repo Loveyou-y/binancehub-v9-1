@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1 "
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "Earn rewards on principal-protected products.",
-        "Subscribe at any time and start earning rewards.",
-        "Lock assets for a fixed term and earn higher rewards",
-        "Rewards Distribution Timeline"
+        "Simple Earn allows users to earn rewards by depositing their digital assets for…",
+        "What rewards can I earn from Flexible Products?",
+        "Flexible Products distribute rewards based on Real-Time APR and Bonus Tiered AP…",
+        "Real-Time APR is a live indication of rewards you can receive, and is subject t…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -405,7 +405,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -421,8 +421,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "44 BNB"
+        "l": "类型",
+        "v": "social"
       }
     ],
     "risk": null,
@@ -446,10 +446,10 @@
         }
       ],
       "steps": [
-        "Published Time: 2026-03-04T07:00:17.000Z",
-        "*   # Join the conversation",
-        "[Read 320 more replies](http://x.com/i/jf/onboarding/web?redirect_after_login=%…",
-        "## Log in or sign up for X"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -5160,6 +5160,64 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
+    "title": "Binance Will Delist ACX, HFT, PIVX, PYR, VANRY, VIC on 2026-08-17",
+    "subtitle": "自动抓取 · 2026-08-03",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Delist ACX, HFT, PIVX, PYR, VANRY, VIC on 2026-08-17"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/64cf7544b98e4f2ca7f54ba11fd72d9d",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
     "title": "Notice Regarding the Removal of AEUR and Conversion of AEUR to EUR",
     "subtitle": "自动抓取 · 2026-07-30",
     "tags": [
@@ -6260,16 +6318,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice of Removal of Spot Trading Pairs - 2026-06-19",
-    "subtitle": "自动抓取 · 2026-06-16",
+    "cat": "newbie",
+    "emoji": "👛",
+    "title": "Wallet Maintenance for USDC Withdrawals on SEIEVM Network - 2026-08-04",
+    "subtitle": "自动抓取 · 2026-08-03",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "newbie"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -6280,7 +6338,7 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "newbie"
       }
     ],
     "risk": null,
@@ -6294,12 +6352,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Notice of Removal of Spot Trading Pairs - 2026-06-19"
+          "v": "Wallet Maintenance for USDC Withdrawals on SEIEVM Network - 2026-08-04"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/965d2d68914b4f95b57ac426ea9e497e",
+          "link": "https://www.binance.com/en/support/announcement/detail/f88dcd0cfacb4bc6bd28d03e20b1aebc",
           "lv": "前往原文"
         }
       ],
@@ -7402,64 +7460,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/3a79bc452a02489f8f485cd6af49bf8c",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Support the Injective (INJ) Network Upgrade & Hard Fork - 2026-07-02",
-    "subtitle": "自动抓取 · 2026-07-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Support the Injective (INJ) Network Upgrade & Hard Fork - 2026-07-02"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/e9bf1b713c5249fa8839d7d52d12e9d8",
           "lv": "前往原文"
         }
       ],
@@ -14440,6 +14440,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Notice of Removal of Spot Trading Pairs - 2026-06-19",
+    "subtitle": "自动抓取 · 2026-06-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice of Removal of Spot Trading Pairs - 2026-06-19"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/965d2d68914b4f95b57ac426ea9e497e",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Notice of Removal of Margin Trading Pairs - 2026-06-19",
     "subtitle": "自动抓取 · 2026-06-15",
     "tags": [
@@ -15540,16 +15598,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice of Removal of Margin Trading Pairs - 2026-05-01",
-    "subtitle": "自动抓取 · 2026-04-28",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Support the Injective (INJ) Network Upgrade & Hard Fork - 2026-07-02",
+    "subtitle": "自动抓取 · 2026-07-02",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -15560,10 +15618,10 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -15574,12 +15632,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Notice of Removal of Margin Trading Pairs - 2026-05-01"
+          "v": "Binance Will Support the Injective (INJ) Network Upgrade & Hard Fork - 2026-07-02"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/13d3b15fdb0c41a89542ba1114be13da",
+          "link": "https://www.binance.com/en/support/announcement/detail/e9bf1b713c5249fa8839d7d52d12e9d8",
           "lv": "前往原文"
         }
       ],
@@ -16682,64 +16740,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/7f482e14d18a4f928e8efc204ba3a02d",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Support the Polygon (POL) Network Upgrade & Hard Fork - 2026-05-21",
-    "subtitle": "自动抓取 · 2026-05-20",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Support the Polygon (POL) Network Upgrade & Hard Fork - 2026-05-21"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/0cef88d582e2456ba895affcac7c96f8",
           "lv": "前往原文"
         }
       ],
