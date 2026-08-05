@@ -5,7 +5,7 @@
     "cat": "trade",
     "emoji": "📈",
     "title": "Block Street (BSB) 交易大赛：赢取价值 10 万美元奖励",
-    "subtitle": "URL Source: http://www.binance.com/en/support/announcement/detail/f94b496c858448c6ac9847b306babbfd",
+    "subtitle": "参与 Block Street (BSB) 交易，赢取价值 10 万美元奖励",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -46,7 +46,10 @@
         }
       ],
       "steps": [
-        "Warning: Target URL returned error 405: Method Not Allowed"
+        "打开活动详情并报名",
+        "确认交易赛规则与计分口径",
+        "在活动期内完成交易任务",
+        "查看排名与奖励发放"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -273,10 +276,10 @@
         }
       ],
       "steps": [
-        "[质押借币](http://www.binance.com/zh-CN/loan)",
         "币安[链上赚币](http://www.binance.com/zh-CN/earn/onchain-yields)可供您利用个人币安账户轻松参与各种链上协议…",
         "币安链上赚币根据链上协议提供各种类型的奖励，包括代币和积分。",
-        "对于币安已经支持的代币，奖励将直接发放到用户的币安现货账户，用户可以在账户中查看和管理自己的收益。"
+        "对于币安已经支持的代币，奖励将直接发放到用户的币安现货账户，用户可以在账户中查看和管理自己的收益。",
+        "对于币安不支持的代币或积分奖励，用户需要提供其链上钱包地址，币安将把奖励分发到用户指定的链上地址。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -388,7 +391,8 @@
       ],
       "steps": [
         "增长区块链知识、完成测验并免费获得加密货币。",
-        "Turtle 是一种 Web3 分配协议，通过追踪钱包活动来优化流动性与奖励分配，为 DeFi 领域的流动性提供者、协议方及合作伙伴提供支持。"
+        "Turtle is a Web3 distribution protocol that tracks wallet activity to optimize …",
+        "Defi App (HOME) simplifies DeFi with easy wallets, gas-free cross-chain swaps, …"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -402,7 +406,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "重点活动",
+    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -418,8 +422,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "social"
+        "l": "奖励线索",
+        "v": "44 BNB"
       }
     ],
     "risk": null,
@@ -443,10 +447,10 @@
         }
       ],
       "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
+        "Published Time: 2026-03-04T07:00:17.000Z",
+        "## Log in or sign up for X",
+        "See what’s happening and join the conversation",
+        "[Continue with phone](http://x.com/i/jf/onboarding/web?mode=signup&redirect_aft…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
