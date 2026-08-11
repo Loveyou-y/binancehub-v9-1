@@ -390,8 +390,10 @@
         }
       ],
       "steps": [
-        "增长区块链知识、完成测验并免费获得加密货币。",
-        "Turtle 是一种 Web3 分配协议，通过追踪钱包活动来优化流动性与奖励分配，为 DeFi 领域的流动性提供者、协议方及合作伙伴提供支持。"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -480,7 +482,7 @@
       },
       {
         "l": "奖励线索",
-        "v": "30,000 USDT"
+        "v": "5,000 USDT"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -504,67 +506,10 @@
         }
       ],
       "steps": [
-        "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
-        "排名为动态，如有违规参与者将被移除。",
-        "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
-        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS8x",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binancezh 最新活动推文：1948371355835269296",
-    "subtitle": "来自 @binancezh 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "binancezh 最新活动推文：1948371355835269296"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/10X_AI_/status/1948371355835269296",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
+        "*   参赛用户须使用 币安钱包（无私钥钱包） 完成报名，并通过 币安钱包（网页版） 进行链上合约交易。通过第三方 DApp 或非无私钥钱包产生的交易将不被计…",
+        "*   用户完成活动注册后所产生的合约交易量，方可计为本活动的有效参赛交易量。",
+        "*   活动期间产生的所有永续合约交易量，均将按照 Aster 积分规则获得 Aster 积分，并计入 Aster 的交易竞赛及奖励活动。如需了解更多关于 A…",
+        "*   活动期间，用户的个人合约交易量须达到至少 5,000 USDT（股票代币交易量不计入），且最终计算的奖励金额须 大于或等于 1 USDT，方可参与奖励…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -2895,6 +2840,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20… #f35738",
+    "subtitle": "自动抓取 · 2026-08-11",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-08-14)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/3f18062274ea49199475b4ad9ff35738",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Pick the Closing Price of the Magnificent 7 & Share 2,100 USDC!",
@@ -3997,16 +4000,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 8,000 U Limit Available (2026-08-02)",
-    "subtitle": "自动抓取 · 2026-07-31",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Notice of Removal of Spot Trading Pairs - 2026-08-14",
+    "subtitle": "自动抓取 · 2026-08-11",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "earn"
+      "trade"
     ],
-    "ico": "var(--grs)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -4017,7 +4020,7 @@
       },
       {
         "l": "类型",
-        "v": "earn"
+        "v": "trade"
       }
     ],
     "risk": null,
@@ -4031,12 +4034,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 8,000 U Limit Available (2026-08-02)"
+          "v": "Notice of Removal of Spot Trading Pairs - 2026-08-14"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/d672087469474a45bebd1da774e99d4b",
+          "link": "https://www.binance.com/en/support/announcement/detail/b2d783892ef54b4daddecf142076a8cf",
           "lv": "前往原文"
         }
       ],
@@ -5139,64 +5142,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/5702f93568604ea7bfd2f4233f054bd1",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice of Removal of Spot Trading Pairs - 2026-06-26",
-    "subtitle": "自动抓取 · 2026-06-23",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Notice of Removal of Spot Trading Pairs - 2026-06-26"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/f91d022b57e549a19bab454148082694",
           "lv": "前往原文"
         }
       ],
@@ -11015,6 +10960,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 8,000 U Limit Available (2026-08-02)",
+    "subtitle": "自动抓取 · 2026-07-31",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Earn: Enjoy Up to 8% APR with U Flexible Products - 8,000 U Limit Available (2026-08-02)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/d672087469474a45bebd1da774e99d4b",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "ERA Trading Tournament: Trade to Share Up to 5,000,000 ERA Token Vouchers",
@@ -12117,16 +12120,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Double Dip Returns: Deposit & Earn Up to 21% APR on USDT!",
-    "subtitle": "自动抓取 · 2026-07-23",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Notice of Removal of Spot Trading Pairs - 2026-06-26",
+    "subtitle": "自动抓取 · 2026-06-23",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "earn"
+      "trade"
     ],
-    "ico": "var(--grs)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -12137,7 +12140,7 @@
       },
       {
         "l": "类型",
-        "v": "earn"
+        "v": "trade"
       }
     ],
     "risk": null,
@@ -12151,12 +12154,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Double Dip Returns: Deposit & Earn Up to 21% APR on USDT!"
+          "v": "Notice of Removal of Spot Trading Pairs - 2026-06-26"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/8fcf21a47f144e468656fcd205999f85",
+          "link": "https://www.binance.com/en/support/announcement/detail/f91d022b57e549a19bab454148082694",
           "lv": "前往原文"
         }
       ],
@@ -13259,64 +13262,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/4df13a8c24be4abca874a4ff44f3e4ce",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice of Removal of Spot Trading Pairs - 2026-05-08",
-    "subtitle": "自动抓取 · 2026-05-05",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Notice of Removal of Spot Trading Pairs - 2026-05-08"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/3a8fb2daed2b4f949d0bb4b943076155",
           "lv": "前往原文"
         }
       ],
