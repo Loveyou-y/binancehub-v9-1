@@ -121,7 +121,7 @@
     "cat": "earn",
     "emoji": "💰",
     "title": "保本赚币 · Simple Earn",
-    "subtitle": "URL Source: http://www.binance.com/en/earn/simple-earn",
+    "subtitle": "upstream connect error or disconnect/reset before headers. reset reason: connection termination",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1 "
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "Earn rewards on principal-protected products.",
-        "Subscribe at any time and start earning rewards.",
-        "Lock assets for a fixed term and earn higher rewards",
-        "Rewards Distribution Timeline"
+        "进入产品页选择币种",
+        "确认年化和期限",
+        "申购并持有",
+        "查看每日收益"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -516,11 +516,11 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9O",
+    "id": "auto_aHR0cHM6Ly94LmNvbS9S",
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：2035070804652957813",
+    "title": "binancezh 最新活动推文：2087745254388830671",
     "subtitle": "来自 @binancezh 的社媒活动线索",
     "tags": [
       "X活动",
@@ -552,12 +552,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2035070804652957813"
+          "v": "binancezh 最新活动推文：2087745254388830671"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/NousResearch/status/2035070804652957813",
+          "link": "https://x.com/RnaudBertrand/status/2087745254388830671",
           "lv": "前往原文"
         }
       ],
