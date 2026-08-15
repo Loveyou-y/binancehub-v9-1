@@ -195,8 +195,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "earn"
+        "l": "奖励线索",
+        "v": ", BNB"
       }
     ],
     "risk": null,
@@ -220,10 +220,8 @@
         }
       ],
       "steps": [
-        "[![Image 1: Binance](blob:http://localhost/84b12d13814b731cb4fde89b9004be5f)](h…",
-        "[Markets](https://www.binance.com/en/markets/overview)",
-        "[Square](https://www.binance.com/en/square)",
-        "![Image 2](https://bin.bnbstatic.com/static/images/common/logo.png)"
+        "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
+        "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
