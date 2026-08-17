@@ -309,8 +309,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1,000 "
+        "l": "类型",
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -334,8 +334,10 @@
         }
       ],
       "steps": [
-        "*   [ETH 质押](https://www.binance.com/zh-CN/eth2)",
-        "*   [邀请奖励](https://www.binance.com/zh-CN/activity/referral)"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -405,7 +407,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "重点活动",
+    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -421,8 +423,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "social"
+        "l": "奖励线索",
+        "v": "44 BNB"
       }
     ],
     "risk": null,
@@ -446,10 +448,7 @@
         }
       ],
       "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
+        "# 币安Binance华语 on X: \"“🦞主人，我将开始帮您在币安赚到BNB” 你觉得币安有哪些功能或服务可以通过AI实现创新和优化？ 🏄欢迎提交你的…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1680,6 +1679,64 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
+    "title": "Binance Will Support the Applied Materials (AMAT) and Microsoft (MSFT) Cash Dividend Distribution via bStocks",
+    "subtitle": "自动抓取 · 2026-08-17",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Support the Applied Materials (AMAT) and Microsoft (MSFT) Cash Dividend Distribution via bStocks"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/122b4caa33224565a302cb1d1de544a7",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
     "title": "Important: Transactions with Certain Crypto Platforms",
     "subtitle": "自动抓取 · 2026-08-14",
     "tags": [
@@ -2762,64 +2819,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/731403f07ae7487b907bef649bdda4d6",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20… #52c682",
-    "subtitle": "自动抓取 · 2026-07-28",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-31)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/b4a1a7c64f454abda5b22860cd52c682",
           "lv": "前往原文"
         }
       ],
@@ -9800,6 +9799,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (20… #52c682",
+    "subtitle": "自动抓取 · 2026-07-28",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Update on the Collateral Ratio Under Portfolio Margin and the Leverage & Margin Tiers of USDⓈ-M Perpetual Contracts (2026-07-31)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/b4a1a7c64f454abda5b22860cd52c682",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Introducing Smart Money Signal Auto-Copy: From Insight to Action in Futures Trading",
     "subtitle": "自动抓取 · 2026-07-27",
     "tags": [
@@ -10882,64 +10939,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/c4fce51c6060498497ec3e8a6ee8780f",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Updates on the Capped Funding Rate of USDⓈ-M SKHYNIXUSDT Perpetual Contract (2026-07-10)",
-    "subtitle": "自动抓取 · 2026-07-10",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Updates on the Capped Funding Rate of USDⓈ-M SKHYNIXUSDT Perpetual Contract (2026-07-10)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/7bd8c31be83b467eaf771d8e362d3203",
           "lv": "前往原文"
         }
       ],
@@ -17918,6 +17917,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Updates on the Capped Funding Rate of USDⓈ-M SKHYNIXUSDT Perpetual Contract (2026-07-10)",
+    "subtitle": "自动抓取 · 2026-07-10",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Updates on the Capped Funding Rate of USDⓈ-M SKHYNIXUSDT Perpetual Contract (2026-07-10)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/7bd8c31be83b467eaf771d8e362d3203",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Notice on SK hynix Inc. ADR (SKHYV/​SKHY) on Binance Stocks - 2026-07-10",
@@ -19002,64 +19059,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/e5192d7a0d2c4f8c9d4041f69d1b9c0b",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Futures COIN-M System Upgrade Completion Time Will Be Postponed (2026-06-30)",
-    "subtitle": "自动抓取 · 2026-06-30",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Futures COIN-M System Upgrade Completion Time Will Be Postponed (2026-06-30)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/98a53406e1ef489fae140ae15106afca",
           "lv": "前往原文"
         }
       ],
