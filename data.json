@@ -2837,6 +2837,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6",
+    "subtitle": "自动抓取 · 2026-08-17",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/cf0f044736a045e6ae533cb299ec3556",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Trade bStocks with AI via Binance Agentic Wallet to Win Up to 100,000 USDC",
     "subtitle": "自动抓取 · 2026-08-17",
     "tags": [
@@ -3919,64 +3977,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/837168081cdc41a0b8bb9bb849fe2f78",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Lite Loan: 70% Off Service Fee and Get a Chance to Share a 5,000 USDT Reward Pool!",
-    "subtitle": "自动抓取 · 2026-08-12",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Lite Loan: 70% Off Service Fee and Get a Chance to Share a 5,000 USDT Reward Pool!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/71eae81175cb4128adf0042a294b809c",
           "lv": "前往原文"
         }
       ],
@@ -10955,6 +10955,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Lite Loan: 70% Off Service Fee and Get a Chance to Share a 5,000 USDT Reward Pool!",
+    "subtitle": "自动抓取 · 2026-08-12",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Lite Loan: 70% Off Service Fee and Get a Chance to Share a 5,000 USDT Reward Pool!"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/71eae81175cb4128adf0042a294b809c",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
     "title": "Binance Adds 0G and SSV on Simple Earn Locked Products",
@@ -12039,64 +12097,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/b71b7839dcc1442da2102f9fc3ee18ac",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Word of the Day: Test Your Knowledge on “bStocks Crosses $500M AUM” to Unlock BNB Rewards!",
-    "subtitle": "自动抓取 · 2026-08-03",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Word of the Day: Test Your Knowledge on “bStocks Crosses $500M AUM” to Unlock BNB Rewards!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/5b70a94972a14536be1baca3417a102d",
           "lv": "前往原文"
         }
       ],
