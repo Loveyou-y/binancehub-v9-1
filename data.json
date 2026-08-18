@@ -163,9 +163,9 @@
       ],
       "steps": [
         "Earn rewards on principal-protected products.",
-        "Subscribe at any time and start earning rewards.",
-        "Lock assets for a fixed term and earn higher rewards",
-        "Rewards Distribution Timeline"
+        "Simple Earn allows users to earn rewards by depositing their digital assets for…",
+        "What rewards can I earn from Flexible Products?",
+        "Flexible Products distribute rewards based on Real-Time APR and Bonus Tiered AP…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -309,8 +309,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1,000 "
+        "l": "类型",
+        "v": "welfare"
       }
     ],
     "risk": null,
