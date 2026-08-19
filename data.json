@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "进入产品页选择币种",
-        "确认年化和期限",
-        "申购并持有",
-        "查看每日收益"
+        "Earn rewards on principal-protected products.",
+        "Subscribe at any time and start earning rewards.",
+        "Lock assets for a fixed term and earn higher rewards",
+        "Rewards Distribution Timeline"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -508,6 +508,63 @@
         "排名为动态，如有违规参与者将被移除。",
         "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
         "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly94LmNvbS9n",
+    "code": "",
+    "cat": "social",
+    "emoji": "📣",
+    "title": "binancezh 最新活动推文：1945114554150633682",
+    "subtitle": "来自 @binancezh 的社媒活动线索",
+    "tags": [
+      "X活动",
+      "官方链接解析",
+      "social"
+    ],
+    "ico": "var(--cs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "social"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "X活动",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "binancezh 最新活动推文：1945114554150633682"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://x.com/genshin_music/status/1945114554150633682",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原推文",
+        "按要求完成互动",
+        "等待官方开奖/发放"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
