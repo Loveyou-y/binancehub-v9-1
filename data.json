@@ -63,7 +63,7 @@
     "cat": "launch",
     "emoji": "🪂",
     "title": "HODLer 空投：Fabric Protocol (ROBO)",
-    "subtitle": "HODLer 空投推出 ROBO，通过回溯式 BNB 订阅参与",
+    "subtitle": "URL Source: http://www.binance.com/en/support/announcement/detail/20ac487755434d559568552e9812cbf0",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -104,10 +104,7 @@
         }
       ],
       "steps": [
-        "确认 BNB 计入快照范围",
-        "查看回溯快照规则",
-        "等待系统分配空投",
-        "上线后查看到账与交易"
+        "Warning: Target URL returned error 405: Method Not Allowed"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
