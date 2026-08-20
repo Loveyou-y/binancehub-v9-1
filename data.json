@@ -3125,16 +3125,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance VIP 6 for Six: Skip the Climb, Start at VIP 6",
     "subtitle": "自动抓取 · 2026-08-17",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -3145,7 +3145,7 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -3159,7 +3159,7 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance VIP 6 for Six: Skip the Climb, Trade at VIP 6"
+          "v": "Binance VIP 6 for Six: Skip the Climb, Start at VIP 6"
         },
         {
           "i": "🔗",
