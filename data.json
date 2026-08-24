@@ -309,8 +309,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1,000 "
+        "l": "类型",
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -334,8 +334,7 @@
         }
       ],
       "steps": [
-        "*   [ETH 质押](https://www.binance.com/zh-CN/eth2)",
-        "*   [邀请奖励](https://www.binance.com/zh-CN/activity/referral)"
+        "风险提示：虚拟资产价格可能剧烈波动。您的投资价值可能下跌或上涨，且您可能无法收回投资本金。您需对自己的投资决策全权负责，币安对此产生的任何交易损失概不负责。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -349,7 +348,7 @@
     "cat": "square",
     "emoji": "📚",
     "title": "学习赚币 · Learn & Earn",
-    "subtitle": "URL Source: http://www.binance.com/zh-CN/academy/learn-and-earn",
+    "subtitle": "{\"code\":\"ERR_WORKER_OUT_OF_MEMORY\",\"status\":50000,\"message\":\"Worker terminated due to reaching memory limit: JS heap out of memory\",\"name\":\"Error\"}",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -390,8 +389,10 @@
         }
       ],
       "steps": [
-        "增长区块链知识、完成测验并免费获得加密货币。",
-        "Turtle 是一种 Web3 分配协议，通过追踪钱包活动来优化流动性与奖励分配，为 DeFi 领域的流动性提供者、协议方及合作伙伴提供支持。"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -477,7 +478,7 @@
       },
       {
         "l": "奖励线索",
-        "v": "5,000 USDT"
+        "v": "30,000 USDT"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -501,10 +502,10 @@
         }
       ],
       "steps": [
-        "*   参赛用户须使用 币安钱包（无私钥钱包） 完成报名，并通过 币安钱包（网页版） 进行链上合约交易。通过第三方 DApp 或非无私钥钱包产生的交易将不被计…",
-        "*   用户完成活动注册后所产生的合约交易量，方可计为本活动的有效参赛交易量。",
-        "*   活动期间产生的所有永续合约交易量，均将按照 Aster 积分规则获得 Aster 积分，并计入 Aster 的交易竞赛及奖励活动。如需了解更多关于 A…",
-        "*   活动期间，用户的个人合约交易量须达到至少 5,000 USDT（股票代币交易量不计入），且最终计算的奖励金额须 大于或等于 1 USDT，方可参与奖励…"
+        "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
+        "排名为动态，如有违规参与者将被移除。",
+        "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
+        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1677,6 +1678,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Discontinuation of Binance Link Futures Bonus Reward",
+    "subtitle": "自动抓取 · 2026-08-24",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Discontinuation of Binance Link Futures Bonus Reward"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/084611ab2fc54cc884f55013cdbf1747",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-24)",
     "subtitle": "自动抓取 · 2026-08-21",
     "tags": [
@@ -2777,16 +2836,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Adds TAO and ASTER on Simple Earn Locked Products",
-    "subtitle": "自动抓取 · 2026-07-31",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Word of the Day: Test Your Knowledge on “Gen Z Investing” to Unlock BNB Rewards!",
+    "subtitle": "自动抓取 · 2026-08-24",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "earn"
+      "welfare"
     ],
-    "ico": "var(--grs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2797,7 +2856,7 @@
       },
       {
         "l": "类型",
-        "v": "earn"
+        "v": "welfare"
       }
     ],
     "risk": null,
@@ -2811,12 +2870,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Adds TAO and ASTER on Simple Earn Locked Products"
+          "v": "Word of the Day: Test Your Knowledge on “Gen Z Investing” to Unlock BNB Rewards!"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/f8f60e4d440e4d16a2965ccdfb7befb1",
+          "link": "https://www.binance.com/en/support/announcement/detail/4fba20395225436cae57eba1e9631204",
           "lv": "前往原文"
         }
       ],
@@ -3919,64 +3978,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/abdba45ce26c4460aa8f88cece989d58",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Hold RLUSD in Binance Earn and Margin Accounts to Share 1 Million XRP in Rewards",
-    "subtitle": "自动抓取 · 2026-08-14",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Hold RLUSD in Binance Earn and Margin Accounts to Share 1 Million XRP in Rewards"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/87614899ce0346beb103f58075d8c8cc",
           "lv": "前往原文"
         }
       ],
@@ -9795,6 +9796,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Adds TAO and ASTER on Simple Earn Locked Products",
+    "subtitle": "自动抓取 · 2026-07-31",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Adds TAO and ASTER on Simple Earn Locked Products"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/f8f60e4d440e4d16a2965ccdfb7befb1",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "newbie",
     "emoji": "👛",
     "title": "Binance Wallet Alpha Deposit Campaign: Deposit Grvt (GRVT) and Share $20K Worth of Rewards",
@@ -10899,8 +10958,8 @@
     "code": "",
     "cat": "earn",
     "emoji": "💰",
-    "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-15)",
-    "subtitle": "自动抓取 · 2026-07-15",
+    "title": "Hold RLUSD in Binance Earn and Margin Accounts to Share 1 Million XRP in Rewards",
+    "subtitle": "自动抓取 · 2026-08-14",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -10920,7 +10979,7 @@
         "v": "earn"
       }
     ],
-    "risk": null,
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -10931,12 +10990,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-15)"
+          "v": "Hold RLUSD in Binance Earn and Margin Accounts to Share 1 Million XRP in Rewards"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/c164b3cf9de5488fb5971c60d2c3f0db",
+          "link": "https://www.binance.com/en/support/announcement/detail/87614899ce0346beb103f58075d8c8cc",
           "lv": "前往原文"
         }
       ],
@@ -12039,64 +12098,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/8bd4e92286d8474fa440091eea5672ff",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "MMT Trading Tournament: Trade to Share Up to 2,000,000 MMT Token Vouchers",
-    "subtitle": "自动抓取 · 2026-08-06",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "MMT Trading Tournament: Trade to Share Up to 2,000,000 MMT Token Vouchers"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/93cc46505d6b46c9be248138b836cb7c",
           "lv": "前往原文"
         }
       ],
@@ -17915,6 +17916,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-15)",
+    "subtitle": "自动抓取 · 2026-07-15",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-07-15)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/c164b3cf9de5488fb5971c60d2c3f0db",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Binance Capital Connect Launches Express Interest Only (EIO) Mode",
@@ -18999,64 +19058,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/e653977d6dda42d390b50a20a33ec7c2",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "launch",
-    "emoji": "🪂",
-    "title": "Update to the USD1 Airdrop Campaign (2026-07-03)",
-    "subtitle": "自动抓取 · 2026-07-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "launch"
-    ],
-    "ico": "var(--gs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "launch"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update to the USD1 Airdrop Campaign (2026-07-03)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/a49a60018f33454bbdf6bae58b766b6f",
           "lv": "前往原文"
         }
       ],
