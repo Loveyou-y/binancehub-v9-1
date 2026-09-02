@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$200"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -390,10 +390,7 @@
         }
       ],
       "steps": [
-        "增长区块链知识、完成测验并免费获得加密货币。",
-        "Turtle 是一种 Web3 分配协议，通过追踪钱包活动来优化流动性与奖励分配，为 DeFi 领域的流动性提供者、协议方及合作伙伴提供支持。",
-        "*   [ETH 质押](https://www.binance.com/zh-CN/eth2)",
-        "*   [邀请奖励](https://www.binance.com/zh-CN/activity/referral)"
+        "增长区块链知识、完成测验并免费获得加密货币。"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -407,7 +404,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -423,8 +420,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "44 BNB"
+        "l": "类型",
+        "v": "social"
       }
     ],
     "risk": null,
@@ -448,10 +445,10 @@
         }
       ],
       "steps": [
-        "Published Time: 2026-03-04T07:00:17.000Z",
-        "## Log in or sign up for X",
-        "See what’s happening and join the conversation",
-        "[Log in with username or email](http://x.com/i/jf/onboarding/web?mode=login&red…"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -2842,6 +2839,122 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Join the Binance P2P Ukraine & CIS Merchant Trading Competition with 50,000 USDT in Rewards",
+    "subtitle": "自动抓取 · 2026-09-02",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Join the Binance P2P Ukraine & CIS Merchant Trading Competition with 50,000 USDT in Rewards"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/e390a42a4dd6406e90a57db482405ed1",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Join the Binance P2P Ukraine & CIS Merchant Trading Competition with 50,000 USDT in Rewards #6e61a5",
+    "subtitle": "自动抓取 · 2026-09-02",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Join the Binance P2P Ukraine & CIS Merchant Trading Competition with 50,000 USDT in Rewards"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/b85f24b8f6aa4b368b5b5e9a696e61a5",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Binance Alpha Trading Competition: Trade TermMax (TMX) and Share $200K Worth of Rewards (2026-09-01)",
     "subtitle": "自动抓取 · 2026-09-01",
     "tags": [
@@ -3866,122 +3979,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/aa29698aeb0c465e88aa46aab4c78bac",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Spot Trading Tournament Season 3: Trade to Share Up to 500,000 USDC Token Vouchers",
-    "subtitle": "自动抓取 · 2026-08-25",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Spot Trading Tournament Season 3: Trade to Share Up to 500,000 USDC Token Vouchers"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/2c1effd4bcaf4113b761b34a89737932",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products",
-    "subtitle": "自动抓取 · 2026-08-25",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/04663ce7cbc64165b060bf4065e43299",
           "lv": "前往原文"
         }
       ],
@@ -10960,6 +10957,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Spot Trading Tournament Season 3: Trade to Share Up to 500,000 USDC Token Vouchers",
+    "subtitle": "自动抓取 · 2026-08-25",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Spot Trading Tournament Season 3: Trade to Share Up to 500,000 USDC Token Vouchers"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/2c1effd4bcaf4113b761b34a89737932",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products",
+    "subtitle": "自动抓取 · 2026-08-25",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Earn: Enjoy Up to 7% APR with USDT Flexible Products"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/04663ce7cbc64165b060bf4065e43299",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
     "title": "Brazil New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 15% APR!",
@@ -11986,122 +12099,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/815ec4a2ea0244bfb339d1c0f80c32f0",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance KOL Introduction Program Season 2: Introduce KOLs to Join Binance Affiliate Program and Share Up to 8,000 USDC",
-    "subtitle": "自动抓取 · 2026-08-14",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance KOL Introduction Program Season 2: Introduce KOLs to Join Binance Affiliate Program and Share Up to 8,000 USDC"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/dbcb5c1cee35401381273858aa197584",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Earn: Enjoy Up to 8% APR on U Flexible Products — Exclusive 5% APR for VIP Users with 500,000 U Limit (2026-08-…",
-    "subtitle": "自动抓取 · 2026-08-14",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Earn: Enjoy Up to 8% APR on U Flexible Products — Exclusive 5% APR for VIP Users with 500,000 U Limit (2026-08-16)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/b2ece09a8aeb4002bc8197c52cad411b",
           "lv": "前往原文"
         }
       ],
