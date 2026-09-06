@@ -121,7 +121,7 @@
     "cat": "earn",
     "emoji": "💰",
     "title": "保本赚币 · Simple Earn",
-    "subtitle": "URL Source: http://www.binance.com/en/earn/simple-earn",
+    "subtitle": "保本赚币产品集合：活期/定期可选",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$200"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "Earn rewards on principal-protected products.",
-        "Subscribe at any time and start earning rewards.",
-        "Lock assets for a fixed term and earn higher rewards",
-        "Rewards Distribution Timeline"
+        "进入产品页选择币种",
+        "确认年化和期限",
+        "申购并持有",
+        "查看每日收益"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -179,7 +179,7 @@
     "cat": "earn",
     "emoji": "💰",
     "title": "进阶赚币 · Advanced Earn",
-    "subtitle": "URL Source: http://www.binance.com/en/earn/advanced-earn",
+    "subtitle": "进阶赚币：结构化产品，收益更高风险也更高",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -195,8 +195,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": ", BNB"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -220,9 +220,10 @@
         }
       ],
       "steps": [
-        "Enjoy high rewards - Buy Low, Sell High",
-        "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
-        "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
+        "阅读产品说明",
+        "选择目标价格和周期",
+        "确认风险后申购",
+        "到期查看结算结果"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -310,8 +311,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$1,000 "
+        "l": "类型",
+        "v": "welfare"
       }
     ],
     "risk": null,
