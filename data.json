@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$200"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -392,9 +392,8 @@
       ],
       "steps": [
         "增长区块链知识、完成测验并免费获得加密货币。",
-        "Turtle 是一种 Web3 分配协议，通过追踪钱包活动来优化流动性与奖励分配，为 DeFi 领域的流动性提供者、协议方及合作伙伴提供支持。",
-        "*   [ETH 质押](https://www.binance.com/zh-CN/eth2)",
-        "*   [邀请奖励](https://www.binance.com/zh-CN/activity/referral)"
+        "Turtle is a Web3 distribution protocol that tracks wallet activity to optimize …",
+        "Defi App (HOME) simplifies DeFi with easy wallets, gas-free cross-chain swaps, …"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
