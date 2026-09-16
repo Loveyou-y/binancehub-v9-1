@@ -519,11 +519,11 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9s",
+    "id": "auto_aHR0cHM6Ly94LmNvbS9L",
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：2099717812021289321",
+    "title": "binancezh 最新活动推文：2024315719027216704",
     "subtitle": "来自 @binancezh 的社媒活动线索",
     "tags": [
       "X活动",
@@ -555,12 +555,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2099717812021289321"
+          "v": "binancezh 最新活动推文：2024315719027216704"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/lunatechai/status/2099717812021289321",
+          "link": "https://x.com/KKaWSB/status/2024315719027216704",
           "lv": "前往原文"
         }
       ],
@@ -1740,6 +1740,64 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
+    "title": "Binance Capital Connect Expands to KYC-Verified VIP Level 3+ Users",
+    "subtitle": "自动抓取 · 2026-09-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Capital Connect Expands to KYC-Verified VIP Level 3+ Users"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/a361fe26eb1a47178f5145dad81f17e0",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
     "title": "Binance System Upgrade Notice (2026-09-22)",
     "subtitle": "自动抓取 · 2026-09-16",
     "tags": [
@@ -2840,16 +2898,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Earn Yield Arena: Share Up to $200K in BNB Rewards With This Week’s New Limited-Time Offers! (2026-09-02)",
-    "subtitle": "自动抓取 · 2026-09-02",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Join Binance Wallet On-Chain Trade & Win Season 7: Trade on Arc to Win a Share of $200,000 in Rewards!",
+    "subtitle": "自动抓取 · 2026-09-16",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "earn"
+      "trade"
     ],
-    "ico": "var(--grs)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2860,7 +2918,7 @@
       },
       {
         "l": "类型",
-        "v": "earn"
+        "v": "trade"
       }
     ],
     "risk": null,
@@ -2874,12 +2932,186 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Earn Yield Arena: Share Up to $200K in BNB Rewards With This Week’s New Limited-Time Offers! (2026-09-02)"
+          "v": "Join Binance Wallet On-Chain Trade & Win Season 7: Trade on Arc to Win a Share of $200,000 in Rewards!"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/046ec37b1f2e4a708ef81fdf3e7ef59f",
+          "link": "https://www.binance.com/en/support/announcement/detail/6cd02911b8284a969ecb44e57498e7f6",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "You Invite, You Choose: Invite Friends & Pick Your Rewards From Crypto and bStocks Tokens!",
+    "subtitle": "自动抓取 · 2026-09-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "You Invite, You Choose: Invite Friends & Pick Your Rewards From Crypto and bStocks Tokens!"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/ad4b814a1bc64077ae0bfd8e7d3036dd",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Trade Binance P2P, Get an iPhone 18 Pro & More",
+    "subtitle": "自动抓取 · 2026-09-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Trade Binance P2P, Get an iPhone 18 Pro & More"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/b16c186b69d4405c83a4cafbea791bc0",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "NEAR Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers",
+    "subtitle": "自动抓取 · 2026-09-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "NEAR Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/aa958f0c3c174a2887ff2b634fec1e52",
           "lv": "前往原文"
         }
       ],
@@ -3808,238 +4040,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/5586978d8f51473a85fac349c4f9e221",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Earn: Share 200,000 RLUSD Rewards with RLUSD Flexible Products (2026-09-11)",
-    "subtitle": "自动抓取 · 2026-09-10",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Earn: Share 200,000 RLUSD Rewards with RLUSD Flexible Products (2026-09-11)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/c3fdde57f58a444fb98ee2902f870eb9",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "CIS & CEE-Exclusive Binance P2P Welcome Rewards: Earn Up to 80 USDT in Token Vouchers",
-    "subtitle": "自动抓取 · 2026-09-09",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "CIS & CEE-Exclusive Binance P2P Welcome Rewards: Earn Up to 80 USDT in Token Vouchers"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/06153a2f1f0c4ac0a8a2c8be8c9048af",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "HOLO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers",
-    "subtitle": "自动抓取 · 2026-09-09",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "HOLO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/e84320eea3f04f9894a2e3a537dbbb5c",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Join Binance Wallet On-Chain Trade & Win Campaign Season 6 to Win a Share of $50,000 Worth of Rewards!",
-    "subtitle": "自动抓取 · 2026-09-08",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Join Binance Wallet On-Chain Trade & Win Campaign Season 6 to Win a Share of $50,000 Worth of Rewards!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/f03e050413594724a1ba831785255723",
           "lv": "前往原文"
         }
       ],
@@ -5220,6 +5220,64 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
+    "title": "Binance Completes Integration of USDC (USDC) on Arc Network, Opens Deposits - 2026-09-16",
+    "subtitle": "自动抓取 · 2026-09-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Completes Integration of USDC (USDC) on Arc Network, Opens Deposits - 2026-09-16"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/60d9115a95ed4855ad70af192e996aef",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
     "title": "Binance Will Support the Vana (VANA) Network Upgrade & Hard Fork - 2026-09-21",
     "subtitle": "自动抓取 · 2026-09-16",
     "tags": [
@@ -5510,7 +5568,7 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
-    "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-09-14",
+    "title": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-09-14 & 2026-10-14",
     "subtitle": "自动抓取 · 2026-09-07",
     "tags": [
       "自动抓取",
@@ -5542,7 +5600,7 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-09-14"
+          "v": "Binance Will Cease Support for Deposits and Withdrawals of Tokens on Selected Networks - 2026-09-14 & 2026-10-14"
         },
         {
           "i": "🔗",
@@ -6302,64 +6360,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/8ef2a1f9af5d40269a0243dd07204a10",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "newbie",
-    "emoji": "👛",
-    "title": "Wallet Maintenance for USDC Withdrawals on SEIEVM Network - 2026-08-04",
-    "subtitle": "自动抓取 · 2026-08-03",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "newbie"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "newbie"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Wallet Maintenance for USDC Withdrawals on SEIEVM Network - 2026-08-04"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/f88dcd0cfacb4bc6bd28d03e20b1aebc",
           "lv": "前往原文"
         }
       ],
@@ -9858,6 +9858,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Earn Yield Arena: Share Up to $200K in BNB Rewards With This Week’s New Limited-Time Offers! (2026-09-02)",
+    "subtitle": "自动抓取 · 2026-09-02",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Earn Yield Arena: Share Up to $200K in BNB Rewards With This Week’s New Limited-Time Offers! (2026-09-02)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/046ec37b1f2e4a708ef81fdf3e7ef59f",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-04)",
@@ -10960,10 +11018,126 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Earn: Share 200,000 RLUSD Rewards with RLUSD Flexible Products (2026-09-11)",
+    "subtitle": "自动抓取 · 2026-09-10",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Earn: Share 200,000 RLUSD Rewards with RLUSD Flexible Products (2026-09-11)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/c3fdde57f58a444fb98ee2902f870eb9",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "CIS & CEE-Exclusive Binance P2P Welcome Rewards: Earn Up to 80 USDT in Token Vouchers",
+    "subtitle": "自动抓取 · 2026-09-09",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "CIS & CEE-Exclusive Binance P2P Welcome Rewards: Earn Up to 80 USDT in Token Vouchers"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/06153a2f1f0c4ac0a8a2c8be8c9048af",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-15)",
-    "subtitle": "自动抓取 · 2026-08-14",
+    "title": "HOLO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers",
+    "subtitle": "自动抓取 · 2026-09-09",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -10983,7 +11157,7 @@
         "v": "trade"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -10994,12 +11168,70 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-15)"
+          "v": "HOLO Trading Tournament: Trade to Share Up to 400 BNB Token Vouchers"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/82a93632adbd4d0cb42bbf24c9b35400",
+          "link": "https://www.binance.com/en/support/announcement/detail/e84320eea3f04f9894a2e3a537dbbb5c",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Join Binance Wallet On-Chain Trade & Win Campaign Season 6 to Win a Share of $50,000 Worth of Rewards!",
+    "subtitle": "自动抓取 · 2026-09-08",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Join Binance Wallet On-Chain Trade & Win Campaign Season 6 to Win a Share of $50,000 Worth of Rewards!"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/f03e050413594724a1ba831785255723",
           "lv": "前往原文"
         }
       ],
@@ -11928,238 +12160,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/52e8b9f0c8f34a9c89f8babf50323693",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Complete Your First Trade and Earn Up to 20 USDC in Token Voucher Rewards",
-    "subtitle": "自动抓取 · 2026-09-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Complete Your First Trade and Earn Up to 20 USDC in Token Voucher Rewards"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/a5b939b4db834e129206e6e83677f3eb",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Pakistan Exclusive: Road to Skardu KOL Challenge - Bring Qualified Referrals, Earn Your Spot!",
-    "subtitle": "自动抓取 · 2026-09-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Pakistan Exclusive: Road to Skardu KOL Challenge - Bring Qualified Referrals, Earn Your Spot!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/6db246e76e42492b81cc9f13df8421ca",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Alpha Trading Competition: Trade Collect on Fanable (COLLECT) and Share $200K Worth of Rewards (2026-09-02)",
-    "subtitle": "自动抓取 · 2026-09-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Alpha Trading Competition: Trade Collect on Fanable (COLLECT) and Share $200K Worth of Rewards (2026-09-02)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/cf1d21d15830400d84862768bb168ef4",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "CIS New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 35% APR During the Promotion Period!",
-    "subtitle": "自动抓取 · 2026-09-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "CIS New User Exclusive: Subscribe to USDT Simple Earn to Enjoy 35% APR During the Promotion Period!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/68656a9037534729a3c7983dfcb6f0dd",
           "lv": "前往原文"
         }
       ],
@@ -13338,6 +13338,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "newbie",
+    "emoji": "👛",
+    "title": "Wallet Maintenance for USDC Withdrawals on SEIEVM Network - 2026-08-04",
+    "subtitle": "自动抓取 · 2026-08-03",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "newbie"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "newbie"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Wallet Maintenance for USDC Withdrawals on SEIEVM Network - 2026-08-04"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/f88dcd0cfacb4bc6bd28d03e20b1aebc",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Binance Will Support Scheduled Upgrade for Stock Trading Services - 2026-08-01",
@@ -14422,64 +14480,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/3a79bc452a02489f8f485cd6af49bf8c",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Support the Injective (INJ) Network Upgrade & Hard Fork - 2026-07-02",
-    "subtitle": "自动抓取 · 2026-07-02",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Support the Injective (INJ) Network Upgrade & Hard Fork - 2026-07-02"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/e9bf1b713c5249fa8839d7d52d12e9d8",
           "lv": "前往原文"
         }
       ],
@@ -17978,6 +17978,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-15)",
+    "subtitle": "自动抓取 · 2026-08-14",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-08-15)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/82a93632adbd4d0cb42bbf24c9b35400",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Binance Expands Tokenized Securities Access with bStocks",
@@ -19062,64 +19120,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/5a8ae66176794fe79cd0f250b3ec05e5",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Support the Nokia (NOK) Cash Dividend Distribution via bStocks",
-    "subtitle": "自动抓取 · 2026-07-27",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Support the Nokia (NOK) Cash Dividend Distribution via bStocks"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/6ec640f5b2e847df894b9c66456824cd",
           "lv": "前往原文"
         }
       ],
