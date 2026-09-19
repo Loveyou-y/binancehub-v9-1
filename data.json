@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "$200"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -519,11 +519,11 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9m",
+    "id": "auto_aHR0cHM6Ly94LmNvbS9V",
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：2101124637429998047",
+    "title": "binancezh 最新活动推文：2101396831351480422",
     "subtitle": "来自 @binancezh 的社媒活动线索",
     "tags": [
       "X活动",
@@ -555,12 +555,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2101124637429998047"
+          "v": "binancezh 最新活动推文：2101396831351480422"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/feliperabeloep/status/2101124637429998047",
+          "link": "https://x.com/USczechia/status/2101396831351480422",
           "lv": "前往原文"
         }
       ],
