@@ -521,6 +521,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-28)",
+    "subtitle": "自动抓取 · 2026-09-28",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-28)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/d4c5a66cdce246cc952d13bab215b688",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "earn",
     "emoji": "💰",
     "title": "Binance Will Add Hyperliquid (HYPE) on Earn, Buy Crypto, Convert, VIP Loan & Margin",
@@ -1623,16 +1681,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-09",
-    "subtitle": "自动抓取 · 2026-09-09",
+    "cat": "launch",
+    "emoji": "🪂",
+    "title": "Binance Will Support the SpaceX (SPCXB) Airdrop for MarsCoin (MARSCOIN) Holders and the Invesco QQQ Trust (QQQB) Airdro…",
+    "subtitle": "自动抓取 · 2026-09-28",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "launch"
     ],
-    "ico": "var(--os)",
+    "ico": "var(--gs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -1643,7 +1701,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "launch"
       }
     ],
     "risk": null,
@@ -1657,12 +1715,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-09"
+          "v": "Binance Will Support the SpaceX (SPCXB) Airdrop for MarsCoin (MARSCOIN) Holders and the Invesco QQQ Trust (QQQB) Airdrop for 牛来 (牛来) Holders"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/026d4dfdc82940a5924b22442bcb651e",
+          "link": "https://www.binance.com/en/support/announcement/detail/1ea1d5c29a0a4c2c8c7f4c4e947c07f2",
           "lv": "前往原文"
         }
       ],
@@ -2785,8 +2843,8 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
-    "title": "Binance Will Support the Taiwan Semiconductor Manufacturing Company Limited (TSM) and Salesforce (CRM) Cash Dividend Di…",
-    "subtitle": "自动抓取 · 2026-09-15",
+    "title": "Word of the Day: Test Your Knowledge on “IPOs Are Moving On-Chain” to Unlock USDC Rewards!",
+    "subtitle": "自动抓取 · 2026-09-28",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -2817,12 +2875,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will Support the Taiwan Semiconductor Manufacturing Company Limited (TSM) and Salesforce (CRM) Cash Dividend Distribution via bStocks"
+          "v": "Word of the Day: Test Your Knowledge on “IPOs Are Moving On-Chain” to Unlock USDC Rewards!"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/53398822f8294af2b8b3b61d749d50de",
+          "link": "https://www.binance.com/en/support/announcement/detail/3bbe837e24a64b93811116d366954e0a",
           "lv": "前往原文"
         }
       ],
@@ -3925,64 +3983,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/aa958f0c3c174a2887ff2b634fec1e52",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Earn Yield Arena: Share $200K RLUSD Rewards With This Week’s New Limited-Time Offers! (2026-09-16",
-    "subtitle": "自动抓取 · 2026-09-16",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Earn Yield Arena: Share $200K RLUSD Rewards With This Week’s New Limited-Time Offers! (2026-09-16"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/b3a4d9120b9a4397b1dfced9f8d35525",
           "lv": "前往原文"
         }
       ],
@@ -5163,6 +5163,64 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
+    "title": "Binance Will Support the Base Network Upgrade & Hard Fork - 2026-09-30",
+    "subtitle": "自动抓取 · 2026-09-28",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Support the Base Network Upgrade & Hard Fork - 2026-09-30"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/aecf597c273541e6bbbdcb3616740dbc",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
     "title": "Binance Will Support Scheduled Upgrade for Stock Trading Services - 2026-09-26",
     "subtitle": "自动抓取 · 2026-09-24",
     "tags": [
@@ -6245,64 +6303,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/e9a7c2479fb843dcba2e134c8ced17d0",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Support the Conflux Network (CFX) Network Upgrade & Hard Fork - 2026-08-24",
-    "subtitle": "自动抓取 · 2026-08-18",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Support the Conflux Network (CFX) Network Upgrade & Hard Fork - 2026-08-24"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/a6c007c2fc1442f49b4e89e208dcba06",
           "lv": "前往原文"
         }
       ],
@@ -8641,6 +8641,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-09",
+    "subtitle": "自动抓取 · 2026-09-09",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-09"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/026d4dfdc82940a5924b22442bcb651e",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Binance Exchange Adds Salesforce (CRMB) and Hims & Hers Health (HIMSB) bStocks Trading Pairs on Binance Spot/Convert - …",
@@ -9743,16 +9801,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-17 & 2026-08-18)",
-    "subtitle": "自动抓取 · 2026-08-17",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Support the Taiwan Semiconductor Manufacturing Company Limited (TSM) and Salesforce (CRM) Cash Dividend Di…",
+    "subtitle": "自动抓取 · 2026-09-15",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "welfare"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -9763,10 +9821,10 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "welfare"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -9777,12 +9835,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-17 & 2026-08-18)"
+          "v": "Binance Will Support the Taiwan Semiconductor Manufacturing Company Limited (TSM) and Salesforce (CRM) Cash Dividend Distribution via bStocks"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/0872245db74c4daaabd4f11984ba52c1",
+          "link": "https://www.binance.com/en/support/announcement/detail/53398822f8294af2b8b3b61d749d50de",
           "lv": "前往原文"
         }
       ],
@@ -10903,16 +10961,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined TACUSDT Perpetual Contract (2026-08-27)",
-    "subtitle": "自动抓取 · 2026-08-27",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Earn Yield Arena: Share $200K RLUSD Rewards With This Week’s New Limited-Time Offers! (2026-09-16",
+    "subtitle": "自动抓取 · 2026-09-16",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "trade"
+      "earn"
     ],
-    "ico": "var(--bs)",
+    "ico": "var(--grs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -10923,10 +10981,10 @@
       },
       {
         "l": "类型",
-        "v": "trade"
+        "v": "earn"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -10937,12 +10995,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined TACUSDT Perpetual Contract (2026-08-27)"
+          "v": "Binance Earn Yield Arena: Share $200K RLUSD Rewards With This Week’s New Limited-Time Offers! (2026-09-16"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/e6295b96910149e88c6647b2d612e242",
+          "link": "https://www.binance.com/en/support/announcement/detail/b3a4d9120b9a4397b1dfced9f8d35525",
           "lv": "前往原文"
         }
       ],
@@ -12045,64 +12103,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/f03e050413594724a1ba831785255723",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Alpha Trading Competition: Trade Cluster Protocol (CP) and Share $200K Worth of Rewards (2026-09-08)",
-    "subtitle": "自动抓取 · 2026-09-08",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Alpha Trading Competition: Trade Cluster Protocol (CP) and Share $200K Worth of Rewards (2026-09-08)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/658aa44e411f4ef9a08de27320325cfa",
           "lv": "前往原文"
         }
       ],
@@ -13281,6 +13281,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Support the Conflux Network (CFX) Network Upgrade & Hard Fork - 2026-08-24",
+    "subtitle": "自动抓取 · 2026-08-18",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Support the Conflux Network (CFX) Network Upgrade & Hard Fork - 2026-08-24"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/a6c007c2fc1442f49b4e89e208dcba06",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "newbie",
     "emoji": "👛",
     "title": "Wallet Maintenance for BNB Smart Chain (BEP20) - 2026-08-20",
@@ -14365,64 +14423,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/b532337d8e754c559195ef8826900f1b",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "newbie",
-    "emoji": "👛",
-    "title": "Wallet Maintenance for Ethereum Network (ETH) - 2026-07-16",
-    "subtitle": "自动抓取 · 2026-07-14",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "newbie"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "newbie"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Wallet Maintenance for Ethereum Network (ETH) - 2026-07-16"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/8c312fa105e143dfb7a48f374a54c982",
           "lv": "前往原文"
         }
       ],
@@ -16763,6 +16763,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-17 & 2026-08-18)",
+    "subtitle": "自动抓取 · 2026-08-17",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-17 & 2026-08-18)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/0872245db74c4daaabd4f11984ba52c1",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-14)",
     "subtitle": "自动抓取 · 2026-08-13",
     "tags": [
@@ -17863,16 +17921,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin",
-    "subtitle": "自动抓取 · 2026-07-17",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined TACUSDT Perpetual Contract (2026-08-27)",
+    "subtitle": "自动抓取 · 2026-08-27",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "earn"
+      "trade"
     ],
-    "ico": "var(--grs)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -17883,7 +17941,7 @@
       },
       {
         "l": "类型",
-        "v": "earn"
+        "v": "trade"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -17897,12 +17955,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will Add Aerodrome (AERO) on Earn, Buy Crypto, Convert, VIP Loan & Margin"
+          "v": "Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined TACUSDT Perpetual Contract (2026-08-27)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/5c52a77daddf4e0d9769b87cdc91fae4",
+          "link": "https://www.binance.com/en/support/announcement/detail/e6295b96910149e88c6647b2d612e242",
           "lv": "前往原文"
         }
       ],
@@ -19005,64 +19063,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/b025495c95c94ce2bdd66338496fc487",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Extend the Monitoring Tag to Include GLMR, ICX, MOVR, RARE & SOPH on 2026-08-11",
-    "subtitle": "自动抓取 · 2026-08-11",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Extend the Monitoring Tag to Include GLMR, ICX, MOVR, RARE & SOPH on 2026-08-11"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/1ec3ae2e21274a92858aa8cf58ae6c3a",
           "lv": "前往原文"
         }
       ],
