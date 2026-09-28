@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "70 BNB"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -162,10 +162,10 @@
         }
       ],
       "steps": [
-        "Subscribe at any time and start earning rewards.",
-        "Lock assets for a fixed term and earn higher rewards",
-        "Rewards Distribution Timeline",
-        "Launchpool & Megadrop Rewards"
+        "进入产品页选择币种",
+        "确认年化和期限",
+        "申购并持有",
+        "查看每日收益"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -511,6 +511,64 @@
         "排名为动态，如有违规参与者将被移除。",
         "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
         "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Adds 5 Stocks on Binance Stock Trading - 2026-09-28",
+    "subtitle": "自动抓取 · 2026-09-28",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Adds 5 Stocks on Binance Stock Trading - 2026-09-28"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/d3a2cc0c1b5f42a2aee9a8bda2bd8e94",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1623,16 +1681,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will List 牛来 (牛来) with Seed Tag Applied",
-    "subtitle": "自动抓取 · 2026-09-09",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Important Updates on Dividend Adjustment Process of SAMSUNGUSDT TradFi Perpetual Contract (2026-09-28)",
+    "subtitle": "自动抓取 · 2026-09-28",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "trade"
     ],
-    "ico": "var(--os)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -1643,7 +1701,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "trade"
       }
     ],
     "risk": null,
@@ -1657,12 +1715,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will List 牛来 (牛来) with Seed Tag Applied"
+          "v": "Important Updates on Dividend Adjustment Process of SAMSUNGUSDT TradFi Perpetual Contract (2026-09-28)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/6133e417dcfe43a8ad20c0db1b53c7e8",
+          "link": "https://www.binance.com/en/support/announcement/detail/fd194d0fda6e44f2af6bc6333f61600f",
           "lv": "前往原文"
         }
       ],
@@ -2765,64 +2823,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/2b19feada63c4f97b05322298f4121cb",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-18)",
-    "subtitle": "自动抓取 · 2026-09-15",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-18)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/390301281fa84012b654ddbe811f9a53",
           "lv": "前往原文"
         }
       ],
@@ -8643,6 +8643,64 @@
     "code": "",
     "cat": "welfare",
     "emoji": "🎁",
+    "title": "Binance Will List 牛来 (牛来) with Seed Tag Applied",
+    "subtitle": "自动抓取 · 2026-09-09",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will List 牛来 (牛来) with Seed Tag Applied"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/6133e417dcfe43a8ad20c0db1b53c7e8",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
     "title": "Binance Will Add 2 bStocks Tokenized Securities as Collateral Asset - 2026-09-09",
     "subtitle": "自动抓取 · 2026-09-09",
     "tags": [
@@ -9745,8 +9803,8 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)",
-    "subtitle": "自动抓取 · 2026-08-19",
+    "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-18)",
+    "subtitle": "自动抓取 · 2026-09-15",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -9777,12 +9835,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)"
+          "v": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-18)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/3e662272597c44b7939f5db5c8c86d4f",
+          "link": "https://www.binance.com/en/support/announcement/detail/390301281fa84012b654ddbe811f9a53",
           "lv": "前往原文"
         }
       ],
@@ -10885,64 +10943,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/1bf42a37f8dd4642a73e6cef78440eec",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Important Updates on Mark Price Calculation of TradFi Perpetual Contracts (2026-08-31)",
-    "subtitle": "自动抓取 · 2026-08-28",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Important Updates on Mark Price Calculation of TradFi Perpetual Contracts (2026-08-31)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/1e9c1d2dff0b4d48a04c09f84a39fcb8",
           "lv": "前往原文"
         }
       ],
@@ -16763,6 +16763,64 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)",
+    "subtitle": "自动抓取 · 2026-08-19",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/3e662272597c44b7939f5db5c8c86d4f",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-17 & 2026-08-18)",
     "subtitle": "自动抓取 · 2026-08-17",
     "tags": [
@@ -17865,8 +17923,8 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-21)",
-    "subtitle": "自动抓取 · 2026-07-21",
+    "title": "Important Updates on Mark Price Calculation of TradFi Perpetual Contracts (2026-08-31)",
+    "subtitle": "自动抓取 · 2026-08-28",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -17886,7 +17944,7 @@
         "v": "trade"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -17897,12 +17955,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-07-21)"
+          "v": "Important Updates on Mark Price Calculation of TradFi Perpetual Contracts (2026-08-31)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/f43403ef11974998bc0f46420826577a",
+          "link": "https://www.binance.com/en/support/announcement/detail/1e9c1d2dff0b4d48a04c09f84a39fcb8",
           "lv": "前往原文"
         }
       ],
@@ -19005,64 +19063,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/96b502bae29c4f688cdd40f391e0bd27",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Updates on Tick Size for Spot Trading Pairs (2026-08-20)",
-    "subtitle": "自动抓取 · 2026-08-12",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Updates on Tick Size for Spot Trading Pairs (2026-08-20)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/b025495c95c94ce2bdd66338496fc487",
           "lv": "前往原文"
         }
       ],
