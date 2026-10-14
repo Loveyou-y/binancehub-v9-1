@@ -5,7 +5,7 @@
     "cat": "trade",
     "emoji": "📈",
     "title": "Block Street (BSB) 交易大赛：赢取价值 10 万美元奖励",
-    "subtitle": "参与 Block Street (BSB) 交易，赢取价值 10 万美元奖励",
+    "subtitle": "URL Source: http://www.binance.com/en/support/announcement/detail/f94b496c858448c6ac9847b306babbfd",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -46,10 +46,8 @@
         }
       ],
       "steps": [
-        "打开活动详情并报名",
-        "确认交易赛规则与计分口径",
-        "在活动期内完成交易任务",
-        "查看排名与奖励发放"
+        "Warning: Target URL returned error 405: Method Not Allowed",
+        "Warning: This page maybe requiring CAPTCHA, please make sure you are authorized…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -405,7 +403,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -421,8 +419,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "44 BNB"
+        "l": "类型",
+        "v": "social"
       }
     ],
     "risk": null,
@@ -446,10 +444,10 @@
         }
       ],
       "steps": [
-        "Published Time: 2026-03-04T07:00:17.000Z",
-        "[![Image 4: @binancezh](https://pbs.twimg.com/profile_images/181597265864074035…",
-        "[币安Binance华语](http://x.com/binancezh)",
-        "[![Image 5: Binance](https://pbs.twimg.com/profile_images/1940131561103347712/f…"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
