@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "earn"
+        "l": "奖励线索",
+        "v": "70 BNB"
       }
     ],
     "risk": null,
@@ -220,6 +220,7 @@
         }
       ],
       "steps": [
+        "Enjoy high rewards - Buy Low, Sell High",
         "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
         "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
       ],
@@ -515,11 +516,11 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9k",
+    "id": "auto_aHR0cHM6Ly94LmNvbS9t",
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：1793804148518883832",
+    "title": "binancezh 最新活动推文：2026359632344789199",
     "subtitle": "来自 @binancezh 的社媒活动线索",
     "tags": [
       "X活动",
@@ -551,12 +552,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：1793804148518883832"
+          "v": "binancezh 最新活动推文：2026359632344789199"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/dotey/status/1793804148518883832",
+          "link": "https://x.com/monad_dev/status/2026359632344789199",
           "lv": "前往原文"
         }
       ],
