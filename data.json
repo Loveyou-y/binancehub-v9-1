@@ -137,8 +137,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "earn"
+        "l": "奖励线索",
+        "v": "70 BNB"
       }
     ],
     "risk": null,
@@ -162,7 +162,10 @@
         }
       ],
       "steps": [
-        "Binance Earn: Enjoy Up to 6% APR on U Flexible Products — Exclusive 7% APR for …"
+        "Subscribe at any time and start earning rewards.",
+        "Lock assets for a fixed term and earn higher rewards",
+        "Rewards Distribution Timeline",
+        "Launchpool & Megadrop Rewards"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -405,7 +408,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "重点活动",
+    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -421,8 +424,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "social"
+        "l": "奖励线索",
+        "v": "44 BNB"
       }
     ],
     "risk": null,
@@ -446,10 +449,10 @@
         }
       ],
       "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
+        "Published Time: 2026-03-04T07:00:17.000Z",
+        "## Relevant people",
+        "[![Image 10: Avatar](https://pbs.twimg.com/profile_images/1815972658640740354/R…",
+        "[币安Binance华语@binancezh](http://x.com/binancezh)[Follow](http://x.com/i/jf/onboa…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
