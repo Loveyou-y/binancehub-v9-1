@@ -162,7 +162,10 @@
         }
       ],
       "steps": [
-        "Binance Earn: Enjoy Up to 6% APR on U Flexible Products — Exclusive 7% APR for …"
+        "Subscribe at any time and start earning rewards.",
+        "Lock assets for a fixed term and earn higher rewards",
+        "Rewards Distribution Timeline",
+        "Launchpool & Megadrop Rewards"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -291,7 +294,7 @@
     "cat": "welfare",
     "emoji": "🎁",
     "title": "邀请赚币 · Refer2Earn USDC",
-    "subtitle": "{\"code\":\"ERR_WORKER_OUT_OF_MEMORY\",\"status\":50000,\"message\":\"Worker terminated due to reaching memory limit: JS heap out of memory\",\"name\":\"Error\"}",
+    "subtitle": "URL Source: http://www.binance.com/zh-CN/referral/earn-together/refer2earn-usdc",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -307,8 +310,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "类型",
-        "v": "welfare"
+        "l": "奖励线索",
+        "v": "$1,000 "
       }
     ],
     "risk": null,
@@ -332,10 +335,8 @@
         }
       ],
       "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
+        "*   [ETH 质押](https://www.binance.com/zh-CN/eth2)",
+        "*   [邀请奖励](https://www.binance.com/zh-CN/activity/referral)"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
