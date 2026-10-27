@@ -162,7 +162,10 @@
         }
       ],
       "steps": [
-        "Binance Earn: Enjoy Up to 6% APR on U Flexible Products — Exclusive 7% APR for …"
+        "Subscribe at any time and start earning rewards.",
+        "Lock assets for a fixed term and earn higher rewards",
+        "Rewards Distribution Timeline",
+        "Launchpool & Megadrop Rewards"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -405,7 +408,7 @@
     "cat": "social",
     "emoji": "📣",
     "title": "龙虾大赛 · BinanceZH X 活动",
-    "subtitle": "URL Source: http://x.com/binancezh/status/2029089532436726036?s=20",
+    "subtitle": "重点活动",
     "tags": [
       "重点活动",
       "官方链接解析",
@@ -421,8 +424,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": "44 BNB"
+        "l": "类型",
+        "v": "social"
       }
     ],
     "risk": null,
@@ -446,10 +449,10 @@
         }
       ],
       "steps": [
-        "Published Time: 2026-03-04T07:00:17.000Z",
-        "Warning: Target URL returned error 403: Forbidden",
-        "## Relevant people",
-        "[](http://x.com/binancezh)"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1680,6 +1683,122 @@
     "code": "",
     "cat": "trade",
     "emoji": "📈",
+    "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-30)",
+    "subtitle": "自动抓取 · 2026-10-27",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-30)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/5b6849270abd4e41a98d94abbf7b28f0",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance to Adjust Leverage on Select Isolated Margin Trading Pairs",
+    "subtitle": "自动抓取 · 2026-10-27",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance to Adjust Leverage on Select Isolated Margin Trading Pairs"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/98f858ce2402474a88369532d54494ef",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
     "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-10-28)",
     "subtitle": "自动抓取 · 2026-10-27",
     "tags": [
@@ -2704,122 +2823,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/7157d432816e455dbf9fe7f3e452b0cf",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-16)",
-    "subtitle": "自动抓取 · 2026-10-13",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-16)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/79f36518401b4187b46d52e87bb2c286",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-10-16)",
-    "subtitle": "自动抓取 · 2026-10-13",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-10-16)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/05022e46363c4b17bbe81c5600f13526",
           "lv": "前往原文"
         }
       ],
@@ -3998,6 +4001,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Notice of Removal of Spot Trading Pairs - 2026-10-30",
+    "subtitle": "自动抓取 · 2026-10-27",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice of Removal of Spot Trading Pairs - 2026-10-30"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/de45689cbd7b4e1fa87055cdf5a85997",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Notice of Removal of Margin Trading Pairs - 2026-10-30",
+    "subtitle": "自动抓取 · 2026-10-27",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice of Removal of Margin Trading Pairs - 2026-10-30"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/b4015154ce33445ebf7b98d1bc12c072",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Binance Alpha Will Remove PTB, AA, OWL, DORA, ELIZAOS, MEMES, 哭哭马  (2026-10-23)",
@@ -5024,122 +5143,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/6f1643be398749c5b79ac876e10df3d7",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Delist ICX, SCRT, STORJ on 2026-09-03",
-    "subtitle": "自动抓取 · 2026-08-20",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Delist ICX, SCRT, STORJ on 2026-09-03"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/d72915ed7a60473b92f0818d959a227a",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Notice of Removal of Spot Trading Pairs - 2026-08-21",
-    "subtitle": "自动抓取 · 2026-08-18",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Notice of Removal of Spot Trading Pairs - 2026-08-21"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/fab1676df7fb464a9e4634c6f777659e",
           "lv": "前往原文"
         }
       ],
@@ -9798,6 +9801,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-16)",
+    "subtitle": "自动抓取 · 2026-10-13",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-16)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/79f36518401b4187b46d52e87bb2c286",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-10-16)",
+    "subtitle": "自动抓取 · 2026-10-13",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-10-16)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/05022e46363c4b17bbe81c5600f13526",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Notice on the Closure of Binance Pool Services",
@@ -10824,122 +10943,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/01cbe42ead1e4f1a9382363754d2eb5a",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-25)",
-    "subtitle": "自动抓取 · 2026-09-22",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-25)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/fdb068f493444efba6cc979dec9a3955",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-09-25)",
-    "subtitle": "自动抓取 · 2026-09-22",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-09-25)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/de15b9501a8f43e1aece2cbe7f3809de",
           "lv": "前往原文"
         }
       ],
@@ -12118,6 +12121,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Delist ICX, SCRT, STORJ on 2026-09-03",
+    "subtitle": "自动抓取 · 2026-08-20",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Delist ICX, SCRT, STORJ on 2026-09-03"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/d72915ed7a60473b92f0818d959a227a",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Notice of Removal of Spot Trading Pairs - 2026-08-21",
+    "subtitle": "自动抓取 · 2026-08-18",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Notice of Removal of Spot Trading Pairs - 2026-08-21"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/fab1676df7fb464a9e4634c6f777659e",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Notice of Removal of Margin Trading Pairs - 2026-08-21",
@@ -13144,122 +13263,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/5a086ab9b6844ebd89838fbc8e5ac266",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Margin And Loan Will Delist HOT, THE on 2026-07-03",
-    "subtitle": "自动抓取 · 2026-06-29",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Margin And Loan Will Delist HOT, THE on 2026-07-03"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/b703403f123b4d95af7222431d053c7c",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Binance Will Delist ALCX, ARDR, NFP, POND on 2026-07-10",
-    "subtitle": "自动抓取 · 2026-06-26",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Delist ALCX, ARDR, NFP, POND on 2026-07-10"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/a9c1a7bb97064c69a660316bff39f2bd",
           "lv": "前往原文"
         }
       ],
@@ -17918,6 +17921,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-25)",
+    "subtitle": "自动抓取 · 2026-09-22",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-09-25)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/fdb068f493444efba6cc979dec9a3955",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-09-25)",
+    "subtitle": "自动抓取 · 2026-09-22",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-09-25)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/de15b9501a8f43e1aece2cbe7f3809de",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Binance Will Support the Direxion Daily Semiconductor Bull 3X Shares (SOXL) Cash Dividend Distribution via bStocks",
@@ -18944,122 +19063,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/67d127357c034cbd9945abbff1c8ceb5",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Collateral Ratio & Leverage Under Cross Margin and Portfolio Margin (2026-09-11)",
-    "subtitle": "自动抓取 · 2026-09-08",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Collateral Ratio & Leverage Under Cross Margin and Portfolio Margin (2026-09-11)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/58b63eb8dd664487910a7cdcb7fc0c23",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-09-12)",
-    "subtitle": "自动抓取 · 2026-09-08",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Update on the Margin Tiers of USDⓈ-M Perpetual Contracts (2026-09-12)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/2adc4f459022496db814a96b93215a1e",
           "lv": "前往原文"
         }
       ],
