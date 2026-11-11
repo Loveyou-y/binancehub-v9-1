@@ -519,18 +519,18 @@
     }
   },
   {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binancezh 最新活动推文：2120141370681938403",
-    "subtitle": "来自 @binancezh 的社媒活动线索",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Launch USDⓈ-Margined HYPEUSDC and TRXUSDC Perpetual Contracts (2026-11-16)",
+    "subtitle": "自动抓取 · 2026-11-11",
     "tags": [
-      "X活动",
+      "自动抓取",
       "官方链接解析",
-      "social"
+      "trade"
     ],
-    "ico": "var(--cs)",
+    "ico": "var(--bs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -541,204 +541,34 @@
       },
       {
         "l": "类型",
-        "v": "social"
+        "v": "trade"
       }
     ],
-    "risk": null,
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
     "subscribed": false,
     "drawer": {
       "tags": [
-        "X活动",
+        "自动抓取",
         "Binance"
       ],
       "details": [
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2120141370681938403"
+          "v": "Binance Futures Will Launch USDⓈ-Margined HYPEUSDC and TRXUSDC Perpetual Contracts (2026-11-16)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binancezh/status/2120141370681938403",
+          "link": "https://www.binance.com/en/support/announcement/detail/2d89a5966b174a2689ab2c2a15db1757",
           "lv": "前往原文"
         }
       ],
       "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binancezh 最新活动推文：2120139941498003471",
-    "subtitle": "来自 @binancezh 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "binancezh 最新活动推文：2120139941498003471"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/bstocksfinance/status/2120139941498003471",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binancezh 最新活动推文：2120116551475233119",
-    "subtitle": "来自 @binancezh 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "binancezh 最新活动推文：2120116551475233119"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/binancezh/status/2120116551475233119",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binancezh 最新活动推文：2120087753295855713",
-    "subtitle": "来自 @binancezh 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "binancezh 最新活动推文：2120087753295855713"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/binancezh/status/2120087753295855713",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -1851,10 +1681,126 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Earn Yield Arena: Earn Up to 20% APR With This Week’s New Limited-Time Offers! (2026-11-11)",
+    "subtitle": "自动抓取 · 2026-11-11",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Earn Yield Arena: Earn Up to 20% APR With This Week’s New Limited-Time Offers! (2026-11-11)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/ab1d0c86a83e4e7bbb89be0acd517106",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Will Support Sandisk Corporation (SNDK) 8-for-1 Forward Stock Split via bStocks",
+    "subtitle": "自动抓取 · 2026-11-11",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Support Sandisk Corporation (SNDK) 8-for-1 Forward Stock Split via bStocks"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/ec32e6657ae341b3b57f1b154c330c6d",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-29)",
-    "subtitle": "自动抓取 · 2026-09-29",
+    "title": "Binance Futures Will Adjust The Contract Size of USDⓈ-Margined SNDKUSDT Perpetual Contract (2026-11-20)",
+    "subtitle": "自动抓取 · 2026-11-11",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -1885,12 +1831,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-29)"
+          "v": "Binance Futures Will Adjust The Contract Size of USDⓈ-Margined SNDKUSDT Perpetual Contract (2026-11-20)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/0c6ea14ba89b451db6ec9ec364045d22",
+          "link": "https://www.binance.com/en/support/announcement/detail/45119cc3b6ef4eb8b116057df3895279",
           "lv": "前往原文"
         }
       ],
@@ -2895,16 +2841,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Predict (PREDICT) Listing Will Be Postponed",
-    "subtitle": "自动抓取 · 2026-10-30",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Fund Your First Recurring Buy - Deposit USD and Earn Rewards",
+    "subtitle": "自动抓取 · 2026-11-11",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "welfare"
+      "earn"
     ],
-    "ico": "var(--os)",
+    "ico": "var(--grs)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -2915,7 +2861,7 @@
       },
       {
         "l": "类型",
-        "v": "welfare"
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -2929,128 +2875,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Predict (PREDICT) Listing Will Be Postponed"
+          "v": "Fund Your First Recurring Buy - Deposit USD and Earn Rewards"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/eb1fb9e5f41f43b682332aff0b7b89ce",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Security Incident Update (2026-10-30)",
-    "subtitle": "自动抓取 · 2026-10-30",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Security Incident Update (2026-10-30)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "launch",
-    "emoji": "🪂",
-    "title": "Important Notice on PREDICT Airdrop Token Allocation",
-    "subtitle": "自动抓取 · 2026-10-28",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "launch"
-    ],
-    "ico": "var(--gs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "launch"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Important Notice on PREDICT Airdrop Token Allocation"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/58d55610f5954d6c867bfa71658585dd",
+          "link": "https://www.binance.com/en/support/announcement/detail/252d3a2cb7a847428699458241796399",
           "lv": "前往原文"
         }
       ],
@@ -4153,64 +3983,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/64ebe376c713448cb62e156c9cfff286",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "South Asia Exclusive: Join the SpaceX Button Game and Win $10,000 Worth of SPCXB",
-    "subtitle": "自动抓取 · 2026-10-27",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "South Asia Exclusive: Join the SpaceX Button Game and Win $10,000 Worth of SPCXB"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/778907fd5bab4fa2afb4980b569b6707",
           "lv": "前往原文"
         }
       ],
@@ -8869,6 +8641,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "trade",
+    "emoji": "📈",
+    "title": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-29)",
+    "subtitle": "自动抓取 · 2026-09-29",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "trade"
+    ],
+    "ico": "var(--bs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "trade"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-09-29)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/0c6ea14ba89b451db6ec9ec364045d22",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Binance Adds 5 Stocks on Binance Stock Trading - 2026-09-28",
@@ -9971,16 +9801,16 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin",
-    "subtitle": "自动抓取 · 2026-09-09",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Predict (PREDICT) Listing Will Be Postponed",
+    "subtitle": "自动抓取 · 2026-10-30",
     "tags": [
       "自动抓取",
       "官方链接解析",
-      "earn"
+      "welfare"
     ],
-    "ico": "var(--grs)",
+    "ico": "var(--os)",
     "deadlineSoon": false,
     "deadline": "公告更新",
     "nums": [
@@ -9991,10 +9821,10 @@
       },
       {
         "l": "类型",
-        "v": "earn"
+        "v": "welfare"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -10005,12 +9835,128 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin"
+          "v": "Predict (PREDICT) Listing Will Be Postponed"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/39fe3154675948fbb164b1e63e036629",
+          "link": "https://www.binance.com/en/support/announcement/detail/eb1fb9e5f41f43b682332aff0b7b89ce",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Security Incident Update (2026-10-30)",
+    "subtitle": "自动抓取 · 2026-10-30",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Security Incident Update (2026-10-30)"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "launch",
+    "emoji": "🪂",
+    "title": "Important Notice on PREDICT Airdrop Token Allocation",
+    "subtitle": "自动抓取 · 2026-10-28",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "launch"
+    ],
+    "ico": "var(--gs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "launch"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Important Notice on PREDICT Airdrop Token Allocation"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/58d55610f5954d6c867bfa71658585dd",
           "lv": "前往原文"
         }
       ],
@@ -11015,68 +10961,10 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Binance Square is Upgrading Write to Earn – Create Engaging Content, Grow Your Community, and Earn More",
-    "subtitle": "自动抓取 · 2026-10-19",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Square is Upgrading Write to Earn – Create Engaging Content, Grow Your Community, and Earn More"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/d9c84b68e9ab4ef29bee0cc53dfdabd2",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
-    "title": "Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available",
-    "subtitle": "自动抓取 · 2026-10-15",
+    "title": "South Asia Exclusive: Join the SpaceX Button Game and Win $10,000 Worth of SPCXB",
+    "subtitle": "自动抓取 · 2026-10-27",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -11107,70 +10995,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available"
+          "v": "South Asia Exclusive: Join the SpaceX Button Game and Win $10,000 Worth of SPCXB"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/9fe16193d2ca442ca4d0fca0d608c910",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Binance Updates Limited-Time Promotion for bStocks in Spot Liquidity Provider Program (2026-10-19)",
-    "subtitle": "自动抓取 · 2026-10-15",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Updates Limited-Time Promotion for bStocks in Spot Liquidity Provider Program (2026-10-19)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/74f92a17a4c84cf09c692a6010362c27",
+          "link": "https://www.binance.com/en/support/announcement/detail/778907fd5bab4fa2afb4980b569b6707",
           "lv": "前往原文"
         }
       ],
@@ -12273,64 +12103,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/03c90cc937d147af87243939d684fecb",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Spot Trading Tournament Season 5: Trade to Share Up to 400 BNB Token Vouchers",
-    "subtitle": "自动抓取 · 2026-10-14",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Spot Trading Tournament Season 5: Trade to Share Up to 400 BNB Token Vouchers"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/773a0c47b8c94b4dbbbafb399633fec0",
           "lv": "前往原文"
         }
       ],
@@ -16989,6 +16761,64 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin",
+    "subtitle": "自动抓取 · 2026-09-09",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Will Add 牛来 (牛来) on Earn, Buy Crypto, Convert, VIP Loan & Margin"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/39fe3154675948fbb164b1e63e036629",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "welfare",
     "emoji": "🎁",
     "title": "Binance Will List 牛来 (牛来) with Seed Tag Applied",
@@ -18091,10 +17921,126 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Binance Square is Upgrading Write to Earn – Create Engaging Content, Grow Your Community, and Earn More",
+    "subtitle": "自动抓取 · 2026-10-19",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Square is Upgrading Write to Earn – Create Engaging Content, Grow Your Community, and Earn More"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/d9c84b68e9ab4ef29bee0cc53dfdabd2",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available",
+    "subtitle": "自动抓取 · 2026-10-15",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/9fe16193d2ca442ca4d0fca0d608c910",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
-    "title": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-25)",
-    "subtitle": "自动抓取 · 2026-08-25",
+    "title": "Binance Updates Limited-Time Promotion for bStocks in Spot Liquidity Provider Program (2026-10-19)",
+    "subtitle": "自动抓取 · 2026-10-15",
     "tags": [
       "自动抓取",
       "官方链接解析",
@@ -18114,7 +18060,7 @@
         "v": "trade"
       }
     ],
-    "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
+    "risk": null,
     "subscribed": false,
     "drawer": {
       "tags": [
@@ -18125,12 +18071,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "Binance Futures Will Launch Multiple USDⓈ-Margined TradFi Perpetual Contracts (2026-08-25)"
+          "v": "Binance Updates Limited-Time Promotion for bStocks in Spot Liquidity Provider Program (2026-10-19)"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/bda2e5ae3e3d46718a14a493521f6078",
+          "link": "https://www.binance.com/en/support/announcement/detail/74f92a17a4c84cf09c692a6010362c27",
           "lv": "前往原文"
         }
       ],
@@ -19117,180 +19063,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/fd194d0fda6e44f2af6bc6333f61600f",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "launch",
-    "emoji": "🪂",
-    "title": "Binance Will Support the SpaceX (SPCXB) Airdrop for MarsCoin (MARSCOIN) Holders and the Invesco QQQ Trust (QQQB) Airdro…",
-    "subtitle": "自动抓取 · 2026-09-28",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "launch"
-    ],
-    "ico": "var(--gs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "launch"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Binance Will Support the SpaceX (SPCXB) Airdrop for MarsCoin (MARSCOIN) Holders and the Invesco QQQ Trust (QQQB) Airdrop for 牛来 (牛来) Holders"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/1ea1d5c29a0a4c2c8c7f4c4e947c07f2",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "trade",
-    "emoji": "📈",
-    "title": "Trade KES with Zero Fees on Binance P2P for a Limited Time",
-    "subtitle": "自动抓取 · 2026-09-24",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "trade"
-    ],
-    "ico": "var(--bs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "trade"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Trade KES with Zero Fees on Binance P2P for a Limited Time"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/723a243a436148368e631a93b7a056b2",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Introducing Hold to Earn: Earn Up to 4.75% APR by Holding U, USDe, and USDS in Binance Wallet",
-    "subtitle": "自动抓取 · 2026-09-23",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Introducing Hold to Earn: Earn Up to 4.75% APR by Holding U, USDe, and USDS in Binance Wallet"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/e9841ff40041405e8bf164b43e89289f",
           "lv": "前往原文"
         }
       ],
