@@ -138,7 +138,7 @@
       },
       {
         "l": "奖励线索",
-        "v": "$500,000 "
+        "v": "800 USDT"
       }
     ],
     "risk": null,
@@ -162,10 +162,8 @@
         }
       ],
       "steps": [
-        "Subscribe at any time and start earning rewards.",
-        "Lock assets for a fixed term and earn higher rewards",
-        "Rewards Distribution Timeline",
-        "Launchpool & Megadrop Rewards"
+        "Final URL: https://www.binance.com/en/earn/simple-earn",
+        "Binance Earn: Enjoy Up to 5% APR with USDC and USDT Flexible Products (2026-11-…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -220,6 +218,7 @@
         }
       ],
       "steps": [
+        "Enjoy high rewards - Buy Low, Sell High",
         "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
         "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
       ],
@@ -482,7 +481,7 @@
       },
       {
         "l": "奖励线索",
-        "v": "30,000 USDT"
+        "v": "5,000 USDT"
       }
     ],
     "risk": "⚠️ 含风险产品，请先确认规则与风险承受能力",
@@ -506,10 +505,10 @@
         }
       ],
       "steps": [
-        "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
-        "排名为动态，如有违规参与者将被移除。",
-        "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
-        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
+        "*   参赛用户须使用 币安钱包（无私钥钱包） 完成报名，并通过 币安钱包（网页版） 进行链上合约交易。通过第三方 DApp 或非无私钥钱包产生的交易将不被计…",
+        "*   用户完成活动注册后所产生的合约交易量，方可计为本活动的有效参赛交易量。",
+        "*   活动期间产生的所有永续合约交易量，均将按照 Aster 积分规则获得 Aster 积分，并计入 Aster 的交易竞赛及奖励活动。如需了解更多关于 A…",
+        "*   活动期间，用户的个人合约交易量须达到至少 5,000 USDT（股票代币交易量不计入），且最终计算的奖励金额须 大于或等于 1 USDT，方可参与奖励…"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -522,7 +521,7 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：2123734072791113758",
+    "title": "binancezh 最新活动推文：2124797974815654391",
     "subtitle": "来自 @binancezh 的社媒活动线索",
     "tags": [
       "X活动",
@@ -554,12 +553,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2123734072791113758"
+          "v": "binancezh 最新活动推文：2124797974815654391"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binancezh/status/2123734072791113758",
+          "link": "https://x.com/binancezh/status/2124797974815654391",
           "lv": "前往原文"
         }
       ],
@@ -579,7 +578,7 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：2123695469130088851",
+    "title": "binancezh 最新活动推文：2124781928830345328",
     "subtitle": "来自 @binancezh 的社媒活动线索",
     "tags": [
       "X活动",
@@ -611,12 +610,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2123695469130088851"
+          "v": "binancezh 最新活动推文：2124781928830345328"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binancezh/status/2123695469130088851",
+          "link": "https://x.com/binancezh/status/2124781928830345328",
           "lv": "前往原文"
         }
       ],
@@ -636,7 +635,7 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：2123664718393135219",
+    "title": "binancezh 最新活动推文：2124759856142037269",
     "subtitle": "来自 @binancezh 的社媒活动线索",
     "tags": [
       "X活动",
@@ -668,12 +667,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2123664718393135219"
+          "v": "binancezh 最新活动推文：2124759856142037269"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binancezh/status/2123664718393135219",
+          "link": "https://x.com/binancezh/status/2124759856142037269",
           "lv": "前往原文"
         }
       ],
@@ -693,7 +692,7 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：2123511333102694678",
+    "title": "binancezh 最新活动推文：2124725358423584801",
     "subtitle": "来自 @binancezh 的社媒活动线索",
     "tags": [
       "X活动",
@@ -725,12 +724,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2123511333102694678"
+          "v": "binancezh 最新活动推文：2124725358423584801"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binancezh/status/2123511333102694678",
+          "link": "https://x.com/binancezh/status/2124725358423584801",
           "lv": "前往原文"
         }
       ],
@@ -750,8 +749,8 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binancezh 最新活动推文：2123465166167961859",
-    "subtitle": "来自 @binancezh 的社媒活动线索",
+    "title": "binance 最新活动推文：2124793338926633363",
+    "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
       "X活动",
       "官方链接解析",
@@ -782,12 +781,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binancezh 最新活动推文：2123465166167961859"
+          "v": "binance 最新活动推文：2124793338926633363"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binancezh/status/2123465166167961859",
+          "link": "https://x.com/binance/status/2124793338926633363",
           "lv": "前往原文"
         }
       ],
@@ -959,63 +958,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://x.com/binance/status/2124386296282087535",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原推文",
-        "按要求完成互动",
-        "等待官方开奖/发放"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly94LmNvbS9i",
-    "code": "",
-    "cat": "social",
-    "emoji": "📣",
-    "title": "binance 最新活动推文：2124080613791543737",
-    "subtitle": "来自 @binance 的社媒活动线索",
-    "tags": [
-      "X活动",
-      "官方链接解析",
-      "social"
-    ],
-    "ico": "var(--cs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "social"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "X活动",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "binance 最新活动推文：2124080613791543737"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://x.com/binance/status/2124080613791543737",
           "lv": "前往原文"
         }
       ],
@@ -3353,6 +3295,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "newbie",
+    "emoji": "👛",
+    "title": "Share Your Agentic Wallet Experience for Rewards",
+    "subtitle": "自动抓取 · 2026-11-23",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "newbie"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "newbie"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Share Your Agentic Wallet Experience for Rewards"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/25e018b13a394e609d25cf66a0db0faa",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Word of the Day: Test Your Knowledge on “TradFi Products on Binance” to Unlock BNB Rewards!",
+    "subtitle": "自动抓取 · 2026-11-23",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Word of the Day: Test Your Knowledge on “TradFi Products on Binance” to Unlock BNB Rewards!"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/f4e10dc4e2d643eab9e98f89589f77cc",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Binance Alpha Trading Competition: Trade Pieverse (PIEVERSE) and Share $200K Worth of Rewards (2026-11-20)",
@@ -4379,122 +4437,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/56549e5045354813bbf8234d34fe8959",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Word of the Day: Test Your Knowledge on “Stock Options Got Better” to Unlock BNB Rewards!",
-    "subtitle": "自动抓取 · 2026-11-16",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Word of the Day: Test Your Knowledge on “Stock Options Got Better” to Unlock BNB Rewards!"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/e1416125fa44407f92af70b594b215a3",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "earn",
-    "emoji": "💰",
-    "title": "Africa Mobile Money Buy Crypto: Unlock a 20% Bonus Tiered APR on USDC Simple Earn Flexible",
-    "subtitle": "自动抓取 · 2026-11-16",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "earn"
-    ],
-    "ico": "var(--grs)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "earn"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Africa Mobile Money Buy Crypto: Unlock a 20% Bonus Tiered APR on USDC Simple Earn Flexible"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/3de1570577714ebea0ef67ab4aad554a",
           "lv": "前往原文"
         }
       ],
@@ -11473,6 +11415,122 @@
   {
     "id": "auto_aHR0cHM6Ly93d3cuYmlu",
     "code": "",
+    "cat": "welfare",
+    "emoji": "🎁",
+    "title": "Word of the Day: Test Your Knowledge on “Stock Options Got Better” to Unlock BNB Rewards!",
+    "subtitle": "自动抓取 · 2026-11-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "welfare"
+    ],
+    "ico": "var(--os)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "welfare"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Word of the Day: Test Your Knowledge on “Stock Options Got Better” to Unlock BNB Rewards!"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/e1416125fa44407f92af70b594b215a3",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
+    "cat": "earn",
+    "emoji": "💰",
+    "title": "Africa Mobile Money Buy Crypto: Unlock a 20% Bonus Tiered APR on USDC Simple Earn Flexible",
+    "subtitle": "自动抓取 · 2026-11-16",
+    "tags": [
+      "自动抓取",
+      "官方链接解析",
+      "earn"
+    ],
+    "ico": "var(--grs)",
+    "deadlineSoon": false,
+    "deadline": "公告更新",
+    "nums": [
+      {
+        "l": "来源",
+        "v": "Binance BAPI",
+        "c": "var(--gold)"
+      },
+      {
+        "l": "类型",
+        "v": "earn"
+      }
+    ],
+    "risk": null,
+    "subscribed": false,
+    "drawer": {
+      "tags": [
+        "自动抓取",
+        "Binance"
+      ],
+      "details": [
+        {
+          "i": "📰",
+          "l": "活动标题",
+          "v": "Africa Mobile Money Buy Crypto: Unlock a 20% Bonus Tiered APR on USDC Simple Earn Flexible"
+        },
+        {
+          "i": "🔗",
+          "l": "官方链接",
+          "link": "https://www.binance.com/en/support/announcement/detail/3de1570577714ebea0ef67ab4aad554a",
+          "lv": "前往原文"
+        }
+      ],
+      "steps": [
+        "打开原文页面",
+        "确认参与资格",
+        "确认活动周期",
+        "完成参与动作"
+      ],
+      "rules": [
+        "具体资格/时间/奖励请以官方页面为准"
+      ],
+      "est": "5-10 分钟"
+    }
+  },
+  {
+    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
+    "code": "",
     "cat": "trade",
     "emoji": "📈",
     "title": "Binance Alpha Trading Competition: Trade Collect on Fanable (COLLECT) and Share $200K Worth of Rewards (2026-11-13)",
@@ -12499,122 +12557,6 @@
           "i": "🔗",
           "l": "官方链接",
           "link": "https://www.binance.com/en/support/announcement/detail/21a8f2b008094727b8b32356af62bf1e",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "Hold USD1 to Share 120 Million WLFI Tokens, Plus Up to 2.5 Million USD1 for New Holdings (2026-10-30)",
-    "subtitle": "自动抓取 · 2026-10-29",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "Hold USD1 to Share 120 Million WLFI Tokens, Plus Up to 2.5 Million USD1 for New Holdings (2026-10-30)"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/59f28e09ce8e4f01804aac4699bedaff",
-          "lv": "前往原文"
-        }
-      ],
-      "steps": [
-        "打开原文页面",
-        "确认参与资格",
-        "确认活动周期",
-        "完成参与动作"
-      ],
-      "rules": [
-        "具体资格/时间/奖励请以官方页面为准"
-      ],
-      "est": "5-10 分钟"
-    }
-  },
-  {
-    "id": "auto_aHR0cHM6Ly93d3cuYmlu",
-    "code": "",
-    "cat": "welfare",
-    "emoji": "🎁",
-    "title": "CIS & CEE Exclusive: Binance P2P Launches Merchant Referral Program",
-    "subtitle": "自动抓取 · 2026-10-29",
-    "tags": [
-      "自动抓取",
-      "官方链接解析",
-      "welfare"
-    ],
-    "ico": "var(--os)",
-    "deadlineSoon": false,
-    "deadline": "公告更新",
-    "nums": [
-      {
-        "l": "来源",
-        "v": "Binance BAPI",
-        "c": "var(--gold)"
-      },
-      {
-        "l": "类型",
-        "v": "welfare"
-      }
-    ],
-    "risk": null,
-    "subscribed": false,
-    "drawer": {
-      "tags": [
-        "自动抓取",
-        "Binance"
-      ],
-      "details": [
-        {
-          "i": "📰",
-          "l": "活动标题",
-          "v": "CIS & CEE Exclusive: Binance P2P Launches Merchant Referral Program"
-        },
-        {
-          "i": "🔗",
-          "l": "官方链接",
-          "link": "https://www.binance.com/en/support/announcement/detail/dd153f41ce804419a0e4429a974115ca",
           "lv": "前往原文"
         }
       ],
