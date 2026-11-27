@@ -138,7 +138,7 @@
       },
       {
         "l": "奖励线索",
-        "v": "800 USDT"
+        "v": "$500,000 "
       }
     ],
     "risk": null,
@@ -162,7 +162,10 @@
         }
       ],
       "steps": [
-        "New Users Exclusive: Subscribe to USDT Simple Earn Flexible Products to Enjoy 3…"
+        "Subscribe at any time and start earning rewards.",
+        "Lock assets for a fixed term and earn higher rewards",
+        "Rewards Distribution Timeline",
+        "Launchpool & Megadrop Rewards"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -192,8 +195,8 @@
         "c": "var(--gold)"
       },
       {
-        "l": "奖励线索",
-        "v": ", BNB"
+        "l": "类型",
+        "v": "earn"
       }
     ],
     "risk": null,
@@ -217,9 +220,10 @@
         }
       ],
       "steps": [
-        "Enjoy high rewards - Buy Low, Sell High",
-        "Discount Buy is a high-yield structured product that allows you to buy cryptocu…",
-        "・High Rewards: If the purchase is not filled, you still earn attractive rewards…"
+        "Final URL: https://www.binance.com/en/earn/advanced-earn",
+        "[![Image 1: Binance](blob:http://localhost/84b12d13814b731cb4fde89b9004be5f)](h…",
+        "[Markets](https://www.binance.com/en/markets/overview)",
+        "[Square](https://www.binance.com/en/square)"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -507,7 +511,7 @@
         "个人奖励 = (用户有效个人合约交易量 / 全平台有效总合约交易量) * 总奖池",
         "排名为动态，如有违规参与者将被移除。",
         "排行榜仅显示基于当前交易量排名前 100 的用户。如需查看您的奖励，请前往【我的统计数据】-【预计奖励】。",
-        "报名时间：2026-03-11 12:00:00 至 2026-03-25 12:00:00"
+        "报名时间：2026-03-11 08:00:00 至 2026-03-25 08:00:00"
       ],
       "rules": [
         "具体资格/时间/奖励请以官方页面为准"
@@ -805,7 +809,7 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binance 最新活动推文：2126024872773951938",
+    "title": "binance 最新活动推文：2126451008452567462",
     "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
       "X活动",
@@ -837,12 +841,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binance 最新活动推文：2126024872773951938"
+          "v": "binance 最新活动推文：2126451008452567462"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binance/status/2126024872773951938",
+          "link": "https://x.com/binance/status/2126451008452567462",
           "lv": "前往原文"
         }
       ],
@@ -862,7 +866,7 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binance 最新活动推文：2126307557782266295",
+    "title": "binance 最新活动推文：2126435899583996211",
     "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
       "X活动",
@@ -894,12 +898,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binance 最新活动推文：2126307557782266295"
+          "v": "binance 最新活动推文：2126435899583996211"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binance/status/2126307557782266295",
+          "link": "https://x.com/binance/status/2126435899583996211",
           "lv": "前往原文"
         }
       ],
@@ -919,7 +923,7 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binance 最新活动推文：2126292460334649485",
+    "title": "binance 最新活动推文：2126420818578010299",
     "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
       "X活动",
@@ -951,12 +955,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binance 最新活动推文：2126292460334649485"
+          "v": "binance 最新活动推文：2126420818578010299"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binance/status/2126292460334649485",
+          "link": "https://x.com/binance/status/2126420818578010299",
           "lv": "前往原文"
         }
       ],
@@ -976,7 +980,7 @@
     "code": "",
     "cat": "social",
     "emoji": "📣",
-    "title": "binance 最新活动推文：2126277640940388422",
+    "title": "binance 最新活动推文：2126390603500130757",
     "subtitle": "来自 @binance 的社媒活动线索",
     "tags": [
       "X活动",
@@ -1008,12 +1012,12 @@
         {
           "i": "📰",
           "l": "活动标题",
-          "v": "binance 最新活动推文：2126277640940388422"
+          "v": "binance 最新活动推文：2126390603500130757"
         },
         {
           "i": "🔗",
           "l": "官方链接",
-          "link": "https://x.com/binance/status/2126277640940388422",
+          "link": "https://x.com/binance/status/2126390603500130757",
           "lv": "前往原文"
         }
       ],
